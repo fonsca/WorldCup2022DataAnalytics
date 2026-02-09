@@ -30,32 +30,19 @@ body {
 /* --- ESTILO DO CAMPO DE FUTEBOL --- */
 #campo-futebol {
     width: 100%;
-    height: 400px;
-    background-color: #2e7d32; /* Verde gramado */
-    position: relative; /* Importante para as bolinhas absolutas */
-    border: 2px solid white;
+    height: 500px; /* Aumentei um pouco */
+    /* Imagem de um campo tático padrão StatsBomb/Wyscout */
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/8/82/Soccer_Field_Transparant.svg');
+    background-size: cover;
+    background-position: center;
+    background-color: #4CAF50; /* Cor de fundo caso a imagem demore */
+    position: relative;
+    border: 2px solid #333;
     border-radius: 4px;
-    overflow: hidden;
 }
 
-/* Linhas do campo (simples) */
-.linha-meio {
-    position: absolute;
-    left: 50%;
-    height: 100%;
-    width: 2px;
-    background: rgba(255,255,255,0.5);
-}
-
-.circulo-central {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    width: 80px;
-    height: 80px;
-    border: 2px solid rgba(255,255,255,0.5);
-    border-radius: 50%;
+.linha-meio, .circulo-central, .area-esquerda, .area-direita {
+    display: none;
 }
 
 /* --- ESTILO DAS AÇÕES (BOLINHAS) --- */

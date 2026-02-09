@@ -9,10 +9,16 @@
 </head>
 <body>
 
-    <header>
-        <h1>Análise Tática: Copa 2022</h1>
-        <button onclick="carregarDados()">Carregar Dados da Partida (Demo)</button>
-    </header>
+<header>
+    <h1>Análise Tática: Final Copa 2022</h1>
+    <div class="controles">
+        <button onclick="carregarDados()">Carregar Partida</button>
+        
+        <select id="filtro-jogador" onchange="filtrarPorJogador()">
+            <option value="todos">Todos os Jogadores</option>
+        </select>
+    </div>
+</header>
 
     <main class="dashboard-container">
         
