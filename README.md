@@ -18,7 +18,7 @@ O objetivo foi simular o dia-a-dia de um Engenheiro de Dados e Cientista de Dado
 
 | Mapa Geral (Todos) | Filtro por Jogador | Análise de Eficiência (ML) |
 |:---:|:---:|:---:|
-| <img src="data/TodosJogadores.png" width="300"> | <img src="data/MapaFiltrado.png" width="300"> | <img src="data/URxVAEP.png" width="300"> |
+| <img src="World_Cup_2022_DataAnalytics/data/TodosJogadores.png" width="300"> | <img src="World_Cup_2022_DataAnalytics/data/MapaFiltrado.png" width="300"> | <img src="World_Cup_2022_DataAnalytics/data/URxVAEP.png" width="300"> |
 | *Visão tática global* | *Ações individuais* | *Clusterização Usage x VAEP* |
 
 ---
