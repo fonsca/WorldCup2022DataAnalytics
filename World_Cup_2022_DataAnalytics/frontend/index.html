@@ -10,32 +10,50 @@
 <body>
 
 <header>
-    <h1>Análise Tática: Final Copa 2022</h1>
+    <h1>Data WC 2022 ⚽</h1>
+    
     <div class="controles">
-        <button onclick="carregarDados()">Carregar Partida</button>
-        
+        <select id="selecao-partida" onchange="carregarDados()">
+            <option value="0">Carregando jogos...</option>
+        </select>
+
         <select id="filtro-jogador" onchange="filtrarPorJogador()">
             <option value="todos">Todos os Jogadores</option>
         </select>
+
+        <button onclick="carregarDados()">Atualizar Análise</button>
     </div>
 </header>
 
-    <main class="dashboard-container">
+<main class="dashboard-container">
         
         <section class="card">
-            <h2>Usage Rate (% de Posse)</h2>
+            <h2>Mapa de Ações (Campo Inteiro)</h2>
+            <div id="campo-futebol">
+                </div>
+        </section>
+
+        <section class="card">
+            <h2>Volume de Jogo (%)</h2>
             <div class="chart-container">
                 <canvas id="usageChart"></canvas>
             </div>
         </section>
 
-        <section class="card">
-            <h2>Mapa de Ações com a Bola</h2>
-            <div id="campo-futebol">
-                <div class="linha-meio"></div>
-                <div class="circulo-central"></div>
-                <div class="area-esquerda"></div>
-                <div class="area-direita"></div>
+        <section class="card tabela-card">
+            <h2>Estatísticas por Jogador</h2>
+            <div class="tabela-scroll">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Jogador</th>
+                            <th>Passes</th>
+                            <th>Finalizações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tabela-corpo">
+                        </tbody>
+                </table>
             </div>
         </section>
 
