@@ -1,5 +1,6 @@
 let dadosGlobais = []; // Guarda os dados para não recarregar
 let meuGrafico = null;
+let scatterChart = null; // Variável global
 
 // Ao carregar a página, busca a lista de jogos primeiro
 window.onload = async function() {
@@ -59,6 +60,7 @@ async function carregarDados() {
         // 1. Desenha tudo inicialmente
         plotarNoCampo(dadosGlobais);
         atualizarGrafico(dados.usage_rate);
+        atualizarScatter(dados.scatter_data);
 
         if (typeof atualizarTabela === "function") {
             atualizarTabela(dados.todos_jogadores);
@@ -196,5 +198,53 @@ function atualizarTabela(stats) {
         `;
         
         tbody.appendChild(tr);
+    });
+}
+
+function atualizarScatter(dadosScatter) {
+    const ctx = document.getElementById('scatterChart').getContext('2d');
+
+    if (scatterChart) scatterChart.destroy();
+
+    scatterChart = new Chart(ctx, {
+        type: 'scatter',
+        data: {
+            datasets: [{
+                label: 'Jogadores',
+                data: dadosScatter, // O formato já é {x: 10, y: 0.5, jogador: "Messi"}
+                backgroundColor: 'rgba(0, 255, 136, 0.6)', // Verde Neon
+                borderColor: 'rgba(255, 255, 255, 0.8)',
+                borderWidth: 1,
+                pointRadius: 6,
+                pointHoverRadius: 10
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            // Mostra o nome do jogador no mouseover
+                            let ponto = context.raw;
+                            return `${ponto.jogador}: Usage ${ponto.x}% | VAEP ${ponto.y}`;
+                        }
+                    }
+                },
+                legend: { display: false }
+            },
+            scales: {
+                x: {
+                    title: { display: true, text: 'Usage Rate (%)', color: 'white' },
+                    ticks: { color: 'white' },
+                    grid: { color: '#444' }
+                },
+                y: {
+                    title: { display: true, text: 'VAEP (Perigo Criado)', color: 'white' },
+                    ticks: { color: 'white' },
+                    grid: { color: '#444' }
+                }
+            }
+        }
     });
 }

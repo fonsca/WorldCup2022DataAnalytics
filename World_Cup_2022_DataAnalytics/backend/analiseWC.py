@@ -1,49 +1,86 @@
 from statsbombpy import sb
 import pandas as pd
+import numpy as np
+import xgboost as xgb # <--- O ML entra aqui
+from sklearn.preprocessing import LabelEncoder
 import random
 import warnings
 
-# Ignora avisos chatos da biblioteca
 warnings.filterwarnings("ignore")
 
 def listar_partidas():
-    """Baixa a lista de todos os jogos da Copa 2022"""
     try:
-        # 43 = Copa do Mundo, 106 = Temporada 2022
         df_matches = sb.matches(competition_id=43, season_id=106)
-        
-        # Lista para o Frontend
         lista_jogos = []
         for index, row in df_matches.iterrows():
-            # Formata: "Argentina (3) vs (3) França"
             label = f"{row['home_team']} ({row['home_score']}) x ({row['away_score']}) {row['away_team']}"
-            
             lista_jogos.append({
                 "match_id": row['match_id'],
                 "descricao": label,
-                "fase": row['competition_stage'] # Para agrupar depois
+                "fase": row['competition_stage']
             })
-            
-        # Ordena alfabeticamente ou por data (opcional)
         return lista_jogos
-    except Exception as e:
+    except:
         return []
+
+def calcular_vaep_simplificado(events):
+    """
+    Função ML para calcular o valor de cada ação.
+    Treina um XGBoost para prever a probabilidade de gol nos próximos 10 eventos.
+    """
+    # 1. Feature Engineering (Transformar dados em números para o Modelo)
+    df_ml = events.copy()
+    
+    # Codifica o Tipo de Ação (Pass, Shot, Dribble...) para números
+    le = LabelEncoder()
+    df_ml['type_id'] = le.fit_transform(df_ml['type'])
+    
+    # Extrai coordenadas (Preenche vazios com 0)
+    df_ml['loc_x'] = df_ml['location'].apply(lambda x: x[0] if isinstance(x, list) else 0)
+    df_ml['loc_y'] = df_ml['location'].apply(lambda x: x[1] if isinstance(x, list) else 0)
+    
+    # Features que o modelo vai usar
+    features = ['loc_x', 'loc_y', 'type_id', 'period', 'minute']
+    X = df_ml[features]
+
+    # 2. Criar o Label (Target): Aconteceu um gol nos próximos 10 lances?
+    # Isso ensina o modelo o que é uma jogada perigosa.
+    lookahead = 10
+    y = np.zeros(len(df_ml))
+    
+    # Onde ocorreram gols?
+    goal_indices = df_ml[df_ml['shot_outcome'] == 'Goal'].index
+    
+    for goal_idx in goal_indices:
+        # Marca os 10 eventos anteriores como "levou a gol" (1)
+        start = max(0, goal_idx - lookahead)
+        y[start:goal_idx] = 1
+        
+    # 3. Treinar o Modelo XGBoost
+    model = xgb.XGBClassifier(
+        n_estimators=50,      # Rápido para não travar o site
+        max_depth=3,          # Evita overfitting
+        learning_rate=0.1,
+        eval_metric='logloss'
+    )
+    model.fit(X, y)
+    
+    # 4. Prever Probabilidades (O VAEP Simplificado)
+    # A probabilidade da jogada resultar em gol é o seu "valor ofensivo"
+    probs = model.predict_proba(X)[:, 1] # Pega a probabilidade da classe 1 (Gol)
+    
+    return probs
 
 def obter_dados_partida(match_id):
     try:
-        """
-        Busca dados reais da StatsBomb.
-        Se match_id for 0, pega a FINAL da Copa (Argentina x França).
-
-        """
+        # Busca dados reais da StatsBomb.
+        # Se match_id for 0, pega a FINAL da Copa (Argentina x França).
+        match_id_real = 3869685 if str(match_id) == "0" else int(match_id)
+        print(f"⏳ Processando partida {match_id_real} com ML...")
         
-        MATCH_ID_REAL = 3869685 if str(match_id) == "0" else int(match_id)
-        
-        print(f"⏳ Baixando partida ID: {MATCH_ID_REAL}...")
-        
-        # 1. Busca os eventos direto da API
+        # Busca os eventos direto da API
         # fmt="dataframe" já devolve um Pandas DataFrame pronto!
-        events = sb.events(match_id=MATCH_ID_REAL)
+        events = sb.events(match_id=match_id_real)
 
         # --- FILTRO: Remover Disputa de Pênaltis ---
         # A StatsBomb divide o jogo em períodos: 
@@ -51,48 +88,31 @@ def obter_dados_partida(match_id):
         # Vamos pegar apenas até o período 4 para ver o 3x3 excluindo a disputa de pênaltis.
         events = events[events['period'] <= 4]
 
-        # 2. Filtragem Básica
-        # Vamos pegar apenas Passes e Chutes para o mapa não ficar ilegível
-        mask = events['type'].isin(['Pass', 'Shot'])
+        # --- APLICAÇÃO DO MACHINE LEARNING ---
+        # Calcula o valor de cada linha do dataframe
+        events['vaep_value'] = calcular_vaep_simplificado(events)
+
+        # Filtra para visualização
+        mask = events['type'].isin(['Pass', 'Shot', 'Carry', 'Dribble'])
         df_filtrado = events[mask].copy()
 
-        # 3. Tratamento de Coordenadas
-        # A coluna 'location' vem como uma lista [x, y]. Precisamos separar.
-        # O campo da StatsBomb é 120x80. O HTML é 100% x 100%.
-        
+        # --- PREPARA MAPA E TABELA ---
         lista_acoes = []
-        
+        stats_dict = {} # Dicionário para agregar VAEP por jogador
+
         for index, row in df_filtrado.iterrows():
-            # Verifica se tem localização (alguns eventos não têm)
+            # (Código de coordenadas igual ao anterior)
             if isinstance(row['location'], list) and len(row['location']) == 2:
-                x_original = row['location'][0]
-                y_original = row['location'][1]
+                x = row['location'][0]
+                y = row['location'][1]
+                is_goal = True if row['type'] == 'Shot' and str(row['shot_outcome']) == 'Goal' else False
                 
-# --- LÓGICA DE GOL ---
-                # A coluna 'shot_outcome' diz se foi Goal, Saved, Off T, etc.
-                # Se não for chute, esse valor é NaN (nulo), então tratamos isso.
-                is_goal = False
-                if row['type'] == 'Shot' and str(row['shot_outcome']) == 'Goal':
-                    is_goal = True
-
-                # --- LÓGICA DE CAMPO VERTICAL (PORTRAIT) ---
-                # StatsBomb: X (0-120) é o comprimento, Y (0-80) é a largura.
-                # Para vertical: X vira nossa altura (bottom), Y vira nossa largura (left).
-                
-                # Invertemos o Y (80 - y) para espelhar corretamente a esquerda/direita
-                y_invertido = 80 - y_original 
-                
-                css_left = (y_invertido / 80) * 100
-                css_bottom = (x_original / 120) * 100
-
-                # --- TRUQUE DO JITTER (Anti-Sobreposição) ---
-                # Se for GOL, adicionamos um pequeno desvio aleatório
-                # para que os pênaltis não fiquem empilhados.
+                # Jitter
+                css_left = ((80 - y) / 80) * 100
+                css_bottom = (x / 120) * 100
                 if is_goal:
-                    offset_x = random.uniform(-2, 2) # Desvia um pouquinho para os lados
-                    offset_y = random.uniform(-2, 2) # Desvia um pouquinho para cima/baixo
-                    css_left += offset_x
-                    css_bottom += offset_y
+                    css_left += random.uniform(-2, 2)
+                    css_bottom += random.uniform(-2, 2)
 
                 lista_acoes.append({
                     "left": round(css_left, 2),
@@ -100,17 +120,38 @@ def obter_dados_partida(match_id):
                     "jogador": str(row['player']),
                     "tipo": str(row['type']),
                     "time": str(row['team']),
-                    "is_goal": is_goal  # Enviando para o JS saber se pinta de amarelo
+                    "is_goal": is_goal # Enviando para o JS saber se pinta de amarelo
                 })
 
-        # --- 4. PREPARAR DADOS DA TABELA ---
-        # Agrupa por Nome e Tipo de Ação e conta
+            # --- AGREGAÇÃO DE VAEP ---
+            player = str(row['player'])
+            if player not in stats_dict:
+                stats_dict[player] = {'vaep_total': 0, 'acoes': 0}
+            
+            stats_dict[player]['vaep_total'] += row['vaep_value']
+            stats_dict[player]['acoes'] += 1
+
+        # --- 2. DADOS PARA O GRÁFICO SCATTER (VAEP x USAGE) ---
+        total_acoes_jogo = len(df_filtrado)
+        scatter_data = []
+        
+        for player, dados in stats_dict.items():
+            # Usage Rate = (Ações do Jogador / Total Ações do Jogo) * 100
+            usage = (dados['acoes'] / total_acoes_jogo) * 100
+            
+            # Só queremos jogadores com participação relevante (> 0.5% usage)
+            if usage > 0.5:
+                scatter_data.append({
+                    "x": round(usage, 2),         # Eixo X: Participação
+                    "y": round(dados['vaep_total'], 2), # Eixo Y: Perigo Criado (VAEP)
+                    "jogador": player
+                })
+
+        # --- 3. DADOS PARA TABELA E SELETORES ---
         stats_df = pd.crosstab(df_filtrado['player'], df_filtrado['type'])
         if 'Pass' not in stats_df.columns: stats_df['Pass'] = 0
         if 'Shot' not in stats_df.columns: stats_df['Shot'] = 0
-
         tabela_stats = []
-        # Itera sobre os jogadores para criar o JSON
         for jogador in stats_df.index:
             tabela_stats.append({
                 "nome": jogador,
@@ -119,25 +160,20 @@ def obter_dados_partida(match_id):
                 "total": int(stats_df.loc[jogador, 'Pass'] + stats_df.loc[jogador, 'Shot'])
             })
         
-        # Ordena quem tem mais ações primeiro
-        tabela_stats = sorted(tabela_stats, key=lambda k: k['total'], reverse=True)
-
-        # --- 5. Usage Rate (Mantido para o gráfico) ---
-        contagem = df_filtrado['player'].value_counts(normalize=True).head(10) * 100
-        lista_usage = [{"jogador": j, "usage_rate": round(float(p), 2)} for j, p in contagem.items()]
-
-        # Pega todos os nomes únicos que estão no DataFrame e ordena alfabeticamente
         todos_jogadores = sorted(df_filtrado['player'].unique().tolist())
-
-        print(f"✅ Sucesso! {len(lista_acoes)} ações processadas.")
+        
+        # Usage Rate Simples para o gráfico de barras antigo
+        contagem = df_filtrado['player'].value_counts(normalize=True).head(10) * 100
+        lista_usage = [{"jogador": str(j), "usage_rate": round(float(p), 2)} for j, p in contagem.items()]
 
         return {
-            "usage_rate": lista_usage,      # Vai para o Gráfico
-            "mapa_acoes": lista_acoes,      # Vai para o Mapa
-            "tabela_stats": tabela_stats,   # Vai para a Tabela
-            "todos_jogadores": todos_jogadores # Vai para o Select
+            "usage_rate": lista_usage,
+            "mapa_acoes": lista_acoes,
+            "scatter_data": scatter_data, # <--- NOVO DADO
+            "todos_jogadores": todos_jogadores,
+            "tabela_stats": tabela_stats
         }
-    
+
     except Exception as e:
         print(f"❌ ERRO: {e}")
         return {"erro": str(e)}
