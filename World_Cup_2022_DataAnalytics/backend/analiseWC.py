@@ -106,13 +106,24 @@ def obter_dados_partida(match_id):
                 x = row['location'][0]
                 y = row['location'][1]
                 is_goal = True if row['type'] == 'Shot' and str(row['shot_outcome']) == 'Goal' else False
+                # --- CALIBRAÇÃO DE COORDENADAS ---
                 
+                # 1. EIXO Y (Largura): 0 a 80
+                # Removemos a inversão (80 - y). Usamos direto.
+                # Multiplicamos por 0.92 para encolher um pouco (margem da imagem)
+                # Adicionamos +4 para centralizar (Padding esquerdo)
+                pct_y = (y / 80) * 100
+                css_left = 4 + (pct_y * 0.92)
+
+                # 2. EIXO X (Comprimento): 0 a 120
+                # Mesma lógica de encolhimento para não sair nas linhas de fundo
+                pct_x = (x / 120) * 100
+                css_bottom = 4 + (pct_x * 0.92)
+
                 # Jitter
-                css_left = ((80 - y) / 80) * 100
-                css_bottom = (x / 120) * 100
                 if is_goal:
-                    css_left += random.uniform(-2, 2)
-                    css_bottom += random.uniform(-2, 2)
+                    css_left += random.uniform(-1, 1)
+                    css_bottom += random.uniform(-1, 1)
 
                 lista_acoes.append({
                     "left": round(css_left, 2),
