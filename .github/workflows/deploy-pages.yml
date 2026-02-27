@@ -1,0 +1,42 @@
+name: Deploy Frontend to GitHub Pages
+
+on:
+  # O Actions vai rodar sempre que você fizer um "push" na branch main
+  push:
+    branches: ["main"]
+  # Permite rodar o workflow manualmente se você quiser
+  workflow_dispatch:
+
+# Permissões necessárias para o GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Permite apenas um deploy por vez
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+      
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v4
+      
+      - name: Upload da pasta frontend
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # AQUI ESTÁ O SEGREDO: Dizemos ao Actions para publicar APENAS a pasta frontend
+          path: './frontend'
+          
+      - name: Deploy para o GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
