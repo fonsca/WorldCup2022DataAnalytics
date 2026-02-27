@@ -1,0 +1,322 @@
+[
+    {
+        "match_id": 3857256,
+        "descricao": "Serbia (2) x (3) Switzerland",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3869151,
+        "descricao": "Argentina (2) x (1) Australia",
+        "fase": "Round of 16"
+    },
+    {
+        "match_id": 3857257,
+        "descricao": "Australia (1) x (0) Denmark",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857258,
+        "descricao": "Brazil (2) x (0) Serbia",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857288,
+        "descricao": "Tunisia (0) x (1) Australia",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857267,
+        "descricao": "Ecuador (1) x (2) Senegal",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3869321,
+        "descricao": "Netherlands (2) x (2) Argentina",
+        "fase": "Quarter-finals"
+    },
+    {
+        "match_id": 3857287,
+        "descricao": "Uruguay (0) x (0) South Korea",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3869486,
+        "descricao": "Morocco (1) x (0) Portugal",
+        "fase": "Quarter-finals"
+    },
+    {
+        "match_id": 3869685,
+        "descricao": "Argentina (3) x (3) France",
+        "fase": "Final"
+    },
+    {
+        "match_id": 3857260,
+        "descricao": "Saudi Arabia (1) x (2) Mexico",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857264,
+        "descricao": "Poland (0) x (2) Argentina",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857266,
+        "descricao": "France (2) x (1) Denmark",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857289,
+        "descricao": "Argentina (2) x (0) Mexico",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857269,
+        "descricao": "Brazil (1) x (0) Switzerland",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857294,
+        "descricao": "Netherlands (2) x (0) Qatar",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3869254,
+        "descricao": "Portugal (6) x (1) Switzerland",
+        "fase": "Round of 16"
+    },
+    {
+        "match_id": 3869118,
+        "descricao": "England (3) x (0) Senegal",
+        "fase": "Round of 16"
+    },
+    {
+        "match_id": 3869684,
+        "descricao": "Croatia (2) x (1) Morocco",
+        "fase": "3rd Place Final"
+    },
+    {
+        "match_id": 3869519,
+        "descricao": "Argentina (3) x (0) Croatia",
+        "fase": "Semi-finals"
+    },
+    {
+        "match_id": 3869354,
+        "descricao": "England (1) x (2) France",
+        "fase": "Quarter-finals"
+    },
+    {
+        "match_id": 3869552,
+        "descricao": "France (2) x (0) Morocco",
+        "fase": "Semi-finals"
+    },
+    {
+        "match_id": 3869420,
+        "descricao": "Croatia (1) x (1) Brazil",
+        "fase": "Quarter-finals"
+    },
+    {
+        "match_id": 3869220,
+        "descricao": "Morocco (0) x (0) Spain",
+        "fase": "Round of 16"
+    },
+    {
+        "match_id": 3869219,
+        "descricao": "Japan (1) x (1) Croatia",
+        "fase": "Round of 16"
+    },
+    {
+        "match_id": 3869253,
+        "descricao": "Brazil (4) x (1) South Korea",
+        "fase": "Round of 16"
+    },
+    {
+        "match_id": 3869152,
+        "descricao": "France (3) x (1) Poland",
+        "fase": "Round of 16"
+    },
+    {
+        "match_id": 3869117,
+        "descricao": "Netherlands (3) x (1) United States",
+        "fase": "Round of 16"
+    },
+    {
+        "match_id": 3857270,
+        "descricao": "Portugal (2) x (0) Uruguay",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857263,
+        "descricao": "Spain (1) x (1) Germany",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857259,
+        "descricao": "Cameroon (3) x (3) Serbia",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857295,
+        "descricao": "Japan (0) x (1) Costa Rica",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857283,
+        "descricao": "Belgium (0) x (2) Morocco",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857284,
+        "descricao": "Germany (1) x (2) Japan",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857282,
+        "descricao": "United States (1) x (1) Wales",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857286,
+        "descricao": "Qatar (0) x (2) Ecuador",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857301,
+        "descricao": "Qatar (1) x (3) Senegal",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857300,
+        "descricao": "Argentina (1) x (2) Saudi Arabia",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857299,
+        "descricao": "South Korea (2) x (3) Ghana",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857298,
+        "descricao": "Portugal (3) x (2) Ghana",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857297,
+        "descricao": "Poland (2) x (0) Saudi Arabia",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857296,
+        "descricao": "Croatia (0) x (0) Belgium",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857293,
+        "descricao": "Ghana (0) x (2) Uruguay",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857292,
+        "descricao": "Costa Rica (2) x (4) Germany",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857291,
+        "descricao": "Spain (7) x (0) Costa Rica",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857290,
+        "descricao": "Switzerland (1) x (0) Cameroon",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857285,
+        "descricao": "Senegal (0) x (2) Netherlands",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857281,
+        "descricao": "Croatia (4) x (1) Canada",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857280,
+        "descricao": "Cameroon (1) x (0) Brazil",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857279,
+        "descricao": "France (4) x (1) Australia",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857278,
+        "descricao": "Iran (0) x (1) United States",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857277,
+        "descricao": "Morocco (0) x (0) Croatia",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857276,
+        "descricao": "Canada (1) x (2) Morocco",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857275,
+        "descricao": "Tunisia (1) x (0) France",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857274,
+        "descricao": "Netherlands (1) x (1) Ecuador",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857273,
+        "descricao": "Wales (0) x (2) Iran",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857272,
+        "descricao": "England (0) x (0) United States",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857271,
+        "descricao": "England (6) x (2) Iran",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857268,
+        "descricao": "Belgium (1) x (0) Canada",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857265,
+        "descricao": "Mexico (0) x (0) Poland",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857262,
+        "descricao": "South Korea (2) x (1) Portugal",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857261,
+        "descricao": "Wales (0) x (3) England",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857255,
+        "descricao": "Japan (2) x (1) Spain",
+        "fase": "Group Stage"
+    },
+    {
+        "match_id": 3857254,
+        "descricao": "Denmark (0) x (0) Tunisia",
+        "fase": "Group Stage"
+    }
+]

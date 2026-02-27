@@ -11,7 +11,7 @@ window.onload = async function() {
 
 async function carregarListaJogos() {
     try {
-        const response = await fetch('http://127.0.0.1:5000/api/partidas');
+        const response = await fetch('./dados_json/lista_jogos.json');
         const jogos = await response.json();
         
         const select = document.getElementById('selecao-partida');
@@ -45,8 +45,7 @@ async function carregarDados() {
     btn.disabled = true;
 
     try {
-        // A crase avisa o JS para trocar ${matchId} pelo número real (ex: 3869685)
-        const response = await fetch(`http://127.0.0.1:5000/api/partida/${matchId}`);
+        const response = await fetch(`./dados_json/partida_${matchId}.json`);
         const dados = await response.json();
 
         if (dados.erro) {

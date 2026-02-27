@@ -55,6 +55,10 @@ def calcular_vaep_simplificado(events):
         # Marca os 10 eventos anteriores como "levou a gol" (1)
         start = max(0, goal_idx - lookahead)
         y[start:goal_idx] = 1
+
+    # Se a soma de y é 0, significa que não houve nenhum gol nos 120 minutos.
+    if np.sum(y) == 0:
+        return np.zeros(len(df_ml)) # Retorna VAEP 0 para todas as ações
         
     # 3. Treinar o Modelo XGBoost
     model = xgb.XGBClassifier(
