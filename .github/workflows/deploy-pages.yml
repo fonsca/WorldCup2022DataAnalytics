@@ -1,10 +1,10 @@
 name: Deploy Frontend to GitHub Pages
 
 on:
-  # O Actions vai rodar sempre que você fizer um "push" na branch main
+  # O Actions vai rodar sempre que fizer um "push" na branch main
   push:
     branches: ["main"]
-  # Permite rodar o workflow manualmente se você quiser
+  # Permite rodar o workflow manualmente
   workflow_dispatch:
 
 # Permissões necessárias para o GitHub Pages
@@ -34,8 +34,7 @@ jobs:
       - name: Upload da pasta frontend
         uses: actions/upload-pages-artifact@v3
         with:
-          # AQUI ESTÁ O SEGREDO: Dizemos ao Actions para publicar APENAS a pasta frontend
-          path: './frontend'
+          path: './World_Cup_2022_DataAnalytics/frontend'
           
       - name: Deploy para o GitHub Pages
         id: deployment
