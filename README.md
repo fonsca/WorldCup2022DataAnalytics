@@ -1,61 +1,62 @@
-# ⚽ World Cup 2022 Analytics: End-to-End Machine Learning
+# World Cup 2022 Analytics: End-to-End Data Science & Global ML
 
-> **Uma aplicação Full-Stack de Ciência de Dados que processa partidas da Copa do Mundo em tempo real, aplica modelos de Machine Learning (XGBoost) para calcular métricas avançadas (VAEP) e visualiza táticas em um dashboard interativo.**
+> **Uma aplicação completa de Data Science que extrai dados brutos da Copa do Mundo, treina um modelo Global de Machine Learning (XGBoost) com mais de 200 mil eventos para calcular o VAEP (Valuing Actions by Estimating Probabilities) e serve os resultados em um Dashboard interativo com arquitetura Serverless.**
 
-## 📊 Sobre o Projeto
+## Sobre o Projeto
 
-Este projeto não é apenas uma análise estática. É uma **ETL Pipeline** completa que consome dados brutos da API da StatsBomb, processa eventos táticos e treina um modelo de Machine Learning em tempo de execução para avaliar a performance dos jogadores.
+Este projeto simula o fluxo completo de um **Data Scientist / Data Engineer**, indo da extração de dados via API até a implantação na nuvem. O grande diferencial desta aplicação é a sua inteligência e arquitetura:
 
-O objetivo foi simular o dia-a-dia de um Engenheiro de Dados e Cientista de Dados, resolvendo problemas como:
-* Extração de dados via API.
-* Limpeza e transformação de coordenadas espaciais.
-* Utilização de métricas avançadas (VAEP - Valuing Actions by Estimating Probabilities).
-* Desenvolvimento de API (Backend) e Dashboard Interativo (Frontend).
+* **Inteligência (Global ML):** Em vez de analisar partidas isoladas, o pipeline junta todos os 64 jogos do torneio, aprendendo os padrões reais do esporte através de um modelo XGBoost treinado com o dataset completo.
+* **Performance (Serverless):** O processamento pesado e as predições do ML são feitos em *batch* (lote) localmente. Os resultados são exportados como arquivos JSON estáticos, permitindo que o frontend seja hospedado de forma gratuita, à prova de falhas e super rápida via GitHub Pages.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Mapa Geral (Todos) | Filtro por Jogador | Análise de Eficiência (ML) |
 |:---:|:---:|:---:|
-| <img src="World_Cup_2022_DataAnalytics/data/TodosJogadores.png" width="300"> | <img src="World_Cup_2022_DataAnalytics/data/MapaFiltrado.png" width="300"> | <img src="World_Cup_2022_DataAnalytics/data/URxVAEP.png" width="300"> |
-| *Visão tática global* | *Ações individuais* | *Clusterização Usage x VAEP* |
+| <img src="data/TodosJogadores.png" width="300"> | <img src="data/MapaFiltrado.png" width="300"> | <img src="data/URxVAEP.png" width="300"> |
+| *Visão tática global (Passes e Chutes)* | *Ações individuais filtradas* | *Clusterização Usage x VAEP* |
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## Arquitetura e Decisões Técnicas
 
-### Backend (Python)
-* **Flask:** Criação da API RESTful para servir os dados ao frontend.
+### 1. O Problema das Estatísticas Tradicionais
+Um passe no meio de campo não tem o mesmo peso que um passe na pequena área, mas estatísticas comuns tratam ambos como "1 passe". Para medir o impacto real dos jogadores, implementei o **VAEP** — um modelo de Valoração de Ações.
+
+### 2. Machine Learning: O Modelo Global (XGBoost)
+* **Prevenção de Overfitting:** Inicialmente, treinar um modelo por partida gerava distorções (ex: uma partida 0x0 quebrava o algoritmo logístico). A solução foi agregar todas as 64 partidas (gerando mais de 200.000 eventos táticos).
+* **Treinamento:** Um classificador `XGBClassifier` foi treinado para responder: *"Dadas as coordenadas (X, Y) e o tipo da ação, essa jogada resultou em gol nos próximos 10 lances em todo o campeonato?"*.
+* **Resultado:** O modelo aprendeu os padrões reais de perigo do esporte. O dashboard permite identificar "playmakers" ocultos: jogadores que não finalizam, mas são o motor de criação do time (Quadrante Superior Direito do Gráfico de Dispersão).
+
+### 3. Engenharia de Dados e Serverless
+* **ETL em Lote:** O script `gerar_json.py` atua como um pipeline ETL. Ele extrai dados da API StatsBomb, transforma as coordenadas, aplica o modelo preditivo e carrega (Load) os resultados como 65 arquivos JSON.
+* **CI/CD com GitHub Actions:** Um workflow automatizado escuta os *commits* na branch principal e faz o deploy apenas da pasta do Frontend para o GitHub Pages. Sem servidores rodando 24/7, garantindo zero custo e máxima escalabilidade.
+
+---
+
+## Tecnologias e Ferramentas
+
+### Data & Machine Learning (Python)
 * **StatsBombPy:** Extração de dados oficiais da Copa 2022.
-* **Pandas & NumPy:** Manipulação e limpeza de dados (Data Wrangling).
-* **XGBoost:** Algoritmo de Gradient Boosting treinado para calcular a probabilidade de gol de cada ação (VAEP simplificado).
-* **Scikit-Learn:** Pré-processamento de features (Label Encoding).
+* **Pandas & NumPy:** Manipulação de dados, agregações e Feature Engineering.
+* **XGBoost & Scikit-Learn:** Algoritmo de Gradient Boosting e pré-processamento (Label Encoding) para o cálculo preditivo do VAEP.
+* **tqdm:** Monitoramento de progresso de loops em lote.
 
-### Frontend (Web)
-* **JavaScript (Vanilla):** Lógica de consumo de API (Fetch) e manipulação do DOM.
-* **Chart.js:** Renderização de gráficos de dispersão (Scatter) e barras.
-* **HTML5 & CSS3:** Layout responsivo e design do campo de futebol vertical.
-
----
-
-## A Lógica de Machine Learning (VAEP)
-
-Para ir além das estatísticas básicas (gols e assistências), implementei um modelo de **Valoração de Ações**.
-
-1.  **O Problema:** Um passe no meio de campo vale menos que um passe na pequena área, mas estatísticas comuns tratam ambos como "1 passe".
-2.  **A Solução (XGBoost):**
-    * O sistema coleta as coordenadas (X, Y) e o tipo de cada ação.
-    * Treina um classificador `XGBClassifier` para prever: *"Essa jogada resultou em gol nos próximos 10 segundos?"*.
-    * A probabilidade gerada (0 a 1) se torna o "Valor VAEP" da ação.
-3.  **Resultado:** Conseguimos identificar jogadores que não fazem gols, mas criam as jogadas mais perigosas (Quadrante Superior Direito do Gráfico de Dispersão).
+### Frontend & Deploy
+* **JavaScript (Vanilla) & API Fetch:** Consumo assíncrono dos JSONs estáticos.
+* **Chart.js:** Renderização de gráficos de dispersão e barras.
+* **GitHub Actions & Pages:** Automação de deploy e hospedagem Serverless.
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto (Localmente)
+
+Se você quiser reproduzir o treinamento do modelo e gerar os arquivos em sua própria máquina:
 
 ### Pré-requisitos
-* Python instalado.
+* Python 3.9+ instalado.
 * Git instalado.
 
 ### Passo a Passo
@@ -72,14 +73,14 @@ Para ir além das estatísticas básicas (gols e assistências), implementei um 
     pip install -r requirements.txt
     ```
 
-3.  **Execute o servidor:**
+3.  **Execute o Pipeline ETL e ML:**
     ```bash
-    python app.py
+    python gerar_json.py
     ```
-    *O terminal deve exibir: `Running on http://127.0.0.1:5000`*
+    *O script vai baixar os dados da API, treinar o XGBoost e popular a pasta `frontend/dados_json` com as análises preditivas.*
 
 4.  **Acesse o Dashboard:**
-    Abra o arquivo `frontend/index.html` no seu navegador preferido.
+    Abra o arquivo `frontend/index.html` no seu navegador para ver o sistema funcionando totalmente *offline* e instantâneo.
 
 ---
 
