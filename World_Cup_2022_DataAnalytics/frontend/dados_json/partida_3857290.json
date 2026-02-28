@@ -15499,8 +15499,8 @@
             "is_goal": false
         },
         {
-            "left": 49.41,
-            "bottom": 89.77,
+            "left": 49.66,
+            "bottom": 89.03,
             "jogador": "Breel-Donald Embolo",
             "tipo": "Shot",
             "time": "Switzerland",
@@ -15558,147 +15558,147 @@
     "scatter_data": [
         {
             "x": 3.82,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Xherdan Shaqiri"
         },
         {
             "x": 5.98,
-            "y": 0.43,
+            "y": 0.62,
             "jogador": "Manuel Obafemi Akanji"
         },
         {
             "x": 5.42,
-            "y": 0.79,
+            "y": 0.82,
             "jogador": "Ngoran Suiru Fai Collins"
         },
         {
             "x": 4.02,
-            "y": 0.89,
+            "y": 0.56,
             "jogador": "Bryan Mbeumo"
         },
         {
             "x": 4.07,
-            "y": 0.7,
+            "y": 0.61,
             "jogador": "Granit Xhaka"
         },
         {
             "x": 6.19,
-            "y": 0.92,
+            "y": 0.64,
             "jogador": "Nico Elvedi"
         },
         {
             "x": 5.93,
-            "y": 0.16,
+            "y": 0.62,
             "jogador": "Nicolas Alexis Julio N'Koulou Ndoubena"
         },
         {
             "x": 4.74,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Samuel Yves Oum Gwet"
         },
         {
             "x": 3.04,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Djibril Sow"
         },
         {
             "x": 3.46,
-            "y": 0.87,
+            "y": 0.69,
             "jogador": "Martin Hongla Yma II"
         },
         {
             "x": 5.05,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Ricardo Iván Rodríguez Araya"
         },
         {
             "x": 5.62,
-            "y": 0.1,
+            "y": 0.02,
             "jogador": "Remo Freuler"
         },
         {
             "x": 4.23,
-            "y": 0.12,
+            "y": 0.01,
             "jogador": "Silvan Widmer"
         },
         {
             "x": 5.67,
-            "y": 0.16,
+            "y": 0.57,
             "jogador": "André-Frank Zambo Anguissa"
         },
         {
             "x": 5.05,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "André Onana"
         },
         {
             "x": 3.3,
-            "y": 0.14,
+            "y": 0.62,
             "jogador": "Ruben Vargas"
         },
         {
             "x": 2.01,
-            "y": 0.13,
+            "y": 0.62,
             "jogador": "Breel-Donald Embolo"
         },
         {
             "x": 3.92,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Nouhou Tolo"
         },
         {
             "x": 3.15,
-            "y": 0.88,
+            "y": 0.57,
             "jogador": "Karl Brillant Toko Ekambi"
         },
         {
             "x": 4.59,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Jean-Charles Castelletto"
         },
         {
             "x": 2.78,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Yann Sommer"
         },
         {
             "x": 1.91,
-            "y": 0.79,
+            "y": 1.05,
             "jogador": "Jean-Eric Maxim Choupo-Moting"
         },
         {
             "x": 0.83,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Gaël Ondoua"
         },
         {
             "x": 0.67,
-            "y": 0.01,
+            "y": 0.06,
             "jogador": "Georges-Kévin Nkoudou Mbida"
         },
         {
             "x": 0.77,
-            "y": 0.04,
+            "y": 0.06,
             "jogador": "Vincent Paté Aboubakar"
         },
         {
             "x": 0.88,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Fabian Frei"
         },
         {
             "x": 0.52,
-            "y": 0.15,
+            "y": 0.19,
             "jogador": "Haris Seferović"
         },
         {
             "x": 0.83,
-            "y": 0.09,
+            "y": 0.0,
             "jogador": "Fabian Rieder"
         },
         {
             "x": 1.08,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Noah Okafor"
         }
     ],
@@ -15735,192 +15735,5 @@
         "Xherdan Shaqiri",
         "Yann Sommer"
     ],
-    "tabela_stats": [
-        {
-            "nome": "André Onana",
-            "passes": 60,
-            "chutes": 0,
-            "total": 60
-        },
-        {
-            "nome": "André-Frank Zambo Anguissa",
-            "passes": 60,
-            "chutes": 1,
-            "total": 61
-        },
-        {
-            "nome": "Breel-Donald Embolo",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Bryan Mbeumo",
-            "passes": 43,
-            "chutes": 1,
-            "total": 44
-        },
-        {
-            "nome": "Djibril Sow",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Eray Ervin Cömert",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Fabian Frei",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Fabian Rieder",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Gaël Ondoua",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Georges-Kévin Nkoudou Mbida",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Granit Xhaka",
-            "passes": 43,
-            "chutes": 2,
-            "total": 45
-        },
-        {
-            "nome": "Haris Seferović",
-            "passes": 5,
-            "chutes": 1,
-            "total": 6
-        },
-        {
-            "nome": "Jean-Charles Castelletto",
-            "passes": 45,
-            "chutes": 0,
-            "total": 45
-        },
-        {
-            "nome": "Jean-Eric Maxim Choupo-Moting",
-            "passes": 19,
-            "chutes": 2,
-            "total": 21
-        },
-        {
-            "nome": "Karl Brillant Toko Ekambi",
-            "passes": 31,
-            "chutes": 1,
-            "total": 32
-        },
-        {
-            "nome": "Manuel Obafemi Akanji",
-            "passes": 65,
-            "chutes": 1,
-            "total": 66
-        },
-        {
-            "nome": "Martin Hongla Yma II",
-            "passes": 35,
-            "chutes": 1,
-            "total": 36
-        },
-        {
-            "nome": "Ngoran Suiru Fai Collins",
-            "passes": 60,
-            "chutes": 1,
-            "total": 61
-        },
-        {
-            "nome": "Nico Elvedi",
-            "passes": 69,
-            "chutes": 1,
-            "total": 70
-        },
-        {
-            "nome": "Nicolas Alexis Julio N'Koulou Ndoubena",
-            "passes": 60,
-            "chutes": 1,
-            "total": 61
-        },
-        {
-            "nome": "Nicolas Moumi Ngamaleu",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Noah Okafor",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Nouhou Tolo",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Remo Freuler",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Ricardo Iván Rodríguez Araya",
-            "passes": 57,
-            "chutes": 0,
-            "total": 57
-        },
-        {
-            "nome": "Ruben Vargas",
-            "passes": 36,
-            "chutes": 1,
-            "total": 37
-        },
-        {
-            "nome": "Samuel Yves Oum Gwet",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Silvan Widmer",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Vincent Paté Aboubakar",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Xherdan Shaqiri",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Yann Sommer",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        }
-    ]
+    "tabela_stats": []
 }

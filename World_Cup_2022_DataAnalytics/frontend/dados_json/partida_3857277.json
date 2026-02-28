@@ -15942,107 +15942,107 @@
     "scatter_data": [
         {
             "x": 1.11,
-            "y": 0.0,
+            "y": 0.57,
             "jogador": "Youssef En-Nesyri"
         },
         {
             "x": 4.03,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Sofyan Amrabat"
         },
         {
             "x": 1.91,
-            "y": 0.0,
+            "y": 1.37,
             "jogador": "Noussair Mazraoui"
         },
         {
             "x": 4.43,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Romain Saïss"
         },
         {
             "x": 8.56,
-            "y": 0.0,
+            "y": 0.62,
             "jogador": "Dejan Lovren"
         },
         {
             "x": 4.13,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Nayef Aguerd"
         },
         {
             "x": 4.98,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Josip Juranović"
         },
         {
             "x": 10.67,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "Joško Gvardiol"
         },
         {
             "x": 5.08,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Mateo Kovačić"
         },
         {
             "x": 5.59,
-            "y": 0.0,
+            "y": 0.09,
             "jogador": "Borna Sosa"
         },
         {
             "x": 8.4,
-            "y": 0.0,
+            "y": 0.8,
             "jogador": "Luka Modrić"
         },
         {
             "x": 3.67,
-            "y": 0.0,
+            "y": 0.36,
             "jogador": "Ivan Perišić"
         },
         {
             "x": 2.37,
-            "y": 0.0,
+            "y": 1.32,
             "jogador": "Sofiane Boufal"
         },
         {
             "x": 8.35,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "Marcelo Brozović"
         },
         {
             "x": 2.16,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Yassine Bounou"
         },
         {
             "x": 1.46,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Andrej Kramarić"
         },
         {
             "x": 4.73,
-            "y": 0.0,
+            "y": 0.28,
             "jogador": "Achraf Hakimi Mouh"
         },
         {
             "x": 3.27,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Azzedine Ounahi"
         },
         {
             "x": 1.26,
-            "y": 0.0,
+            "y": 1.22,
             "jogador": "Nikola Vlašić"
         },
         {
             "x": 3.52,
-            "y": 0.0,
+            "y": 1.21,
             "jogador": "Hakim Ziyech"
         },
         {
             "x": 1.66,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Selim Amallah"
         },
         {
@@ -16052,27 +16052,27 @@
         },
         {
             "x": 1.41,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Mario Pašalić"
         },
         {
             "x": 1.81,
-            "y": 0.0,
+            "y": 0.06,
             "jogador": "Yahia Attiyat allah"
         },
         {
             "x": 0.96,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Marko Livaja"
         },
         {
             "x": 1.11,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Lovro Majer"
         },
         {
             "x": 0.86,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Abdelhamid Sabiri"
         }
     ],
@@ -16108,186 +16108,5 @@
         "Yassine Bounou",
         "Youssef En-Nesyri"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdelhamid Sabiri",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Abderrazak Hamdallah",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Abdessamad Ezzalzouli",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Achraf Hakimi Mouh",
-            "passes": 51,
-            "chutes": 1,
-            "total": 52
-        },
-        {
-            "nome": "Andrej Kramarić",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Azzedine Ounahi",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Borna Sosa",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Dejan Lovren",
-            "passes": 93,
-            "chutes": 1,
-            "total": 94
-        },
-        {
-            "nome": "Dominik Livaković",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Hakim Ziyech",
-            "passes": 34,
-            "chutes": 2,
-            "total": 36
-        },
-        {
-            "nome": "Ivan Perišić",
-            "passes": 41,
-            "chutes": 1,
-            "total": 42
-        },
-        {
-            "nome": "Josip Juranović",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Joško Gvardiol",
-            "passes": 115,
-            "chutes": 0,
-            "total": 115
-        },
-        {
-            "nome": "Lovro Majer",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Luka Modrić",
-            "passes": 93,
-            "chutes": 1,
-            "total": 94
-        },
-        {
-            "nome": "Marcelo Brozović",
-            "passes": 89,
-            "chutes": 0,
-            "total": 89
-        },
-        {
-            "nome": "Mario Pašalić",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Marko Livaja",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Mateo Kovačić",
-            "passes": 54,
-            "chutes": 0,
-            "total": 54
-        },
-        {
-            "nome": "Mislav Oršić",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Nayef Aguerd",
-            "passes": 47,
-            "chutes": 0,
-            "total": 47
-        },
-        {
-            "nome": "Nikola Vlašić",
-            "passes": 10,
-            "chutes": 2,
-            "total": 12
-        },
-        {
-            "nome": "Noussair Mazraoui",
-            "passes": 20,
-            "chutes": 2,
-            "total": 22
-        },
-        {
-            "nome": "Romain Saïss",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Selim Amallah",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Sofiane Boufal",
-            "passes": 17,
-            "chutes": 2,
-            "total": 19
-        },
-        {
-            "nome": "Sofyan Amrabat",
-            "passes": 47,
-            "chutes": 0,
-            "total": 47
-        },
-        {
-            "nome": "Yahia Attiyat allah",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Yassine Bounou",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        },
-        {
-            "nome": "Youssef En-Nesyri",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        }
-    ]
+    "tabela_stats": []
 }

@@ -20827,127 +20827,127 @@
         },
         {
             "x": 12.67,
-            "y": 0.0,
+            "y": 0.21,
             "jogador": "Aymeric Laporte"
         },
         {
             "x": 15.33,
-            "y": 0.0,
+            "y": 0.12,
             "jogador": "Rodrigo Hernández Cascante"
         },
         {
             "x": 3.0,
-            "y": 0.0,
+            "y": 1.35,
             "jogador": "Daniel Olmo Carvajal"
         },
         {
             "x": 10.82,
-            "y": 0.0,
+            "y": 0.15,
             "jogador": "Pedro González López"
         },
         {
             "x": 7.09,
-            "y": 0.0,
+            "y": 0.56,
             "jogador": "Marcos Llorente Moreno"
         },
         {
             "x": 7.97,
-            "y": 0.0,
+            "y": 0.03,
             "jogador": "Jordi Alba Ramos"
         },
         {
             "x": 1.66,
-            "y": 0.0,
+            "y": 0.63,
             "jogador": "Noussair Mazraoui"
         },
         {
             "x": 0.77,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Selim Amallah"
         },
         {
             "x": 3.0,
-            "y": 0.0,
+            "y": 0.05,
             "jogador": "Azzedine Ounahi"
         },
         {
             "x": 2.46,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Sofyan Amrabat"
         },
         {
             "x": 1.42,
-            "y": 0.0,
+            "y": 0.59,
             "jogador": "Nayef Aguerd"
         },
         {
             "x": 3.35,
-            "y": 0.0,
+            "y": 0.48,
             "jogador": "Achraf Hakimi Mouh"
         },
         {
             "x": 2.39,
-            "y": 0.0,
+            "y": 0.03,
             "jogador": "Ferrán Torres García"
         },
         {
             "x": 4.54,
-            "y": 0.0,
+            "y": 0.2,
             "jogador": "Sergio Busquets i Burgos"
         },
         {
             "x": 2.7,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Hakim Ziyech"
         },
         {
             "x": 1.81,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Unai Simón Mendibil"
         },
         {
             "x": 2.04,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Yassine Bounou"
         },
         {
             "x": 1.93,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "Sofiane Boufal"
         },
         {
             "x": 1.73,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Romain Saïss"
         },
         {
             "x": 1.08,
-            "y": 0.0,
+            "y": 0.65,
             "jogador": "Marco Asensio Willemsen"
         },
         {
             "x": 0.85,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Youssef En-Nesyri"
         },
         {
             "x": 2.73,
-            "y": 0.0,
+            "y": 0.19,
             "jogador": "Carlos Soler Barragán"
         },
         {
             "x": 0.77,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Abdessamad Ezzalzouli"
         },
         {
             "x": 0.73,
-            "y": 0.0,
+            "y": 0.7,
             "jogador": "Álvaro Borja Morata Martín"
         },
         {
             "x": 1.89,
-            "y": 0.0,
+            "y": 0.18,
             "jogador": "Nicholas Williams Arthuer"
         },
         {
@@ -20957,12 +20957,12 @@
         },
         {
             "x": 1.08,
-            "y": 0.0,
+            "y": 0.32,
             "jogador": "Alejandro Balde Martínez"
         },
         {
             "x": 0.69,
-            "y": 0.0,
+            "y": 0.25,
             "jogador": "Anssumane Fati"
         }
     ],
@@ -21001,204 +21001,5 @@
         "Youssef En-Nesyri",
         "Álvaro Borja Morata Martín"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdelhamid Sabiri",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Abdessamad Ezzalzouli",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Achraf Hakimi Mouh",
-            "passes": 54,
-            "chutes": 1,
-            "total": 55
-        },
-        {
-            "nome": "Alejandro Balde Martínez",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Anssumane Fati",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Aymeric Laporte",
-            "passes": 180,
-            "chutes": 1,
-            "total": 181
-        },
-        {
-            "nome": "Azzedine Ounahi",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Carlos Soler Barragán",
-            "passes": 40,
-            "chutes": 1,
-            "total": 41
-        },
-        {
-            "nome": "Daniel Olmo Carvajal",
-            "passes": 37,
-            "chutes": 2,
-            "total": 39
-        },
-        {
-            "nome": "Ferrán Torres García",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "Hakim Ziyech",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Jawad El Yamiq",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Jordi Alba Ramos",
-            "passes": 114,
-            "chutes": 0,
-            "total": 114
-        },
-        {
-            "nome": "Marco Asensio Willemsen",
-            "passes": 14,
-            "chutes": 1,
-            "total": 15
-        },
-        {
-            "nome": "Marcos Llorente Moreno",
-            "passes": 104,
-            "chutes": 1,
-            "total": 105
-        },
-        {
-            "nome": "Nayef Aguerd",
-            "passes": 24,
-            "chutes": 1,
-            "total": 25
-        },
-        {
-            "nome": "Nicholas Williams Arthuer",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Noussair Mazraoui",
-            "passes": 26,
-            "chutes": 1,
-            "total": 27
-        },
-        {
-            "nome": "Pablo Martín Páez Gavira",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Pablo Sarabia García",
-            "passes": 5,
-            "chutes": 1,
-            "total": 6
-        },
-        {
-            "nome": "Pedro González López",
-            "passes": 147,
-            "chutes": 0,
-            "total": 147
-        },
-        {
-            "nome": "Rodrigo Hernández Cascante",
-            "passes": 220,
-            "chutes": 1,
-            "total": 221
-        },
-        {
-            "nome": "Romain Saïss",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Selim Amallah",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Sergio Busquets i Burgos",
-            "passes": 76,
-            "chutes": 1,
-            "total": 77
-        },
-        {
-            "nome": "Sofiane Boufal",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "Sofyan Amrabat",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Unai Simón Mendibil",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Walid Cheddira",
-            "passes": 4,
-            "chutes": 2,
-            "total": 6
-        },
-        {
-            "nome": "Yahia Attiyat allah",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Yassine Bounou",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Youssef En-Nesyri",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Álvaro Borja Morata Martín",
-            "passes": 8,
-            "chutes": 2,
-            "total": 10
-        }
-    ]
+    "tabela_stats": []
 }

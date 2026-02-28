@@ -17083,8 +17083,8 @@
             "is_goal": false
         },
         {
-            "left": 39.02,
-            "bottom": 88.68,
+            "left": 40.2,
+            "bottom": 89.71,
             "jogador": "Kylian Mbappé Lottin",
             "tipo": "Shot",
             "time": "France",
@@ -17099,8 +17099,8 @@
             "is_goal": false
         },
         {
-            "left": 47.21,
-            "bottom": 91.14,
+            "left": 47.65,
+            "bottom": 90.6,
             "jogador": "Andreas Christensen",
             "tipo": "Shot",
             "time": "Denmark",
@@ -17163,8 +17163,8 @@
             "is_goal": false
         },
         {
-            "left": 46.33,
-            "bottom": 94.02,
+            "left": 46.19,
+            "bottom": 95.28,
             "jogador": "Kylian Mbappé Lottin",
             "tipo": "Shot",
             "time": "France",
@@ -17198,42 +17198,42 @@
     "scatter_data": [
         {
             "x": 1.31,
-            "y": 0.96,
+            "y": 0.69,
             "jogador": "Andreas Evald Cornelius"
         },
         {
             "x": 6.02,
-            "y": 1.77,
+            "y": 0.98,
             "jogador": "Christian Dannemann Eriksen"
         },
         {
             "x": 6.39,
-            "y": 0.03,
+            "y": 0.06,
             "jogador": "Rasmus Nissen Kristensen"
         },
         {
             "x": 2.75,
-            "y": 0.93,
+            "y": 0.61,
             "jogador": "Jesper Lindstrøm"
         },
         {
             "x": 6.44,
-            "y": 0.39,
+            "y": 0.09,
             "jogador": "Pierre-Emile Højbjerg"
         },
         {
             "x": 3.64,
-            "y": 0.31,
+            "y": 0.09,
             "jogador": "Joakim Mæhle"
         },
         {
             "x": 5.92,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Victor Nelsson"
         },
         {
             "x": 6.39,
-            "y": 0.91,
+            "y": 0.64,
             "jogador": "Andreas Christensen"
         },
         {
@@ -17243,27 +17243,27 @@
         },
         {
             "x": 4.06,
-            "y": 1.21,
+            "y": 0.75,
             "jogador": "Joachim Andersen"
         },
         {
             "x": 3.5,
-            "y": 0.8,
+            "y": 1.53,
             "jogador": "Ousmane Dembélé"
         },
         {
             "x": 5.88,
-            "y": 1.12,
+            "y": 1.4,
             "jogador": "Jules Koundé"
         },
         {
             "x": 4.01,
-            "y": 2.02,
+            "y": 1.9,
             "jogador": "Adrien Rabiot"
         },
         {
             "x": 2.85,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Mikkel Damsgaard"
         },
         {
@@ -17283,57 +17283,57 @@
         },
         {
             "x": 6.2,
-            "y": 1.58,
+            "y": 1.53,
             "jogador": "Aurélien Djani Tchouaméni"
         },
         {
             "x": 4.71,
-            "y": 3.89,
+            "y": 2.96,
             "jogador": "Kylian Mbappé Lottin"
         },
         {
             "x": 3.08,
-            "y": 0.12,
+            "y": 0.64,
             "jogador": "Raphaël Varane"
         },
         {
             "x": 4.34,
-            "y": 1.21,
+            "y": 1.17,
             "jogador": "Antoine Griezmann"
         },
         {
             "x": 0.98,
-            "y": 1.05,
+            "y": 1.26,
             "jogador": "Olivier Giroud"
         },
         {
             "x": 0.84,
-            "y": 0.88,
+            "y": 0.58,
             "jogador": "Martin Braithwaite Christensen"
         },
         {
             "x": 0.56,
-            "y": 0.0,
+            "y": 0.24,
             "jogador": "Marcus Thuram"
         },
         {
             "x": 1.07,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Ibrahima Konaté"
         },
         {
             "x": 1.87,
-            "y": 0.01,
+            "y": 0.17,
             "jogador": "Kingsley Coman"
         },
         {
             "x": 1.12,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Christian Nørgaard"
         },
         {
             "x": 0.56,
-            "y": 0.0,
+            "y": 0.06,
             "jogador": "Alexander Hartmann Bah"
         }
     ],
@@ -17369,186 +17369,5 @@
         "Victor Nelsson",
         "Youssouf Fofana"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Adrien Rabiot",
-            "passes": 44,
-            "chutes": 4,
-            "total": 48
-        },
-        {
-            "nome": "Alexander Hartmann Bah",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Andreas Christensen",
-            "passes": 72,
-            "chutes": 1,
-            "total": 73
-        },
-        {
-            "nome": "Andreas Evald Cornelius",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Antoine Griezmann",
-            "passes": 50,
-            "chutes": 2,
-            "total": 52
-        },
-        {
-            "nome": "Aurélien Djani Tchouaméni",
-            "passes": 68,
-            "chutes": 2,
-            "total": 70
-        },
-        {
-            "nome": "Christian Dannemann Eriksen",
-            "passes": 71,
-            "chutes": 2,
-            "total": 73
-        },
-        {
-            "nome": "Christian Nørgaard",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Dayotchanculle Upamecano",
-            "passes": 58,
-            "chutes": 0,
-            "total": 58
-        },
-        {
-            "nome": "Hugo Lloris",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Ibrahima Konaté",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Jesper Lindstrøm",
-            "passes": 24,
-            "chutes": 1,
-            "total": 25
-        },
-        {
-            "nome": "Joachim Andersen",
-            "passes": 46,
-            "chutes": 2,
-            "total": 48
-        },
-        {
-            "nome": "Joakim Mæhle",
-            "passes": 43,
-            "chutes": 1,
-            "total": 44
-        },
-        {
-            "nome": "Jules Koundé",
-            "passes": 68,
-            "chutes": 2,
-            "total": 70
-        },
-        {
-            "nome": "Kasper Dolberg",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Kasper Schmeichel",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Kingsley Coman",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Kylian Mbappé Lottin",
-            "passes": 37,
-            "chutes": 6,
-            "total": 43
-        },
-        {
-            "nome": "Marcus Thuram",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Martin Braithwaite Christensen",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Mikkel Damsgaard",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Olivier Giroud",
-            "passes": 10,
-            "chutes": 2,
-            "total": 12
-        },
-        {
-            "nome": "Ousmane Dembélé",
-            "passes": 27,
-            "chutes": 2,
-            "total": 29
-        },
-        {
-            "nome": "Pierre-Emile Højbjerg",
-            "passes": 70,
-            "chutes": 1,
-            "total": 71
-        },
-        {
-            "nome": "Raphaël Varane",
-            "passes": 38,
-            "chutes": 1,
-            "total": 39
-        },
-        {
-            "nome": "Rasmus Nissen Kristensen",
-            "passes": 76,
-            "chutes": 0,
-            "total": 76
-        },
-        {
-            "nome": "Theo Bernard François Hernández",
-            "passes": 72,
-            "chutes": 0,
-            "total": 72
-        },
-        {
-            "nome": "Victor Nelsson",
-            "passes": 72,
-            "chutes": 0,
-            "total": 72
-        },
-        {
-            "nome": "Youssouf Fofana",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        }
-    ]
+    "tabela_stats": []
 }

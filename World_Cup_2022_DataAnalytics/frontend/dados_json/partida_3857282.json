@@ -15435,8 +15435,8 @@
             "is_goal": false
         },
         {
-            "left": 47.86,
-            "bottom": 87.16,
+            "left": 46.93,
+            "bottom": 87.33,
             "jogador": "Timothy Weah",
             "tipo": "Shot",
             "time": "United States",
@@ -15491,8 +15491,8 @@
             "is_goal": false
         },
         {
-            "left": 50.69,
-            "bottom": 85.89,
+            "left": 49.51,
+            "bottom": 86.01,
             "jogador": "Gareth Frank Bale",
             "tipo": "Shot",
             "time": "Wales",
@@ -15662,67 +15662,67 @@
     "scatter_data": [
         {
             "x": 1.13,
-            "y": 0.83,
+            "y": 0.62,
             "jogador": "Joshua Sargent"
         },
         {
             "x": 6.97,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Tim Ream"
         },
         {
             "x": 2.41,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Harry Wilson"
         },
         {
             "x": 7.99,
-            "y": 0.1,
+            "y": 0.02,
             "jogador": "Walker Zimmerman"
         },
         {
             "x": 5.79,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "Antonee Robinson"
         },
         {
             "x": 4.35,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Yunus Dimoara Musah"
         },
         {
             "x": 6.86,
-            "y": 0.67,
+            "y": 0.56,
             "jogador": "Sergino Dest"
         },
         {
             "x": 3.43,
-            "y": 0.03,
+            "y": 0.02,
             "jogador": "Aaron Ramsey"
         },
         {
             "x": 5.02,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Chris Mepham"
         },
         {
             "x": 4.25,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Connor Roberts"
         },
         {
             "x": 3.74,
-            "y": 0.87,
+            "y": 0.59,
             "jogador": "Ethan Ampadu"
         },
         {
             "x": 2.72,
-            "y": 0.88,
+            "y": 0.65,
             "jogador": "Timothy Weah"
         },
         {
             "x": 3.23,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Weston McKennie"
         },
         {
@@ -15732,27 +15732,27 @@
         },
         {
             "x": 6.4,
-            "y": 0.27,
+            "y": 0.2,
             "jogador": "Tyler Adams"
         },
         {
             "x": 5.53,
-            "y": 0.05,
+            "y": 0.07,
             "jogador": "Christian Pulisic"
         },
         {
             "x": 4.61,
-            "y": 1.72,
+            "y": 1.24,
             "jogador": "Ben Davies"
         },
         {
             "x": 2.36,
-            "y": 0.18,
+            "y": 0.0,
             "jogador": "Wayne Hennessey"
         },
         {
             "x": 5.64,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Joe Rodon"
         },
         {
@@ -15762,22 +15762,22 @@
         },
         {
             "x": 2.56,
-            "y": 0.2,
+            "y": 0.01,
             "jogador": "Matthew Charles Turner"
         },
         {
             "x": 2.41,
-            "y": 0.4,
+            "y": 0.53,
             "jogador": "Gareth Frank Bale"
         },
         {
             "x": 1.69,
-            "y": 1.76,
+            "y": 1.22,
             "jogador": "Kieffer Roberto Francisco Moore"
         },
         {
             "x": 2.25,
-            "y": 0.62,
+            "y": 0.77,
             "jogador": "Brenden Aaronson"
         },
         {
@@ -15787,22 +15787,22 @@
         },
         {
             "x": 1.49,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "DeAndre Yedlin"
         },
         {
             "x": 0.72,
-            "y": 0.22,
+            "y": 0.13,
             "jogador": "Brennan Johnson"
         },
         {
             "x": 0.87,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Kellyn Kai Perry-Acosta"
         },
         {
             "x": 0.51,
-            "y": 0.01,
+            "y": 0.09,
             "jogador": "Sorba Thomas"
         }
     ],
@@ -15839,192 +15839,5 @@
         "Weston McKennie",
         "Yunus Dimoara Musah"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Aaron Ramsey",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Antonee Robinson",
-            "passes": 63,
-            "chutes": 0,
-            "total": 63
-        },
-        {
-            "nome": "Ben Davies",
-            "passes": 53,
-            "chutes": 2,
-            "total": 55
-        },
-        {
-            "nome": "Brenden Aaronson",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Brennan Johnson",
-            "passes": 6,
-            "chutes": 1,
-            "total": 7
-        },
-        {
-            "nome": "Chris Mepham",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Christian Pulisic",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Connor Roberts",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Daniel James",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "DeAndre Yedlin",
-            "passes": 18,
-            "chutes": 0,
-            "total": 18
-        },
-        {
-            "nome": "Ethan Ampadu",
-            "passes": 41,
-            "chutes": 1,
-            "total": 42
-        },
-        {
-            "nome": "Gareth Frank Bale",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Haji Wright",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Harry Wilson",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Joe Rodon",
-            "passes": 59,
-            "chutes": 0,
-            "total": 59
-        },
-        {
-            "nome": "Jordan Morris",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Joseff Morrell",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Joshua Sargent",
-            "passes": 11,
-            "chutes": 1,
-            "total": 12
-        },
-        {
-            "nome": "Kellyn Kai Perry-Acosta",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Kieffer Roberto Francisco Moore",
-            "passes": 15,
-            "chutes": 2,
-            "total": 17
-        },
-        {
-            "nome": "Matthew Charles Turner",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Neco Williams",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Sergino Dest",
-            "passes": 68,
-            "chutes": 1,
-            "total": 69
-        },
-        {
-            "nome": "Sorba Thomas",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Tim Ream",
-            "passes": 74,
-            "chutes": 0,
-            "total": 74
-        },
-        {
-            "nome": "Timothy Weah",
-            "passes": 28,
-            "chutes": 1,
-            "total": 29
-        },
-        {
-            "nome": "Tyler Adams",
-            "passes": 70,
-            "chutes": 1,
-            "total": 71
-        },
-        {
-            "nome": "Walker Zimmerman",
-            "passes": 85,
-            "chutes": 0,
-            "total": 85
-        },
-        {
-            "nome": "Wayne Hennessey",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Weston McKennie",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Yunus Dimoara Musah",
-            "passes": 43,
-            "chutes": 0,
-            "total": 43
-        }
-    ]
+    "tabela_stats": []
 }

@@ -17419,16 +17419,16 @@
             "is_goal": false
         },
         {
-            "left": 38.09,
-            "bottom": 87.45,
+            "left": 39.29,
+            "bottom": 87.95,
             "jogador": "Vinícius José Paixão de Oliveira Júnior",
             "tipo": "Shot",
             "time": "Brazil",
             "is_goal": true
         },
         {
-            "left": 50.86,
-            "bottom": 85.81,
+            "left": 50.42,
+            "bottom": 86.2,
             "jogador": "Neymar da Silva Santos Junior",
             "tipo": "Shot",
             "time": "Brazil",
@@ -17459,8 +17459,8 @@
             "is_goal": false
         },
         {
-            "left": 52.91,
-            "bottom": 89.37,
+            "left": 54.07,
+            "bottom": 89.52,
             "jogador": "Richarlison de Andrade",
             "tipo": "Shot",
             "time": "Brazil",
@@ -17491,8 +17491,8 @@
             "is_goal": false
         },
         {
-            "left": 54.87,
-            "bottom": 88.72,
+            "left": 55.0,
+            "bottom": 87.44,
             "jogador": "Lucas Tolentino Coelho de Lima",
             "tipo": "Shot",
             "time": "Brazil",
@@ -17579,8 +17579,8 @@
             "is_goal": false
         },
         {
-            "left": 49.04,
-            "bottom": 75.97,
+            "left": 50.34,
+            "bottom": 75.38,
             "jogador": "Seung-Ho Paik",
             "tipo": "Shot",
             "time": "South Korea",
@@ -17622,152 +17622,152 @@
     "scatter_data": [
         {
             "x": 2.87,
-            "y": 0.99,
+            "y": 0.63,
             "jogador": "Heung-Min Son"
         },
         {
             "x": 2.78,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Woo-Young Jung"
         },
         {
             "x": 4.28,
-            "y": 0.91,
+            "y": 0.56,
             "jogador": "In-Beom Hwang"
         },
         {
             "x": 5.14,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Young-Gwon Kim"
         },
         {
             "x": 5.37,
-            "y": 0.07,
+            "y": 0.02,
             "jogador": "Min Jae Kim"
         },
         {
             "x": 6.92,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Thiago Emiliano da Silva"
         },
         {
             "x": 4.82,
-            "y": 5.17,
+            "y": 3.1,
             "jogador": "Raphael Dias Belloli"
         },
         {
             "x": 1.68,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Jin-Su Kim"
         },
         {
             "x": 5.87,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Marcos Aoás Corrêa"
         },
         {
             "x": 6.05,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Danilo Luiz da Silva"
         },
         {
             "x": 3.28,
-            "y": 1.89,
+            "y": 1.35,
             "jogador": "Vinícius José Paixão de Oliveira Júnior"
         },
         {
             "x": 4.37,
-            "y": 0.61,
+            "y": 0.09,
             "jogador": "Moon-Hwan Kim"
         },
         {
             "x": 1.14,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Gue-Sung Cho"
         },
         {
             "x": 3.6,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Jae-Sung Lee"
         },
         {
             "x": 5.55,
-            "y": 0.95,
+            "y": 0.58,
             "jogador": "Carlos Henrique Casimiro"
         },
         {
             "x": 3.73,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Éder Gabriel Militão"
         },
         {
             "x": 1.55,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Alisson Ramsés Becker"
         },
         {
             "x": 2.41,
-            "y": 4.99,
+            "y": 2.13,
             "jogador": "Richarlison de Andrade"
         },
         {
             "x": 1.82,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Seung-Gyu Kim"
         },
         {
             "x": 5.51,
-            "y": 3.4,
+            "y": 2.41,
             "jogador": "Hee-Chan Hwang"
         },
         {
             "x": 4.46,
-            "y": 3.28,
+            "y": 1.98,
             "jogador": "Neymar da Silva Santos Junior"
         },
         {
             "x": 4.37,
-            "y": 1.84,
+            "y": 1.21,
             "jogador": "Lucas Tolentino Coelho de Lima"
         },
         {
             "x": 3.0,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Jun-Ho Son"
         },
         {
             "x": 1.73,
-            "y": 0.04,
+            "y": 0.0,
             "jogador": "Chul Hong"
         },
         {
             "x": 1.64,
-            "y": 0.33,
+            "y": 0.25,
             "jogador": "Daniel Alves da Silva"
         },
         {
             "x": 1.87,
-            "y": 0.22,
+            "y": 0.46,
             "jogador": "Seung-Ho Paik"
         },
         {
             "x": 1.14,
-            "y": 1.68,
+            "y": 0.32,
             "jogador": "Gabriel Teodoro Martinelli Silva"
         },
         {
             "x": 1.5,
-            "y": 0.27,
+            "y": 0.22,
             "jogador": "Gleison Bremer Silva Nascimento"
         },
         {
             "x": 0.68,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Kang-In Lee"
         },
         {
             "x": 0.64,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Rodrygo Silva de Goes"
         }
     ],
@@ -17804,192 +17804,5 @@
         "Young-Gwon Kim",
         "Éder Gabriel Militão"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alisson Ramsés Becker",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Carlos Henrique Casimiro",
-            "passes": 76,
-            "chutes": 1,
-            "total": 77
-        },
-        {
-            "nome": "Chul Hong",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Daniel Alves da Silva",
-            "passes": 19,
-            "chutes": 2,
-            "total": 21
-        },
-        {
-            "nome": "Danilo Luiz da Silva",
-            "passes": 74,
-            "chutes": 0,
-            "total": 74
-        },
-        {
-            "nome": "Gabriel Teodoro Martinelli Silva",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Gleison Bremer Silva Nascimento",
-            "passes": 19,
-            "chutes": 1,
-            "total": 20
-        },
-        {
-            "nome": "Gue-Sung Cho",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Hee-Chan Hwang",
-            "passes": 53,
-            "chutes": 5,
-            "total": 58
-        },
-        {
-            "nome": "Heung-Min Son",
-            "passes": 34,
-            "chutes": 1,
-            "total": 35
-        },
-        {
-            "nome": "In-Beom Hwang",
-            "passes": 49,
-            "chutes": 1,
-            "total": 50
-        },
-        {
-            "nome": "Jae-Sung Lee",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Jin-Su Kim",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Jun-Ho Son",
-            "passes": 40,
-            "chutes": 0,
-            "total": 40
-        },
-        {
-            "nome": "Kang-In Lee",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Lucas Tolentino Coelho de Lima",
-            "passes": 58,
-            "chutes": 2,
-            "total": 60
-        },
-        {
-            "nome": "Marcos Aoás Corrêa",
-            "passes": 72,
-            "chutes": 0,
-            "total": 72
-        },
-        {
-            "nome": "Min Jae Kim",
-            "passes": 65,
-            "chutes": 0,
-            "total": 65
-        },
-        {
-            "nome": "Moon-Hwan Kim",
-            "passes": 52,
-            "chutes": 0,
-            "total": 52
-        },
-        {
-            "nome": "Neymar da Silva Santos Junior",
-            "passes": 46,
-            "chutes": 3,
-            "total": 49
-        },
-        {
-            "nome": "Raphael Dias Belloli",
-            "passes": 47,
-            "chutes": 5,
-            "total": 52
-        },
-        {
-            "nome": "Richarlison de Andrade",
-            "passes": 21,
-            "chutes": 2,
-            "total": 23
-        },
-        {
-            "nome": "Rodrygo Silva de Goes",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Seung-Gyu Kim",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Seung-Ho Paik",
-            "passes": 24,
-            "chutes": 1,
-            "total": 25
-        },
-        {
-            "nome": "Thiago Emiliano da Silva",
-            "passes": 86,
-            "chutes": 0,
-            "total": 86
-        },
-        {
-            "nome": "Vinícius José Paixão de Oliveira Júnior",
-            "passes": 29,
-            "chutes": 2,
-            "total": 31
-        },
-        {
-            "nome": "Weverton Pereira da Silva",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Woo-Young Jung",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Young-Gwon Kim",
-            "passes": 62,
-            "chutes": 0,
-            "total": 62
-        },
-        {
-            "nome": "Éder Gabriel Militão",
-            "passes": 48,
-            "chutes": 0,
-            "total": 48
-        }
-    ]
+    "tabela_stats": []
 }

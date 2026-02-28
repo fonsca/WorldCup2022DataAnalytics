@@ -10907,8 +10907,8 @@
             "is_goal": false
         },
         {
-            "left": 49.57,
-            "bottom": 93.16,
+            "left": 51.19,
+            "bottom": 93.58,
             "jogador": "Henry Josué Martín Mex",
             "tipo": "Shot",
             "time": "Mexico",
@@ -10923,8 +10923,8 @@
             "is_goal": false
         },
         {
-            "left": 51.22,
-            "bottom": 69.59,
+            "left": 51.04,
+            "bottom": 69.99,
             "jogador": "Luis Gerardo Chávez Magallón",
             "tipo": "Shot",
             "time": "Mexico",
@@ -11051,8 +11051,8 @@
             "is_goal": false
         },
         {
-            "left": 56.45,
-            "bottom": 88.62,
+            "left": 56.44,
+            "bottom": 88.05,
             "jogador": "Salem Mohammed Al Dawsari",
             "tipo": "Shot",
             "time": "Saudi Arabia",
@@ -11246,22 +11246,22 @@
     "scatter_data": [
         {
             "x": 1.57,
-            "y": 1.94,
+            "y": 1.8,
             "jogador": "Henry Josué Martín Mex"
         },
         {
             "x": 7.5,
-            "y": 5.31,
+            "y": 4.61,
             "jogador": "Luis Gerardo Chávez Magallón"
         },
         {
             "x": 4.14,
-            "y": 0.02,
+            "y": 0.1,
             "jogador": "Jorge Eduardo Sánchez Ramos"
         },
         {
             "x": 8.14,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "César Jasib Montes Castro"
         },
         {
@@ -11271,12 +11271,12 @@
         },
         {
             "x": 6.93,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Héctor Alfredo Moreno Herrera"
         },
         {
             "x": 6.14,
-            "y": 0.83,
+            "y": 0.13,
             "jogador": "Edson Omar Álvarez Velázquez"
         },
         {
@@ -11286,7 +11286,7 @@
         },
         {
             "x": 4.57,
-            "y": 2.23,
+            "y": 1.94,
             "jogador": "Orbelín Pineda Alvarado"
         },
         {
@@ -11296,67 +11296,67 @@
         },
         {
             "x": 4.36,
-            "y": 0.17,
+            "y": 0.62,
             "jogador": "Abdulelah Al Amri"
         },
         {
             "x": 2.5,
-            "y": 0.12,
+            "y": 0.26,
             "jogador": "Saleh Khalid Al Shehri"
         },
         {
             "x": 4.07,
-            "y": 0.98,
+            "y": 1.27,
             "jogador": "Sultan Abdullah Salim Al Ghannam"
         },
         {
             "x": 3.93,
-            "y": 0.3,
+            "y": 1.28,
             "jogador": "Mohammed Kanoo"
         },
         {
             "x": 3.07,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Saud Abdullah Abdul Hamid"
         },
         {
             "x": 3.36,
-            "y": 1.47,
+            "y": 0.57,
             "jogador": "Salem Mohammed Al Dawsari"
         },
         {
             "x": 1.14,
-            "y": 0.86,
+            "y": 0.59,
             "jogador": "Ali Al Hassan"
         },
         {
             "x": 6.36,
-            "y": 0.9,
+            "y": 0.75,
             "jogador": "Jesús Daniel Gallardo Vasconcelos"
         },
         {
             "x": 5.93,
-            "y": 2.86,
+            "y": 2.01,
             "jogador": "Hirving Rodrigo Lozano Bahena"
         },
         {
             "x": 3.29,
-            "y": 0.11,
+            "y": 0.61,
             "jogador": "Firas Tariq Nasser Al Albirakan"
         },
         {
             "x": 2.14,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Hassan Mohammed Al-Tambakti"
         },
         {
             "x": 1.64,
-            "y": 1.06,
+            "y": 1.29,
             "jogador": "Ernesto Alexis Vega Rojas"
         },
         {
             "x": 2.57,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Riyadh Sharahili"
         },
         {
@@ -11366,22 +11366,22 @@
         },
         {
             "x": 1.07,
-            "y": 0.9,
+            "y": 0.73,
             "jogador": "Carlos Uriel Antuna Romero"
         },
         {
             "x": 1.14,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Abdulrahman Al-Obood"
         },
         {
             "x": 1.0,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Raúl Alonso Jiménez Rodríguez"
         },
         {
             "x": 1.43,
-            "y": 0.0,
+            "y": 0.07,
             "jogador": "Carlos Alberto Rodríguez Gómez"
         },
         {
@@ -11423,192 +11423,5 @@
         "Saud Abdullah Abdul Hamid",
         "Sultan Abdullah Salim Al Ghannam"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdulelah Al Amri",
-            "passes": 41,
-            "chutes": 1,
-            "total": 42
-        },
-        {
-            "nome": "Abdullah Mohammed Madu",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Abdulrahman Al-Obood",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Ali Al Hassan",
-            "passes": 8,
-            "chutes": 1,
-            "total": 9
-        },
-        {
-            "nome": "Ali Albulayhi",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Carlos Alberto Rodríguez Gómez",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Carlos Uriel Antuna Romero",
-            "passes": 8,
-            "chutes": 1,
-            "total": 9
-        },
-        {
-            "nome": "César Jasib Montes Castro",
-            "passes": 67,
-            "chutes": 0,
-            "total": 67
-        },
-        {
-            "nome": "Edson Omar Álvarez Velázquez",
-            "passes": 51,
-            "chutes": 1,
-            "total": 52
-        },
-        {
-            "nome": "Ernesto Alexis Vega Rojas",
-            "passes": 13,
-            "chutes": 2,
-            "total": 15
-        },
-        {
-            "nome": "Firas Tariq Nasser Al Albirakan",
-            "passes": 26,
-            "chutes": 1,
-            "total": 27
-        },
-        {
-            "nome": "Francisco Guillermo Ochoa Magaña",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Hassan Mohammed Al-Tambakti",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Hattan Babhir",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Henry Josué Martín Mex",
-            "passes": 10,
-            "chutes": 3,
-            "total": 13
-        },
-        {
-            "nome": "Hirving Rodrigo Lozano Bahena",
-            "passes": 34,
-            "chutes": 4,
-            "total": 38
-        },
-        {
-            "nome": "Héctor Alfredo Moreno Herrera",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Jesús Daniel Gallardo Vasconcelos",
-            "passes": 57,
-            "chutes": 1,
-            "total": 58
-        },
-        {
-            "nome": "Jorge Eduardo Sánchez Ramos",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Kevin Nahin Álvarez Campos",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Luis Gerardo Chávez Magallón",
-            "passes": 58,
-            "chutes": 9,
-            "total": 67
-        },
-        {
-            "nome": "Mohammed Kanoo",
-            "passes": 27,
-            "chutes": 2,
-            "total": 29
-        },
-        {
-            "nome": "Mohammed Khalil Al Owais",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Orbelín Pineda Alvarado",
-            "passes": 26,
-            "chutes": 4,
-            "total": 30
-        },
-        {
-            "nome": "Raúl Alonso Jiménez Rodríguez",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Riyadh Sharahili",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Rogelio Gabriel Funes Mori",
-            "passes": 0,
-            "chutes": 1,
-            "total": 1
-        },
-        {
-            "nome": "Saleh Khalid Al Shehri",
-            "passes": 16,
-            "chutes": 1,
-            "total": 17
-        },
-        {
-            "nome": "Salem Mohammed Al Dawsari",
-            "passes": 23,
-            "chutes": 2,
-            "total": 25
-        },
-        {
-            "nome": "Saud Abdullah Abdul Hamid",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Sultan Abdullah Salim Al Ghannam",
-            "passes": 36,
-            "chutes": 2,
-            "total": 38
-        }
-    ]
+    "tabela_stats": []
 }

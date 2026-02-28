@@ -18947,8 +18947,8 @@
             "is_goal": false
         },
         {
-            "left": 48.99,
-            "bottom": 82.32,
+            "left": 49.24,
+            "bottom": 83.69,
             "jogador": "Cody Mathès Gakpo",
             "tipo": "Shot",
             "time": "Netherlands",
@@ -18979,8 +18979,8 @@
             "is_goal": false
         },
         {
-            "left": 51.17,
-            "bottom": 93.73,
+            "left": 50.41,
+            "bottom": 94.01,
             "jogador": "Frenkie de Jong",
             "tipo": "Shot",
             "time": "Netherlands",
@@ -19174,12 +19174,12 @@
     "scatter_data": [
         {
             "x": 2.97,
-            "y": 3.91,
+            "y": 3.17,
             "jogador": "Memphis Depay"
         },
         {
             "x": 7.32,
-            "y": 1.28,
+            "y": 1.2,
             "jogador": "Frenkie de Jong"
         },
         {
@@ -19194,12 +19194,12 @@
         },
         {
             "x": 8.11,
-            "y": 1.8,
+            "y": 1.51,
             "jogador": "Daley Blind"
         },
         {
             "x": 6.4,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Virgil van Dijk"
         },
         {
@@ -19219,17 +19219,17 @@
         },
         {
             "x": 3.14,
-            "y": 0.02,
+            "y": 0.08,
             "jogador": "Pedro Miguel Correia"
         },
         {
             "x": 2.59,
-            "y": 0.92,
+            "y": 0.65,
             "jogador": "Davy Klaassen"
         },
         {
             "x": 3.14,
-            "y": 1.86,
+            "y": 1.2,
             "jogador": "Cody Mathès Gakpo"
         },
         {
@@ -19239,17 +19239,17 @@
         },
         {
             "x": 3.39,
-            "y": 0.92,
+            "y": 0.72,
             "jogador": "Abdelkarim Hassan Al Haj Fadlalla"
         },
         {
             "x": 1.71,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Andries Noppert"
         },
         {
             "x": 2.3,
-            "y": 0.89,
+            "y": 0.57,
             "jogador": "Ismaeel Mohammad Mohammad"
         },
         {
@@ -19259,32 +19259,32 @@
         },
         {
             "x": 5.98,
-            "y": 0.03,
+            "y": 0.02,
             "jogador": "Akram Hassan Afif"
         },
         {
             "x": 2.59,
-            "y": 0.77,
+            "y": 0.53,
             "jogador": "Hassan Khalid Al Heidos"
         },
         {
             "x": 2.05,
-            "y": 0.02,
+            "y": 0.03,
             "jogador": "Homam Alamin Ahmed"
         },
         {
             "x": 3.14,
-            "y": 0.19,
+            "y": 0.39,
             "jogador": "Abdulaziz Hatem Mohammed Abdullah"
         },
         {
             "x": 1.05,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Almoez Ali Zainalabiddin Abdulla"
         },
         {
             "x": 1.84,
-            "y": 0.0,
+            "y": 0.08,
             "jogador": "Karim Boudiaf"
         },
         {
@@ -19294,12 +19294,12 @@
         },
         {
             "x": 1.76,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Ali Assadalla Thaimn Qambar"
         },
         {
             "x": 2.68,
-            "y": 0.19,
+            "y": 0.17,
             "jogador": "Steven Berghuis"
         },
         {
@@ -19309,12 +19309,12 @@
         },
         {
             "x": 1.21,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Teun Koopmeiners"
         },
         {
             "x": 0.67,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Kenneth Taylor"
         }
     ],
@@ -19352,198 +19352,5 @@
         "Virgil van Dijk",
         "Wout Weghorst"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdelkarim Hassan Al Haj Fadlalla",
-            "passes": 45,
-            "chutes": 1,
-            "total": 46
-        },
-        {
-            "nome": "Abdulaziz Hatem Mohammed Abdullah",
-            "passes": 39,
-            "chutes": 1,
-            "total": 40
-        },
-        {
-            "nome": "Ahmed Alaa Eldin Abdelmotaal",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Akram Hassan Afif",
-            "passes": 81,
-            "chutes": 0,
-            "total": 81
-        },
-        {
-            "nome": "Ali Assadalla Thaimn Qambar",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Almoez Ali Zainalabiddin Abdulla",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Andries Noppert",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Assim Omer Al Haj Madibo",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Boualem Khoukhi",
-            "passes": 54,
-            "chutes": 0,
-            "total": 54
-        },
-        {
-            "nome": "Cody Mathès Gakpo",
-            "passes": 40,
-            "chutes": 2,
-            "total": 42
-        },
-        {
-            "nome": "Daley Blind",
-            "passes": 110,
-            "chutes": 2,
-            "total": 112
-        },
-        {
-            "nome": "Davy Klaassen",
-            "passes": 35,
-            "chutes": 1,
-            "total": 36
-        },
-        {
-            "nome": "Denzel Dumfries",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Frenkie de Jong",
-            "passes": 94,
-            "chutes": 2,
-            "total": 96
-        },
-        {
-            "nome": "Hassan Khalid Al Heidos",
-            "passes": 24,
-            "chutes": 1,
-            "total": 25
-        },
-        {
-            "nome": "Homam Alamin Ahmed",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Ismaeel Mohammad Mohammad",
-            "passes": 29,
-            "chutes": 1,
-            "total": 30
-        },
-        {
-            "nome": "Jurriën David Norman Timber",
-            "passes": 115,
-            "chutes": 0,
-            "total": 115
-        },
-        {
-            "nome": "Karim Boudiaf",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Kenneth Taylor",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Marten de Roon",
-            "passes": 69,
-            "chutes": 0,
-            "total": 69
-        },
-        {
-            "nome": "Memphis Depay",
-            "passes": 33,
-            "chutes": 5,
-            "total": 38
-        },
-        {
-            "nome": "Meshaal Aissa Barsham",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Mohammed Muntari",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Mosaab Khoder Jibril",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Nathan Aké",
-            "passes": 99,
-            "chutes": 0,
-            "total": 99
-        },
-        {
-            "nome": "Pedro Miguel Correia",
-            "passes": 45,
-            "chutes": 1,
-            "total": 46
-        },
-        {
-            "nome": "Steven Berghuis",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Teun Koopmeiners",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Vincent Janssen",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Virgil van Dijk",
-            "passes": 86,
-            "chutes": 0,
-            "total": 86
-        },
-        {
-            "nome": "Wout Weghorst",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        }
-    ]
+    "tabela_stats": []
 }

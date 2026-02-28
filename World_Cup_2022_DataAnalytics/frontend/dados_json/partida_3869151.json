@@ -17723,8 +17723,8 @@
             "is_goal": false
         },
         {
-            "left": 60.55,
-            "bottom": 84.15,
+            "left": 60.85,
+            "bottom": 83.97,
             "jogador": "Lionel Andrés Messi Cuccittini",
             "tipo": "Shot",
             "time": "Argentina",
@@ -17739,8 +17739,8 @@
             "is_goal": false
         },
         {
-            "left": 61.86,
-            "bottom": 88.4,
+            "left": 62.31,
+            "bottom": 88.6,
             "jogador": "Julián Álvarez",
             "tipo": "Shot",
             "time": "Argentina",
@@ -17862,57 +17862,57 @@
     "scatter_data": [
         {
             "x": 2.51,
-            "y": 0.06,
+            "y": 0.04,
             "jogador": "Jackson Irvine"
         },
         {
             "x": 5.3,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Kye Rowles"
         },
         {
             "x": 1.17,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Mathew Leckie"
         },
         {
             "x": 0.99,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Mitchell Thomas Duke"
         },
         {
             "x": 3.28,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Miloš Degenek"
         },
         {
             "x": 8.35,
-            "y": 0.07,
+            "y": 0.02,
             "jogador": "Enzo Fernandez"
         },
         {
             "x": 6.24,
-            "y": 0.6,
+            "y": 2.61,
             "jogador": "Lionel Andrés Messi Cuccittini"
         },
         {
             "x": 3.28,
-            "y": 0.18,
+            "y": 0.8,
             "jogador": "Alejandro Darío Gómez"
         },
         {
             "x": 5.07,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Marcos Javier Acuña"
         },
         {
             "x": 7.95,
-            "y": 0.08,
+            "y": 0.01,
             "jogador": "Nicolás Hernán Otamendi"
         },
         {
             "x": 6.47,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Cristian Gabriel Romero"
         },
         {
@@ -17922,72 +17922,72 @@
         },
         {
             "x": 7.81,
-            "y": 0.08,
+            "y": 0.1,
             "jogador": "Rodrigo Javier De Paul"
         },
         {
             "x": 4.13,
-            "y": 0.12,
+            "y": 0.72,
             "jogador": "Aziz Eraltay Behich"
         },
         {
             "x": 4.58,
-            "y": 0.1,
+            "y": 0.65,
             "jogador": "Harry Souttar"
         },
         {
             "x": 4.0,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Mathew Ryan"
         },
         {
             "x": 4.45,
-            "y": 0.06,
+            "y": 0.02,
             "jogador": "Aaron Mooy"
         },
         {
             "x": 2.42,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Damián Emiliano Martínez"
         },
         {
             "x": 4.22,
-            "y": 0.08,
+            "y": 0.01,
             "jogador": "Alexis Mac Allister"
         },
         {
             "x": 1.21,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Riley McGree"
         },
         {
             "x": 1.8,
-            "y": 0.06,
+            "y": 0.62,
             "jogador": "Julián Álvarez"
         },
         {
             "x": 1.26,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Keanu Baccus"
         },
         {
             "x": 1.44,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Lisandro Martínez"
         },
         {
             "x": 1.12,
-            "y": 0.05,
+            "y": 0.59,
             "jogador": "Craig Goodwin"
         },
         {
             "x": 1.08,
-            "y": 0.07,
+            "y": 0.05,
             "jogador": "Ajdin Hrustic"
         },
         {
             "x": 0.94,
-            "y": 0.04,
+            "y": 0.54,
             "jogador": "Nicolás Alejandro Tagliafico"
         },
         {
@@ -17997,12 +17997,12 @@
         },
         {
             "x": 1.39,
-            "y": 0.14,
+            "y": 1.22,
             "jogador": "Lautaro Javier Martínez"
         },
         {
             "x": 0.67,
-            "y": 0.04,
+            "y": 0.23,
             "jogador": "Exequiel Alejandro Palacios"
         }
     ],
@@ -18040,198 +18040,5 @@
         "Riley McGree",
         "Rodrigo Javier De Paul"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Aaron Mooy",
-            "passes": 59,
-            "chutes": 0,
-            "total": 59
-        },
-        {
-            "nome": "Ajdin Hrustic",
-            "passes": 9,
-            "chutes": 1,
-            "total": 10
-        },
-        {
-            "nome": "Alejandro Darío Gómez",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Alexis Mac Allister",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Aziz Eraltay Behich",
-            "passes": 54,
-            "chutes": 1,
-            "total": 55
-        },
-        {
-            "nome": "Craig Goodwin",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Cristian Gabriel Romero",
-            "passes": 78,
-            "chutes": 0,
-            "total": 78
-        },
-        {
-            "nome": "Damián Emiliano Martínez",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Enzo Fernandez",
-            "passes": 100,
-            "chutes": 0,
-            "total": 100
-        },
-        {
-            "nome": "Exequiel Alejandro Palacios",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Fran Karačić",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "Garang Kuol",
-            "passes": 1,
-            "chutes": 1,
-            "total": 2
-        },
-        {
-            "nome": "Gonzalo Ariel Montiel",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Harry Souttar",
-            "passes": 58,
-            "chutes": 1,
-            "total": 59
-        },
-        {
-            "nome": "Jackson Irvine",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Jamie MacLaren",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Julián Álvarez",
-            "passes": 17,
-            "chutes": 1,
-            "total": 18
-        },
-        {
-            "nome": "Keanu Baccus",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Kye Rowles",
-            "passes": 71,
-            "chutes": 0,
-            "total": 71
-        },
-        {
-            "nome": "Lautaro Javier Martínez",
-            "passes": 10,
-            "chutes": 4,
-            "total": 14
-        },
-        {
-            "nome": "Lionel Andrés Messi Cuccittini",
-            "passes": 61,
-            "chutes": 6,
-            "total": 67
-        },
-        {
-            "nome": "Lisandro Martínez",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Marcos Javier Acuña",
-            "passes": 60,
-            "chutes": 0,
-            "total": 60
-        },
-        {
-            "nome": "Mathew Leckie",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "Mathew Ryan",
-            "passes": 53,
-            "chutes": 0,
-            "total": 53
-        },
-        {
-            "nome": "Miloš Degenek",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Mitchell Thomas Duke",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Nahuel Molina Lucero",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Nicolás Alejandro Tagliafico",
-            "passes": 13,
-            "chutes": 1,
-            "total": 14
-        },
-        {
-            "nome": "Nicolás Hernán Otamendi",
-            "passes": 96,
-            "chutes": 0,
-            "total": 96
-        },
-        {
-            "nome": "Riley McGree",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Rodrigo Javier De Paul",
-            "passes": 91,
-            "chutes": 0,
-            "total": 91
-        }
-    ]
+    "tabela_stats": []
 }

@@ -15163,8 +15163,8 @@
             "is_goal": false
         },
         {
-            "left": 46.93,
-            "bottom": 85.55,
+            "left": 48.03,
+            "bottom": 86.27,
             "jogador": "Jordan Brian Henderson",
             "tipo": "Shot",
             "time": "England",
@@ -15179,8 +15179,8 @@
             "is_goal": false
         },
         {
-            "left": 62.62,
-            "bottom": 84.27,
+            "left": 62.71,
+            "bottom": 83.03,
             "jogador": "Harry Kane",
             "tipo": "Shot",
             "time": "England",
@@ -15212,7 +15212,7 @@
         },
         {
             "left": 45.48,
-            "bottom": 89.45,
+            "bottom": 88.85,
             "jogador": "Bukayo Saka",
             "tipo": "Shot",
             "time": "England",
@@ -15278,132 +15278,132 @@
     "scatter_data": [
         {
             "x": 1.0,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Iliman Ndiaye"
         },
         {
             "x": 4.57,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Kalidou Koulibaly"
         },
         {
             "x": 2.05,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Pathé Ismaël Ciss"
         },
         {
             "x": 4.73,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Abdou Diallo"
         },
         {
             "x": 4.46,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Nampalys Mendy"
         },
         {
             "x": 3.68,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Youssouf Sabaly"
         },
         {
             "x": 1.47,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Krépin Diatta"
         },
         {
             "x": 3.52,
-            "y": 0.08,
+            "y": 0.01,
             "jogador": "Philip Foden"
         },
         {
             "x": 5.57,
-            "y": 0.05,
+            "y": 0.04,
             "jogador": "Declan Rice"
         },
         {
             "x": 4.41,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Jordan Pickford"
         },
         {
             "x": 2.42,
-            "y": 1.06,
+            "y": 0.9,
             "jogador": "Ismaïla Sarr"
         },
         {
             "x": 6.09,
-            "y": 0.11,
+            "y": 0.01,
             "jogador": "Luke Shaw"
         },
         {
             "x": 7.2,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Harry Maguire"
         },
         {
             "x": 8.82,
-            "y": 0.89,
+            "y": 0.7,
             "jogador": "John Stones"
         },
         {
             "x": 7.41,
-            "y": 0.06,
+            "y": 0.04,
             "jogador": "Kyle Walker"
         },
         {
             "x": 4.15,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Jude Bellingham"
         },
         {
             "x": 4.94,
-            "y": 0.93,
+            "y": 0.63,
             "jogador": "Jordan Brian Henderson"
         },
         {
             "x": 3.47,
-            "y": 2.05,
+            "y": 1.85,
             "jogador": "Harry Kane"
         },
         {
             "x": 1.89,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Edouard Mendy"
         },
         {
             "x": 2.84,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Ismail Jakobs"
         },
         {
             "x": 3.2,
-            "y": 1.0,
+            "y": 1.25,
             "jogador": "Bukayo Saka"
         },
         {
             "x": 1.1,
-            "y": 1.63,
+            "y": 1.31,
             "jogador": "Boulaye Dia"
         },
         {
             "x": 2.99,
-            "y": 1.02,
+            "y": 1.64,
             "jogador": "Pape Matar Sarr"
         },
         {
             "x": 2.0,
-            "y": 0.16,
+            "y": 0.27,
             "jogador": "Pape Gueye"
         },
         {
             "x": 0.89,
-            "y": 0.12,
+            "y": 0.15,
             "jogador": "Cheikh Ahmadou Bamba Mbacke Dieng"
         },
         {
             "x": 1.1,
-            "y": 0.19,
+            "y": 0.11,
             "jogador": "Marcus Rashford"
         },
         {
@@ -15418,7 +15418,7 @@
         },
         {
             "x": 0.79,
-            "y": 0.01,
+            "y": 0.05,
             "jogador": "Fodé Ballo Touré"
         }
     ],
@@ -15456,198 +15456,5 @@
         "Philip Foden",
         "Youssouf Sabaly"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdou Diallo",
-            "passes": 53,
-            "chutes": 0,
-            "total": 53
-        },
-        {
-            "nome": "Boulaye Dia",
-            "passes": 9,
-            "chutes": 2,
-            "total": 11
-        },
-        {
-            "nome": "Bukayo Saka",
-            "passes": 30,
-            "chutes": 2,
-            "total": 32
-        },
-        {
-            "nome": "Cheikh Ahmadou Bamba Mbacke Dieng",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Declan Rice",
-            "passes": 57,
-            "chutes": 0,
-            "total": 57
-        },
-        {
-            "nome": "Edouard Mendy",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Eric Dier",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Famara Diedhiou",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Fodé Ballo Touré",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Harry Kane",
-            "passes": 25,
-            "chutes": 3,
-            "total": 28
-        },
-        {
-            "nome": "Harry Maguire",
-            "passes": 75,
-            "chutes": 0,
-            "total": 75
-        },
-        {
-            "nome": "Iliman Ndiaye",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Ismail Jakobs",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Ismaïla Sarr",
-            "passes": 20,
-            "chutes": 2,
-            "total": 22
-        },
-        {
-            "nome": "Jack Grealish",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "John Stones",
-            "passes": 89,
-            "chutes": 1,
-            "total": 90
-        },
-        {
-            "nome": "Jordan Brian Henderson",
-            "passes": 48,
-            "chutes": 1,
-            "total": 49
-        },
-        {
-            "nome": "Jordan Pickford",
-            "passes": 48,
-            "chutes": 0,
-            "total": 48
-        },
-        {
-            "nome": "Jude Bellingham",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Kalidou Koulibaly",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Kalvin Phillips",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Krépin Diatta",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Kyle Walker",
-            "passes": 76,
-            "chutes": 0,
-            "total": 76
-        },
-        {
-            "nome": "Luke Shaw",
-            "passes": 67,
-            "chutes": 0,
-            "total": 67
-        },
-        {
-            "nome": "Marcus Rashford",
-            "passes": 11,
-            "chutes": 1,
-            "total": 12
-        },
-        {
-            "nome": "Mason Mount",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Nampalys Mendy",
-            "passes": 52,
-            "chutes": 0,
-            "total": 52
-        },
-        {
-            "nome": "Pape Gueye",
-            "passes": 20,
-            "chutes": 1,
-            "total": 21
-        },
-        {
-            "nome": "Pape Matar Sarr",
-            "passes": 32,
-            "chutes": 4,
-            "total": 36
-        },
-        {
-            "nome": "Pathé Ismaël Ciss",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Philip Foden",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Youssouf Sabaly",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        }
-    ]
+    "tabela_stats": []
 }

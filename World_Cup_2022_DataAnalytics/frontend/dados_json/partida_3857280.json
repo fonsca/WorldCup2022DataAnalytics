@@ -13491,8 +13491,8 @@
             "is_goal": false
         },
         {
-            "left": 49.86,
-            "bottom": 84.91,
+            "left": 51.1,
+            "bottom": 86.73,
             "jogador": "Vincent Paté Aboubakar",
             "tipo": "Shot",
             "time": "Cameroon",
@@ -13534,22 +13534,22 @@
     "scatter_data": [
         {
             "x": 1.72,
-            "y": 0.07,
+            "y": 1.26,
             "jogador": "Gabriel Fernando de Jesus"
         },
         {
             "x": 5.52,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Fábio Henrique Tavares"
         },
         {
             "x": 3.62,
-            "y": 0.12,
+            "y": 1.2,
             "jogador": "Rodrygo Silva de Goes"
         },
         {
             "x": 3.26,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Alex Nicolao Telles"
         },
         {
@@ -13559,12 +13559,12 @@
         },
         {
             "x": 7.95,
-            "y": 0.89,
+            "y": 0.62,
             "jogador": "Éder Gabriel Militão"
         },
         {
             "x": 2.43,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Ngoran Suiru Fai Collins"
         },
         {
@@ -13574,7 +13574,7 @@
         },
         {
             "x": 5.4,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "André-Frank Zambo Anguissa"
         },
         {
@@ -13584,32 +13584,32 @@
         },
         {
             "x": 5.81,
-            "y": 1.1,
+            "y": 1.5,
             "jogador": "Antony Matheus dos Santos"
         },
         {
             "x": 3.8,
-            "y": 0.07,
+            "y": 1.34,
             "jogador": "Frederico Rodrigues Santos"
         },
         {
             "x": 8.01,
-            "y": 0.09,
+            "y": 0.82,
             "jogador": "Daniel Alves da Silva"
         },
         {
             "x": 1.78,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Nouhou Tolo"
         },
         {
             "x": 1.9,
-            "y": 1.05,
+            "y": 1.46,
             "jogador": "Vincent Paté Aboubakar"
         },
         {
             "x": 2.61,
-            "y": 0.28,
+            "y": 0.52,
             "jogador": "Pierre Kunde Malong"
         },
         {
@@ -13619,7 +13619,7 @@
         },
         {
             "x": 3.44,
-            "y": 0.91,
+            "y": 0.62,
             "jogador": "Christopher Wooh"
         },
         {
@@ -13629,52 +13629,52 @@
         },
         {
             "x": 2.91,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Nicolas Moumi Ngamaleu"
         },
         {
             "x": 1.78,
-            "y": 0.04,
+            "y": 0.61,
             "jogador": "Bryan Mbeumo"
         },
         {
             "x": 4.39,
-            "y": 0.95,
+            "y": 2.02,
             "jogador": "Gabriel Teodoro Martinelli Silva"
         },
         {
             "x": 3.2,
-            "y": 0.01,
+            "y": 0.06,
             "jogador": "Marcos Aoás Corrêa"
         },
         {
             "x": 1.96,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Éverton Augusto de Barros Ribeiro"
         },
         {
             "x": 3.44,
-            "y": 1.72,
+            "y": 1.36,
             "jogador": "Bruno Guimarães Rodriguez Moura"
         },
         {
             "x": 1.13,
-            "y": 0.6,
+            "y": 0.38,
             "jogador": "Pedro Guilherme Abreu dos Santos"
         },
         {
             "x": 1.25,
-            "y": 0.01,
+            "y": 0.27,
             "jogador": "Karl Brillant Toko Ekambi"
         },
         {
             "x": 1.54,
-            "y": 0.79,
+            "y": 0.44,
             "jogador": "Jules Olivier Ntcham"
         },
         {
             "x": 1.13,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Raphael Dias Belloli"
         }
     ],
@@ -13710,186 +13710,5 @@
         "Éder Gabriel Militão",
         "Éverton Augusto de Barros Ribeiro"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alex Nicolao Telles",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "André-Frank Zambo Anguissa",
-            "passes": 49,
-            "chutes": 0,
-            "total": 49
-        },
-        {
-            "nome": "Antony Matheus dos Santos",
-            "passes": 50,
-            "chutes": 3,
-            "total": 53
-        },
-        {
-            "nome": "Bruno Guimarães Rodriguez Moura",
-            "passes": 31,
-            "chutes": 4,
-            "total": 35
-        },
-        {
-            "nome": "Bryan Mbeumo",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Christopher Wooh",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Daniel Alves da Silva",
-            "passes": 80,
-            "chutes": 1,
-            "total": 81
-        },
-        {
-            "nome": "Devis Rogers Epassy Mboka",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Ederson Santana de Moraes",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Enzo Ebosse",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Frederico Rodrigues Santos",
-            "passes": 33,
-            "chutes": 2,
-            "total": 35
-        },
-        {
-            "nome": "Fábio Henrique Tavares",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Gabriel Fernando de Jesus",
-            "passes": 13,
-            "chutes": 2,
-            "total": 15
-        },
-        {
-            "nome": "Gabriel Teodoro Martinelli Silva",
-            "passes": 31,
-            "chutes": 4,
-            "total": 35
-        },
-        {
-            "nome": "Gleison Bremer Silva Nascimento",
-            "passes": 66,
-            "chutes": 0,
-            "total": 66
-        },
-        {
-            "nome": "Jean-Eric Maxim Choupo-Moting",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Jerome Ngom Mbekeli",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Jules Olivier Ntcham",
-            "passes": 12,
-            "chutes": 1,
-            "total": 13
-        },
-        {
-            "nome": "Karl Brillant Toko Ekambi",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Marcos Aoás Corrêa",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Ngoran Suiru Fai Collins",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Nicolas Moumi Ngamaleu",
-            "passes": 21,
-            "chutes": 0,
-            "total": 21
-        },
-        {
-            "nome": "Nouhou Tolo",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Pedro Guilherme Abreu dos Santos",
-            "passes": 8,
-            "chutes": 2,
-            "total": 10
-        },
-        {
-            "nome": "Pierre Kunde Malong",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Raphael Dias Belloli",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Rodrygo Silva de Goes",
-            "passes": 29,
-            "chutes": 2,
-            "total": 31
-        },
-        {
-            "nome": "Vincent Paté Aboubakar",
-            "passes": 15,
-            "chutes": 3,
-            "total": 18
-        },
-        {
-            "nome": "Éder Gabriel Militão",
-            "passes": 75,
-            "chutes": 1,
-            "total": 76
-        },
-        {
-            "nome": "Éverton Augusto de Barros Ribeiro",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        }
-    ]
+    "tabela_stats": []
 }

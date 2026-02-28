@@ -14067,8 +14067,8 @@
             "is_goal": false
         },
         {
-            "left": 47.8,
-            "bottom": 77.4,
+            "left": 47.63,
+            "bottom": 76.03,
             "jogador": "Lionel Andrés Messi Cuccittini",
             "tipo": "Shot",
             "time": "Argentina",
@@ -14083,8 +14083,8 @@
             "is_goal": false
         },
         {
-            "left": 30.98,
-            "bottom": 85.74,
+            "left": 29.83,
+            "bottom": 85.51,
             "jogador": "Enzo Fernandez",
             "tipo": "Shot",
             "time": "Argentina",
@@ -14094,152 +14094,152 @@
     "scatter_data": [
         {
             "x": 1.54,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "José Andrés Guardado Hernández"
         },
         {
             "x": 4.1,
-            "y": 0.13,
+            "y": 0.09,
             "jogador": "Héctor Miguel Herrera López"
         },
         {
             "x": 2.28,
-            "y": 0.09,
+            "y": 0.0,
             "jogador": "Damián Emiliano Martínez"
         },
         {
             "x": 8.37,
-            "y": 0.14,
+            "y": 0.01,
             "jogador": "Nicolás Hernán Otamendi"
         },
         {
             "x": 5.3,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Gonzalo Ariel Montiel"
         },
         {
             "x": 4.1,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "Ángel Fabián Di María Hernández"
         },
         {
             "x": 3.59,
-            "y": 0.04,
+            "y": 0.09,
             "jogador": "Marcos Javier Acuña"
         },
         {
             "x": 5.47,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Lisandro Martínez"
         },
         {
             "x": 7.18,
-            "y": 0.09,
+            "y": 0.02,
             "jogador": "Rodrigo Javier De Paul"
         },
         {
             "x": 6.21,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Guido Rodríguez"
         },
         {
             "x": 5.52,
-            "y": 1.79,
+            "y": 1.09,
             "jogador": "Lionel Andrés Messi Cuccittini"
         },
         {
             "x": 3.93,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Alexis Mac Allister"
         },
         {
             "x": 2.51,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Jesús Daniel Gallardo Vasconcelos"
         },
         {
             "x": 4.73,
-            "y": 0.12,
+            "y": 0.01,
             "jogador": "Héctor Alfredo Moreno Herrera"
         },
         {
             "x": 1.31,
-            "y": 0.88,
+            "y": 0.58,
             "jogador": "Hirving Rodrigo Lozano Bahena"
         },
         {
             "x": 1.37,
-            "y": 1.44,
+            "y": 1.1,
             "jogador": "Ernesto Alexis Vega Rojas"
         },
         {
             "x": 5.41,
-            "y": 0.11,
+            "y": 0.01,
             "jogador": "Néstor Alejandro Araújo Razo"
         },
         {
             "x": 1.94,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Kevin Nahin Álvarez Campos"
         },
         {
             "x": 3.02,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Luis Gerardo Chávez Magallón"
         },
         {
             "x": 2.62,
-            "y": 0.15,
+            "y": 0.01,
             "jogador": "Francisco Guillermo Ochoa Magaña"
         },
         {
             "x": 5.98,
-            "y": 1.03,
+            "y": 0.75,
             "jogador": "César Jasib Montes Castro"
         },
         {
             "x": 1.03,
-            "y": 0.85,
+            "y": 0.63,
             "jogador": "Lautaro Javier Martínez"
         },
         {
             "x": 3.08,
-            "y": 0.1,
+            "y": 0.01,
             "jogador": "Érick Gabriel Gutiérrez Galaviz"
         },
         {
             "x": 2.79,
-            "y": 0.43,
+            "y": 0.29,
             "jogador": "Enzo Fernandez"
         },
         {
             "x": 1.25,
-            "y": 0.84,
+            "y": 0.66,
             "jogador": "Nahuel Molina Lucero"
         },
         {
             "x": 1.31,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Raúl Alonso Jiménez Rodríguez"
         },
         {
             "x": 0.85,
-            "y": 0.03,
+            "y": 0.04,
             "jogador": "Carlos Uriel Antuna Romero"
         },
         {
             "x": 0.63,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Exequiel Alejandro Palacios"
         },
         {
             "x": 0.91,
-            "y": 0.05,
+            "y": 0.11,
             "jogador": "Julián Álvarez"
         },
         {
             "x": 1.31,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "Roberto Carlos Alvarado Hernández"
         }
     ],
@@ -14276,192 +14276,5 @@
         "Ángel Fabián Di María Hernández",
         "Érick Gabriel Gutiérrez Galaviz"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alexis Mac Allister",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Carlos Uriel Antuna Romero",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Cristian Gabriel Romero",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "César Jasib Montes Castro",
-            "passes": 58,
-            "chutes": 1,
-            "total": 59
-        },
-        {
-            "nome": "Damián Emiliano Martínez",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        },
-        {
-            "nome": "Enzo Fernandez",
-            "passes": 28,
-            "chutes": 1,
-            "total": 29
-        },
-        {
-            "nome": "Ernesto Alexis Vega Rojas",
-            "passes": 9,
-            "chutes": 2,
-            "total": 11
-        },
-        {
-            "nome": "Exequiel Alejandro Palacios",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Francisco Guillermo Ochoa Magaña",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Gonzalo Ariel Montiel",
-            "passes": 53,
-            "chutes": 0,
-            "total": 53
-        },
-        {
-            "nome": "Guido Rodríguez",
-            "passes": 62,
-            "chutes": 0,
-            "total": 62
-        },
-        {
-            "nome": "Hirving Rodrigo Lozano Bahena",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Héctor Alfredo Moreno Herrera",
-            "passes": 48,
-            "chutes": 0,
-            "total": 48
-        },
-        {
-            "nome": "Héctor Miguel Herrera López",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Jesús Daniel Gallardo Vasconcelos",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "José Andrés Guardado Hernández",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "Julián Álvarez",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Kevin Nahin Álvarez Campos",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Lautaro Javier Martínez",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Lionel Andrés Messi Cuccittini",
-            "passes": 45,
-            "chutes": 2,
-            "total": 47
-        },
-        {
-            "nome": "Lisandro Martínez",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Luis Gerardo Chávez Magallón",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Marcos Javier Acuña",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Nahuel Molina Lucero",
-            "passes": 13,
-            "chutes": 1,
-            "total": 14
-        },
-        {
-            "nome": "Nicolás Hernán Otamendi",
-            "passes": 84,
-            "chutes": 0,
-            "total": 84
-        },
-        {
-            "nome": "Néstor Alejandro Araújo Razo",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Raúl Alonso Jiménez Rodríguez",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Roberto Carlos Alvarado Hernández",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Rodrigo Javier De Paul",
-            "passes": 70,
-            "chutes": 0,
-            "total": 70
-        },
-        {
-            "nome": "Ángel Fabián Di María Hernández",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Érick Gabriel Gutiérrez Galaviz",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        }
-    ]
+    "tabela_stats": []
 }

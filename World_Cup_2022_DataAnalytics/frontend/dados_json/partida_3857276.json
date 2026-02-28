@@ -13947,8 +13947,8 @@
             "is_goal": false
         },
         {
-            "left": 54.82,
-            "bottom": 68.73,
+            "left": 56.28,
+            "bottom": 67.78,
             "jogador": "Hakim Ziyech",
             "tipo": "Shot",
             "time": "Morocco",
@@ -13987,8 +13987,8 @@
             "is_goal": false
         },
         {
-            "left": 65.43,
-            "bottom": 86.59,
+            "left": 65.02,
+            "bottom": 86.42,
             "jogador": "Youssef En-Nesyri",
             "tipo": "Shot",
             "time": "Morocco",
@@ -14350,102 +14350,102 @@
     "scatter_data": [
         {
             "x": 2.52,
-            "y": 0.24,
+            "y": 1.48,
             "jogador": "Youssef En-Nesyri"
         },
         {
             "x": 4.81,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Sofyan Amrabat"
         },
         {
             "x": 4.31,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Nayef Aguerd"
         },
         {
             "x": 3.86,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Romain Saïss"
         },
         {
             "x": 5.59,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Achraf Hakimi Mouh"
         },
         {
             "x": 4.59,
-            "y": 1.43,
+            "y": 1.27,
             "jogador": "Hakim Ziyech"
         },
         {
             "x": 3.36,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Yassine Bounou"
         },
         {
             "x": 2.68,
-            "y": 0.86,
+            "y": 1.19,
             "jogador": "Abdelhamid Sabiri"
         },
         {
             "x": 2.35,
-            "y": 0.77,
+            "y": 0.71,
             "jogador": "Sofiane Boufal"
         },
         {
             "x": 2.01,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Noussair Mazraoui"
         },
         {
             "x": 2.07,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Milan Borjan"
         },
         {
             "x": 9.06,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "Kamal Miller"
         },
         {
             "x": 3.24,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "David Junior Hoilett"
         },
         {
             "x": 1.4,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Cyle Larin"
         },
         {
             "x": 3.19,
-            "y": 0.24,
+            "y": 0.62,
             "jogador": "Alphonso Davies"
         },
         {
             "x": 7.77,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "Steven de Sousa Vitoria"
         },
         {
             "x": 3.86,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Azzedine Ounahi"
         },
         {
             "x": 6.26,
-            "y": 0.21,
+            "y": 0.44,
             "jogador": "Alistair Johnston"
         },
         {
             "x": 3.13,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Jonathan Osorio"
         },
         {
             "x": 5.76,
-            "y": 0.77,
+            "y": 0.88,
             "jogador": "Mark Anthony Kaye"
         },
         {
@@ -14455,22 +14455,22 @@
         },
         {
             "x": 3.86,
-            "y": 0.75,
+            "y": 0.71,
             "jogador": "Tajon Buchanan"
         },
         {
             "x": 2.74,
-            "y": 0.15,
+            "y": 0.59,
             "jogador": "Atiba Hutchinson"
         },
         {
             "x": 3.13,
-            "y": 0.05,
+            "y": 0.08,
             "jogador": "Ismael Koné"
         },
         {
             "x": 1.45,
-            "y": 0.05,
+            "y": 0.06,
             "jogador": "Jonathan David"
         },
         {
@@ -14518,198 +14518,5 @@
         "Youssef En-Nesyri",
         "Zakaria Aboukhlal"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdelhamid Sabiri",
-            "passes": 26,
-            "chutes": 2,
-            "total": 28
-        },
-        {
-            "nome": "Abderrazak Hamdallah",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Achraf Hakimi Mouh",
-            "passes": 58,
-            "chutes": 0,
-            "total": 58
-        },
-        {
-            "nome": "Alistair Johnston",
-            "passes": 65,
-            "chutes": 1,
-            "total": 66
-        },
-        {
-            "nome": "Alphonso Davies",
-            "passes": 29,
-            "chutes": 1,
-            "total": 30
-        },
-        {
-            "nome": "Atiba Hutchinson",
-            "passes": 30,
-            "chutes": 1,
-            "total": 31
-        },
-        {
-            "nome": "Azzedine Ounahi",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Cyle Larin",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "David Junior Hoilett",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "David Wotherspoon",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Hakim Ziyech",
-            "passes": 40,
-            "chutes": 2,
-            "total": 42
-        },
-        {
-            "nome": "Ismael Koné",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Jawad El Yamiq",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Jonathan David",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Jonathan Osorio",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Kamal Miller",
-            "passes": 91,
-            "chutes": 0,
-            "total": 91
-        },
-        {
-            "nome": "Mark Anthony Kaye",
-            "passes": 57,
-            "chutes": 1,
-            "total": 58
-        },
-        {
-            "nome": "Milan Borjan",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "Nayef Aguerd",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Noussair Mazraoui",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Richie Laryea",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Romain Saïss",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Sam Adekugbe",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Selim Amallah",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Sofiane Boufal",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Sofyan Amrabat",
-            "passes": 47,
-            "chutes": 0,
-            "total": 47
-        },
-        {
-            "nome": "Steven de Sousa Vitoria",
-            "passes": 79,
-            "chutes": 0,
-            "total": 79
-        },
-        {
-            "nome": "Tajon Buchanan",
-            "passes": 28,
-            "chutes": 1,
-            "total": 29
-        },
-        {
-            "nome": "Yahya Jabrane",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Yassine Bounou",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Youssef En-Nesyri",
-            "passes": 18,
-            "chutes": 2,
-            "total": 20
-        },
-        {
-            "nome": "Zakaria Aboukhlal",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        }
-    ]
+    "tabela_stats": []
 }

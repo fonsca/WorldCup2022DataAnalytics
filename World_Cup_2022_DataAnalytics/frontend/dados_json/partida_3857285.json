@@ -12867,8 +12867,8 @@
             "is_goal": false
         },
         {
-            "left": 48.25,
-            "bottom": 90.23,
+            "left": 49.25,
+            "bottom": 90.94,
             "jogador": "Cody Mathès Gakpo",
             "tipo": "Shot",
             "time": "Netherlands",
@@ -12907,8 +12907,8 @@
             "is_goal": false
         },
         {
-            "left": 44.78,
-            "bottom": 87.74,
+            "left": 43.66,
+            "bottom": 87.99,
             "jogador": "Davy Klaassen",
             "tipo": "Shot",
             "time": "Netherlands",
@@ -13062,47 +13062,47 @@
     "scatter_data": [
         {
             "x": 1.41,
-            "y": 0.18,
+            "y": 1.43,
             "jogador": "Vincent Janssen"
         },
         {
             "x": 7.56,
-            "y": 0.03,
+            "y": 0.06,
             "jogador": "Frenkie de Jong"
         },
         {
             "x": 5.59,
-            "y": 0.09,
+            "y": 0.66,
             "jogador": "Daley Blind"
         },
         {
             "x": 6.95,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Nathan Aké"
         },
         {
             "x": 6.33,
-            "y": 1.0,
+            "y": 1.26,
             "jogador": "Virgil van Dijk"
         },
         {
             "x": 5.1,
-            "y": 1.55,
+            "y": 1.28,
             "jogador": "Steven Berghuis"
         },
         {
             "x": 3.26,
-            "y": 1.07,
+            "y": 1.96,
             "jogador": "Ismaïla Sarr"
         },
         {
             "x": 5.16,
-            "y": 1.08,
+            "y": 1.3,
             "jogador": "Idrissa Gana Gueye"
         },
         {
             "x": 7.44,
-            "y": 1.38,
+            "y": 1.19,
             "jogador": "Youssouf Sabaly"
         },
         {
@@ -13112,12 +13112,12 @@
         },
         {
             "x": 4.43,
-            "y": 1.03,
+            "y": 0.65,
             "jogador": "Krépin Diatta"
         },
         {
             "x": 3.01,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Abdou Diallo"
         },
         {
@@ -13132,12 +13132,12 @@
         },
         {
             "x": 4.55,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Denzel Dumfries"
         },
         {
             "x": 2.64,
-            "y": 0.91,
+            "y": 0.22,
             "jogador": "Cody Mathès Gakpo"
         },
         {
@@ -13147,17 +13147,17 @@
         },
         {
             "x": 2.09,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Steven Bergwijn"
         },
         {
             "x": 2.77,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Cheikhou Kouyaté"
         },
         {
             "x": 1.54,
-            "y": 0.98,
+            "y": 0.8,
             "jogador": "Boulaye Dia"
         },
         {
@@ -13172,17 +13172,17 @@
         },
         {
             "x": 1.23,
-            "y": 0.44,
+            "y": 0.16,
             "jogador": "Ismail Jakobs"
         },
         {
             "x": 1.6,
-            "y": 0.96,
+            "y": 0.32,
             "jogador": "Memphis Depay"
         },
         {
             "x": 1.29,
-            "y": 0.94,
+            "y": 0.22,
             "jogador": "Pape Gueye"
         },
         {
@@ -13192,7 +13192,7 @@
         },
         {
             "x": 0.74,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Teun Koopmeiners"
         }
     ],
@@ -13228,186 +13228,5 @@
         "Virgil van Dijk",
         "Youssouf Sabaly"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdou Diallo",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        },
-        {
-            "nome": "Andries Noppert",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Boulaye Dia",
-            "passes": 11,
-            "chutes": 2,
-            "total": 13
-        },
-        {
-            "nome": "Cheikh Ahmadou Bamba Mbacke Dieng",
-            "passes": 3,
-            "chutes": 2,
-            "total": 5
-        },
-        {
-            "nome": "Cheikhou Kouyaté",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Cody Mathès Gakpo",
-            "passes": 27,
-            "chutes": 1,
-            "total": 28
-        },
-        {
-            "nome": "Daley Blind",
-            "passes": 58,
-            "chutes": 1,
-            "total": 59
-        },
-        {
-            "nome": "Davy Klaassen",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Denzel Dumfries",
-            "passes": 43,
-            "chutes": 0,
-            "total": 43
-        },
-        {
-            "nome": "Edouard Mendy",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Frenkie de Jong",
-            "passes": 67,
-            "chutes": 0,
-            "total": 67
-        },
-        {
-            "nome": "Idrissa Gana Gueye",
-            "passes": 44,
-            "chutes": 2,
-            "total": 46
-        },
-        {
-            "nome": "Ismail Jakobs",
-            "passes": 11,
-            "chutes": 1,
-            "total": 12
-        },
-        {
-            "nome": "Ismaïla Sarr",
-            "passes": 22,
-            "chutes": 3,
-            "total": 25
-        },
-        {
-            "nome": "Kalidou Koulibaly",
-            "passes": 48,
-            "chutes": 0,
-            "total": 48
-        },
-        {
-            "nome": "Krépin Diatta",
-            "passes": 36,
-            "chutes": 2,
-            "total": 38
-        },
-        {
-            "nome": "Marten de Roon",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Matthijs de Ligt",
-            "passes": 45,
-            "chutes": 0,
-            "total": 45
-        },
-        {
-            "nome": "Memphis Depay",
-            "passes": 12,
-            "chutes": 1,
-            "total": 13
-        },
-        {
-            "nome": "Nampalys Mendy",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Nathan Aké",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Nicolas Jackson",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Pape Abou Cissé",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Pape Gueye",
-            "passes": 14,
-            "chutes": 1,
-            "total": 15
-        },
-        {
-            "nome": "Steven Berghuis",
-            "passes": 44,
-            "chutes": 2,
-            "total": 46
-        },
-        {
-            "nome": "Steven Bergwijn",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Teun Koopmeiners",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Vincent Janssen",
-            "passes": 12,
-            "chutes": 2,
-            "total": 14
-        },
-        {
-            "nome": "Virgil van Dijk",
-            "passes": 61,
-            "chutes": 2,
-            "total": 63
-        },
-        {
-            "nome": "Youssouf Sabaly",
-            "passes": 70,
-            "chutes": 2,
-            "total": 72
-        }
-    ]
+    "tabela_stats": []
 }

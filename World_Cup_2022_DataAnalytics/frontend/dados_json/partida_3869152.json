@@ -15899,8 +15899,8 @@
             "is_goal": false
         },
         {
-            "left": 41.22,
-            "bottom": 85.42,
+            "left": 40.79,
+            "bottom": 85.23,
             "jogador": "Olivier Giroud",
             "tipo": "Shot",
             "time": "France",
@@ -15963,8 +15963,8 @@
             "is_goal": false
         },
         {
-            "left": 37.87,
-            "bottom": 83.7,
+            "left": 36.31,
+            "bottom": 84.76,
             "jogador": "Kylian Mbappé Lottin",
             "tipo": "Shot",
             "time": "France",
@@ -15979,8 +15979,8 @@
             "is_goal": false
         },
         {
-            "left": 32.86,
-            "bottom": 85.34,
+            "left": 33.89,
+            "bottom": 85.47,
             "jogador": "Kylian Mbappé Lottin",
             "tipo": "Shot",
             "time": "France",
@@ -16003,8 +16003,8 @@
             "is_goal": false
         },
         {
-            "left": 49.51,
-            "bottom": 87.44,
+            "left": 50.61,
+            "bottom": 86.37,
             "jogador": "Robert Lewandowski",
             "tipo": "Shot",
             "time": "Poland",
@@ -16014,17 +16014,17 @@
     "scatter_data": [
         {
             "x": 1.4,
-            "y": 2.77,
+            "y": 1.96,
             "jogador": "Olivier Giroud"
         },
         {
             "x": 6.96,
-            "y": 0.06,
+            "y": 0.42,
             "jogador": "Aurélien Djani Tchouaméni"
         },
         {
             "x": 5.81,
-            "y": 0.74,
+            "y": 0.56,
             "jogador": "Jules Koundé"
         },
         {
@@ -16034,92 +16034,92 @@
         },
         {
             "x": 5.51,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Adrien Rabiot"
         },
         {
             "x": 4.81,
-            "y": 1.0,
+            "y": 0.65,
             "jogador": "Antoine Griezmann"
         },
         {
             "x": 2.15,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Wojciech Szczęsny"
         },
         {
             "x": 6.31,
-            "y": 1.82,
+            "y": 1.42,
             "jogador": "Theo Bernard François Hernández"
         },
         {
             "x": 5.26,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Dayotchanculle Upamecano"
         },
         {
             "x": 3.71,
-            "y": 0.26,
+            "y": 0.72,
             "jogador": "Raphaël Varane"
         },
         {
             "x": 4.26,
-            "y": 0.81,
+            "y": 1.43,
             "jogador": "Ousmane Dembélé"
         },
         {
             "x": 5.56,
-            "y": 4.52,
+            "y": 2.84,
             "jogador": "Kylian Mbappé Lottin"
         },
         {
             "x": 4.16,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Grzegorz Krychowiak"
         },
         {
             "x": 3.66,
-            "y": 0.83,
+            "y": 0.61,
             "jogador": "Kamil Glik"
         },
         {
             "x": 4.06,
-            "y": 0.98,
+            "y": 0.81,
             "jogador": "Matty Cash"
         },
         {
             "x": 6.56,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Jakub Piotr Kiwior"
         },
         {
             "x": 2.05,
-            "y": 0.77,
+            "y": 0.64,
             "jogador": "Przemysław Frankowski"
         },
         {
             "x": 2.1,
-            "y": 1.87,
+            "y": 1.28,
             "jogador": "Jakub Kamiński"
         },
         {
             "x": 1.45,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Sebastian Szymański"
         },
         {
             "x": 6.46,
-            "y": 1.93,
+            "y": 1.26,
             "jogador": "Piotr Zieliński"
         },
         {
             "x": 3.06,
-            "y": 3.61,
+            "y": 1.68,
             "jogador": "Robert Lewandowski"
         },
         {
             "x": 4.76,
-            "y": 0.04,
+            "y": 0.02,
             "jogador": "Bartosz Bereszyński"
         },
         {
@@ -16129,7 +16129,7 @@
         },
         {
             "x": 1.2,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Youssouf Fofana"
         },
         {
@@ -16139,7 +16139,7 @@
         },
         {
             "x": 0.6,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Nicola Zalewski"
         },
         {
@@ -16149,7 +16149,7 @@
         },
         {
             "x": 0.9,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Kingsley Coman"
         },
         {
@@ -16159,7 +16159,7 @@
         },
         {
             "x": 0.65,
-            "y": 0.01,
+            "y": 0.29,
             "jogador": "Kamil Grosicki"
         }
     ],
@@ -16196,192 +16196,5 @@
         "Wojciech Szczęsny",
         "Youssouf Fofana"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Adrien Rabiot",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Antoine Griezmann",
-            "passes": 56,
-            "chutes": 1,
-            "total": 57
-        },
-        {
-            "nome": "Arkadiusz Milik",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Aurélien Djani Tchouaméni",
-            "passes": 72,
-            "chutes": 1,
-            "total": 73
-        },
-        {
-            "nome": "Axel Disasi",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Bartosz Bereszyński",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Dayotchanculle Upamecano",
-            "passes": 59,
-            "chutes": 0,
-            "total": 59
-        },
-        {
-            "nome": "Grzegorz Krychowiak",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Hugo Lloris",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Jakub Kamiński",
-            "passes": 19,
-            "chutes": 2,
-            "total": 21
-        },
-        {
-            "nome": "Jakub Piotr Kiwior",
-            "passes": 74,
-            "chutes": 0,
-            "total": 74
-        },
-        {
-            "nome": "Jan Bednarek",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Jules Koundé",
-            "passes": 68,
-            "chutes": 1,
-            "total": 69
-        },
-        {
-            "nome": "Kamil Glik",
-            "passes": 40,
-            "chutes": 1,
-            "total": 41
-        },
-        {
-            "nome": "Kamil Grosicki",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Kingsley Coman",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Krystian Bielik",
-            "passes": 21,
-            "chutes": 0,
-            "total": 21
-        },
-        {
-            "nome": "Kylian Mbappé Lottin",
-            "passes": 41,
-            "chutes": 5,
-            "total": 46
-        },
-        {
-            "nome": "Marcus Thuram",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Matty Cash",
-            "passes": 46,
-            "chutes": 1,
-            "total": 47
-        },
-        {
-            "nome": "Nicola Zalewski",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Olivier Giroud",
-            "passes": 16,
-            "chutes": 3,
-            "total": 19
-        },
-        {
-            "nome": "Ousmane Dembélé",
-            "passes": 43,
-            "chutes": 2,
-            "total": 45
-        },
-        {
-            "nome": "Piotr Zieliński",
-            "passes": 69,
-            "chutes": 2,
-            "total": 71
-        },
-        {
-            "nome": "Przemysław Frankowski",
-            "passes": 22,
-            "chutes": 1,
-            "total": 23
-        },
-        {
-            "nome": "Raphaël Varane",
-            "passes": 42,
-            "chutes": 1,
-            "total": 43
-        },
-        {
-            "nome": "Robert Lewandowski",
-            "passes": 27,
-            "chutes": 5,
-            "total": 32
-        },
-        {
-            "nome": "Sebastian Szymański",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Theo Bernard François Hernández",
-            "passes": 72,
-            "chutes": 2,
-            "total": 74
-        },
-        {
-            "nome": "Wojciech Szczęsny",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Youssouf Fofana",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        }
-    ]
+    "tabela_stats": []
 }

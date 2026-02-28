@@ -18915,8 +18915,8 @@
             "is_goal": false
         },
         {
-            "left": 55.27,
-            "bottom": 91.49,
+            "left": 54.61,
+            "bottom": 91.85,
             "jogador": "Daizen Maeda",
             "tipo": "Shot",
             "time": "Japan",
@@ -18947,8 +18947,8 @@
             "is_goal": false
         },
         {
-            "left": 44.12,
-            "bottom": 84.5,
+            "left": 42.58,
+            "bottom": 85.0,
             "jogador": "Ivan Perišić",
             "tipo": "Shot",
             "time": "Croatia",
@@ -19270,117 +19270,117 @@
     "scatter_data": [
         {
             "x": 1.75,
-            "y": 0.9,
+            "y": 1.47,
             "jogador": "Andrej Kramarić"
         },
         {
             "x": 7.53,
-            "y": 0.12,
+            "y": 0.03,
             "jogador": "Dejan Lovren"
         },
         {
             "x": 1.25,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Bruno Petković"
         },
         {
             "x": 2.7,
-            "y": 1.87,
+            "y": 2.68,
             "jogador": "Ivan Perišić"
         },
         {
             "x": 4.24,
-            "y": 0.91,
+            "y": 0.04,
             "jogador": "Mateo Kovačić"
         },
         {
             "x": 6.37,
-            "y": 0.96,
+            "y": 0.68,
             "jogador": "Joško Gvardiol"
         },
         {
             "x": 4.45,
-            "y": 0.11,
+            "y": 0.14,
             "jogador": "Borna Barišić"
         },
         {
             "x": 9.61,
-            "y": 0.18,
+            "y": 0.04,
             "jogador": "Marcelo Brozović"
         },
         {
             "x": 6.87,
-            "y": 0.18,
+            "y": 0.04,
             "jogador": "Josip Juranović"
         },
         {
             "x": 2.54,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Yuto Nagatomo"
         },
         {
             "x": 4.2,
-            "y": 0.96,
+            "y": 1.54,
             "jogador": "Hidemasa Morita"
         },
         {
             "x": 2.7,
-            "y": 0.09,
+            "y": 0.03,
             "jogador": "Ritsu Doan"
         },
         {
             "x": 3.0,
-            "y": 1.78,
+            "y": 1.17,
             "jogador": "Daichi Kamada"
         },
         {
             "x": 4.99,
-            "y": 0.11,
+            "y": 0.03,
             "jogador": "Takehiro Tomiyasu"
         },
         {
             "x": 3.45,
-            "y": 0.07,
+            "y": 0.02,
             "jogador": "Junya Ito"
         },
         {
             "x": 4.99,
-            "y": 0.75,
+            "y": 1.42,
             "jogador": "Wataru Endo"
         },
         {
             "x": 2.58,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Dominik Livaković"
         },
         {
             "x": 5.78,
-            "y": 0.09,
+            "y": 0.81,
             "jogador": "Luka Modrić"
         },
         {
             "x": 3.37,
-            "y": 0.04,
+            "y": 0.02,
             "jogador": "Maya Yoshida"
         },
         {
             "x": 2.0,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Shūichi Gonda"
         },
         {
             "x": 4.08,
-            "y": 0.94,
+            "y": 0.99,
             "jogador": "Shogo Taniguchi"
         },
         {
             "x": 2.41,
-            "y": 0.09,
+            "y": 0.29,
             "jogador": "Kaoru Mitoma"
         },
         {
             "x": 1.29,
-            "y": 0.09,
+            "y": 0.79,
             "jogador": "Mario Pašalić"
         },
         {
@@ -19390,27 +19390,27 @@
         },
         {
             "x": 1.17,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Hiroki Sakai"
         },
         {
             "x": 1.04,
-            "y": 0.06,
+            "y": 0.31,
             "jogador": "Takumi Minamino"
         },
         {
             "x": 1.54,
-            "y": 0.12,
+            "y": 0.21,
             "jogador": "Lovro Majer"
         },
         {
             "x": 0.75,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Nikola Vlašić"
         },
         {
             "x": 0.62,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Ao Tanaka"
         }
     ],
@@ -19449,204 +19449,5 @@
         "Wataru Endo",
         "Yuto Nagatomo"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Andrej Kramarić",
-            "passes": 19,
-            "chutes": 2,
-            "total": 21
-        },
-        {
-            "nome": "Ante Budimir",
-            "passes": 6,
-            "chutes": 1,
-            "total": 7
-        },
-        {
-            "nome": "Ao Tanaka",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Borna Barišić",
-            "passes": 67,
-            "chutes": 1,
-            "total": 68
-        },
-        {
-            "nome": "Bruno Petković",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Daichi Kamada",
-            "passes": 36,
-            "chutes": 2,
-            "total": 38
-        },
-        {
-            "nome": "Daizen Maeda",
-            "passes": 6,
-            "chutes": 1,
-            "total": 7
-        },
-        {
-            "nome": "Dejan Lovren",
-            "passes": 103,
-            "chutes": 0,
-            "total": 103
-        },
-        {
-            "nome": "Dominik Livaković",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Hidemasa Morita",
-            "passes": 57,
-            "chutes": 2,
-            "total": 59
-        },
-        {
-            "nome": "Hiroki Sakai",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Ivan Perišić",
-            "passes": 36,
-            "chutes": 5,
-            "total": 41
-        },
-        {
-            "nome": "Josip Juranović",
-            "passes": 98,
-            "chutes": 0,
-            "total": 98
-        },
-        {
-            "nome": "Joško Gvardiol",
-            "passes": 88,
-            "chutes": 1,
-            "total": 89
-        },
-        {
-            "nome": "Junya Ito",
-            "passes": 49,
-            "chutes": 0,
-            "total": 49
-        },
-        {
-            "nome": "Kaoru Mitoma",
-            "passes": 31,
-            "chutes": 1,
-            "total": 32
-        },
-        {
-            "nome": "Lovro Majer",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Luka Modrić",
-            "passes": 77,
-            "chutes": 1,
-            "total": 78
-        },
-        {
-            "nome": "Marcelo Brozović",
-            "passes": 131,
-            "chutes": 0,
-            "total": 131
-        },
-        {
-            "nome": "Mario Pašalić",
-            "passes": 17,
-            "chutes": 2,
-            "total": 19
-        },
-        {
-            "nome": "Marko Livaja",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Mateo Kovačić",
-            "passes": 59,
-            "chutes": 1,
-            "total": 60
-        },
-        {
-            "nome": "Maya Yoshida",
-            "passes": 48,
-            "chutes": 0,
-            "total": 48
-        },
-        {
-            "nome": "Mislav Oršić",
-            "passes": 5,
-            "chutes": 1,
-            "total": 6
-        },
-        {
-            "nome": "Nikola Vlašić",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Ritsu Doan",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Shogo Taniguchi",
-            "passes": 56,
-            "chutes": 2,
-            "total": 58
-        },
-        {
-            "nome": "Shūichi Gonda",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Takehiro Tomiyasu",
-            "passes": 75,
-            "chutes": 0,
-            "total": 75
-        },
-        {
-            "nome": "Takuma Asano",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Takumi Minamino",
-            "passes": 14,
-            "chutes": 1,
-            "total": 15
-        },
-        {
-            "nome": "Wataru Endo",
-            "passes": 65,
-            "chutes": 3,
-            "total": 68
-        },
-        {
-            "nome": "Yuto Nagatomo",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        }
-    ]
+    "tabela_stats": []
 }

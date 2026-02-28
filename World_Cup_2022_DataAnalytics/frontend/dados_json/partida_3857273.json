@@ -12811,16 +12811,16 @@
             "is_goal": false
         },
         {
-            "left": 47.97,
-            "bottom": 76.5,
+            "left": 47.24,
+            "bottom": 76.01,
             "jogador": "Roozbeh Cheshmi",
             "tipo": "Shot",
             "time": "Iran",
             "is_goal": true
         },
         {
-            "left": 55.76,
-            "bottom": 84.94,
+            "left": 55.48,
+            "bottom": 85.23,
             "jogador": "Ramin Rezaeian",
             "tipo": "Shot",
             "time": "Iran",
@@ -13046,7 +13046,7 @@
     "scatter_data": [
         {
             "x": 6.22,
-            "y": 0.7,
+            "y": 0.67,
             "jogador": "Aaron Ramsey"
         },
         {
@@ -13056,12 +13056,12 @@
         },
         {
             "x": 5.48,
-            "y": 1.54,
+            "y": 0.51,
             "jogador": "Ramin Rezaeian"
         },
         {
             "x": 3.94,
-            "y": 0.06,
+            "y": 0.8,
             "jogador": "Ali Gholizadeh"
         },
         {
@@ -13076,82 +13076,82 @@
         },
         {
             "x": 3.45,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Seyed Majid Hosseini"
         },
         {
             "x": 2.34,
-            "y": 0.08,
+            "y": 0.79,
             "jogador": "Saeid Ezatolahi Afagh"
         },
         {
             "x": 3.08,
-            "y": 0.06,
+            "y": 1.25,
             "jogador": "Mehdi Taremi"
         },
         {
             "x": 3.69,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Milad Mohammadi"
         },
         {
             "x": 2.4,
-            "y": 0.04,
+            "y": 0.6,
             "jogador": "Morteza Pouraliganji"
         },
         {
             "x": 8.43,
-            "y": 0.59,
+            "y": 0.64,
             "jogador": "Ben Davies"
         },
         {
             "x": 2.77,
-            "y": 0.11,
+            "y": 1.65,
             "jogador": "Ahmad Nourollahi"
         },
         {
             "x": 3.94,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Connor Roberts"
         },
         {
             "x": 3.38,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Wayne Hennessey"
         },
         {
             "x": 6.71,
-            "y": 1.46,
+            "y": 1.24,
             "jogador": "Neco Williams"
         },
         {
             "x": 2.77,
-            "y": 0.05,
+            "y": 1.17,
             "jogador": "Kieffer Roberto Francisco Moore"
         },
         {
             "x": 2.89,
-            "y": 0.02,
+            "y": 0.6,
             "jogador": "Harry Wilson"
         },
         {
             "x": 2.52,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Seyed Hossein Hosseini"
         },
         {
             "x": 1.54,
-            "y": 0.09,
+            "y": 2.6,
             "jogador": "Sardar Azmoun"
         },
         {
             "x": 3.26,
-            "y": 0.02,
+            "y": 0.61,
             "jogador": "Ehsan Hajsafi"
         },
         {
             "x": 2.95,
-            "y": 0.03,
+            "y": 0.42,
             "jogador": "Gareth Frank Bale"
         },
         {
@@ -13161,7 +13161,7 @@
         },
         {
             "x": 1.54,
-            "y": 0.8,
+            "y": 0.23,
             "jogador": "Brennan Johnson"
         },
         {
@@ -13171,12 +13171,12 @@
         },
         {
             "x": 1.35,
-            "y": 0.9,
+            "y": 0.26,
             "jogador": "Mehdi Torabi"
         },
         {
             "x": 1.05,
-            "y": 1.56,
+            "y": 0.42,
             "jogador": "Alireza Jahanbakhsh"
         },
         {
@@ -13223,192 +13223,5 @@
         "Seyed Majid Hosseini",
         "Wayne Hennessey"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Aaron Ramsey",
-            "passes": 50,
-            "chutes": 1,
-            "total": 51
-        },
-        {
-            "nome": "Ahmad Nourollahi",
-            "passes": 20,
-            "chutes": 4,
-            "total": 24
-        },
-        {
-            "nome": "Ali Gholizadeh",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Ali Karimi",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Alireza Jahanbakhsh",
-            "passes": 6,
-            "chutes": 2,
-            "total": 8
-        },
-        {
-            "nome": "Ben Davies",
-            "passes": 78,
-            "chutes": 1,
-            "total": 79
-        },
-        {
-            "nome": "Brennan Johnson",
-            "passes": 9,
-            "chutes": 1,
-            "total": 10
-        },
-        {
-            "nome": "Chris Mepham",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Connor Roberts",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Daniel James",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Danny Ward",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Ehsan Hajsafi",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Ethan Ampadu",
-            "passes": 68,
-            "chutes": 0,
-            "total": 68
-        },
-        {
-            "nome": "Gareth Frank Bale",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Harry Wilson",
-            "passes": 27,
-            "chutes": 1,
-            "total": 28
-        },
-        {
-            "nome": "Joe Allen",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Joe Rodon",
-            "passes": 57,
-            "chutes": 0,
-            "total": 57
-        },
-        {
-            "nome": "Karim Ansarifard",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Kieffer Roberto Francisco Moore",
-            "passes": 28,
-            "chutes": 2,
-            "total": 30
-        },
-        {
-            "nome": "Mehdi Taremi",
-            "passes": 26,
-            "chutes": 2,
-            "total": 28
-        },
-        {
-            "nome": "Mehdi Torabi",
-            "passes": 10,
-            "chutes": 1,
-            "total": 11
-        },
-        {
-            "nome": "Milad Mohammadi",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Morteza Pouraliganji",
-            "passes": 28,
-            "chutes": 1,
-            "total": 29
-        },
-        {
-            "nome": "Neco Williams",
-            "passes": 56,
-            "chutes": 3,
-            "total": 59
-        },
-        {
-            "nome": "Ramin Rezaeian",
-            "passes": 47,
-            "chutes": 2,
-            "total": 49
-        },
-        {
-            "nome": "Roozbeh Cheshmi",
-            "passes": 5,
-            "chutes": 1,
-            "total": 6
-        },
-        {
-            "nome": "Saeid Ezatolahi Afagh",
-            "passes": 26,
-            "chutes": 1,
-            "total": 27
-        },
-        {
-            "nome": "Sardar Azmoun",
-            "passes": 15,
-            "chutes": 4,
-            "total": 19
-        },
-        {
-            "nome": "Seyed Hossein Hosseini",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Seyed Majid Hosseini",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Wayne Hennessey",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        }
-    ]
+    "tabela_stats": []
 }

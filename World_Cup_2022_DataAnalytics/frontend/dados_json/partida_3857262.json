@@ -14523,8 +14523,8 @@
             "is_goal": false
         },
         {
-            "left": 57.45,
-            "bottom": 90.1,
+            "left": 57.25,
+            "bottom": 91.19,
             "jogador": "Ricardo Jorge Luz Horta",
             "tipo": "Shot",
             "time": "Portugal",
@@ -14555,8 +14555,8 @@
             "is_goal": false
         },
         {
-            "left": 46.87,
-            "bottom": 92.89,
+            "left": 47.41,
+            "bottom": 92.55,
             "jogador": "Young-Gwon Kim",
             "tipo": "Shot",
             "time": "South Korea",
@@ -14715,8 +14715,8 @@
             "is_goal": false
         },
         {
-            "left": 54.63,
-            "bottom": 86.31,
+            "left": 54.35,
+            "bottom": 86.2,
             "jogador": "Hee-Chan Hwang",
             "tipo": "Shot",
             "time": "South Korea",
@@ -14726,142 +14726,142 @@
     "scatter_data": [
         {
             "x": 1.74,
-            "y": 0.65,
+            "y": 0.63,
             "jogador": "Gue-Sung Cho"
         },
         {
             "x": 5.29,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Woo-Young Jung"
         },
         {
             "x": 3.6,
-            "y": 0.27,
+            "y": 0.64,
             "jogador": "Young-Gwon Kim"
         },
         {
             "x": 3.38,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Jin-Su Kim"
         },
         {
             "x": 2.83,
-            "y": 3.28,
+            "y": 3.14,
             "jogador": "Heung-Min Son"
         },
         {
             "x": 2.62,
-            "y": 0.68,
+            "y": 0.5,
             "jogador": "Kang-In Lee"
         },
         {
             "x": 4.25,
-            "y": 0.99,
+            "y": 1.55,
             "jogador": "In-Beom Hwang"
         },
         {
             "x": 3.05,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Kyung-Won Kwon"
         },
         {
             "x": 3.27,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Moon-Hwan Kim"
         },
         {
             "x": 3.49,
-            "y": 0.1,
+            "y": 0.01,
             "jogador": "Seung-Gyu Kim"
         },
         {
             "x": 1.63,
-            "y": 0.83,
+            "y": 0.8,
             "jogador": "Jae-Sung Lee"
         },
         {
             "x": 9.81,
-            "y": 1.42,
+            "y": 0.92,
             "jogador": "João Pedro Cavaco Cancelo"
         },
         {
             "x": 6.43,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Rúben Diogo Da Silva Neves"
         },
         {
             "x": 6.38,
-            "y": 0.12,
+            "y": 0.67,
             "jogador": "José Diogo Dalot Teixeira"
         },
         {
             "x": 5.61,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "António João Pereira Albuquerque Tavares Silva"
         },
         {
             "x": 6.76,
-            "y": 0.23,
+            "y": 1.33,
             "jogador": "Vitor Machado Ferreira"
         },
         {
             "x": 7.36,
-            "y": 0.07,
+            "y": 0.02,
             "jogador": "Kléper Laveran Lima Ferreira"
         },
         {
             "x": 3.98,
-            "y": 0.03,
+            "y": 0.02,
             "jogador": "João Mário Naval da Costa Eduardo"
         },
         {
             "x": 1.8,
-            "y": 0.35,
+            "y": 1.2,
             "jogador": "Cristiano Ronaldo dos Santos Aveiro"
         },
         {
             "x": 3.22,
-            "y": 0.08,
+            "y": 0.31,
             "jogador": "Matheus Luiz Nunes"
         },
         {
             "x": 2.78,
-            "y": 0.21,
+            "y": 0.01,
             "jogador": "Diogo Meireles Costa"
         },
         {
             "x": 2.29,
-            "y": 1.58,
+            "y": 2.0,
             "jogador": "Ricardo Jorge Luz Horta"
         },
         {
             "x": 1.04,
-            "y": 0.8,
+            "y": 0.18,
             "jogador": "Hee-Chan Hwang"
         },
         {
             "x": 1.42,
-            "y": 0.83,
+            "y": 0.68,
             "jogador": "Rafael Alexandre Conceição Leão"
         },
         {
             "x": 1.85,
-            "y": 0.71,
+            "y": 0.3,
             "jogador": "João Maria Lobo Alves Palhinha Gonçalves"
         },
         {
             "x": 1.14,
-            "y": 0.02,
+            "y": 0.07,
             "jogador": "André Miguel Valente Silva"
         },
         {
             "x": 0.65,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Jun-Ho Son"
         },
         {
             "x": 1.42,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "William Silva de Carvalho"
         },
         {
@@ -14902,186 +14902,5 @@
         "Woo-Young Jung",
         "Young-Gwon Kim"
     ],
-    "tabela_stats": [
-        {
-            "nome": "André Miguel Valente Silva",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "António João Pereira Albuquerque Tavares Silva",
-            "passes": 58,
-            "chutes": 0,
-            "total": 58
-        },
-        {
-            "nome": "Bernardo Mota Veiga de Carvalho e Silva",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Cristiano Ronaldo dos Santos Aveiro",
-            "passes": 19,
-            "chutes": 2,
-            "total": 21
-        },
-        {
-            "nome": "Diogo Meireles Costa",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Gue-Sung Cho",
-            "passes": 23,
-            "chutes": 1,
-            "total": 24
-        },
-        {
-            "nome": "Hee-Chan Hwang",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Heung-Min Son",
-            "passes": 20,
-            "chutes": 5,
-            "total": 25
-        },
-        {
-            "nome": "In-Beom Hwang",
-            "passes": 43,
-            "chutes": 2,
-            "total": 45
-        },
-        {
-            "nome": "Jae-Sung Lee",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Jin-Su Kim",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "José Diogo Dalot Teixeira",
-            "passes": 66,
-            "chutes": 1,
-            "total": 67
-        },
-        {
-            "nome": "João Maria Lobo Alves Palhinha Gonçalves",
-            "passes": 17,
-            "chutes": 1,
-            "total": 18
-        },
-        {
-            "nome": "João Mário Naval da Costa Eduardo",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "João Pedro Cavaco Cancelo",
-            "passes": 91,
-            "chutes": 2,
-            "total": 93
-        },
-        {
-            "nome": "Jun-Ho Son",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Kang-In Lee",
-            "passes": 27,
-            "chutes": 1,
-            "total": 28
-        },
-        {
-            "nome": "Kléper Laveran Lima Ferreira",
-            "passes": 78,
-            "chutes": 0,
-            "total": 78
-        },
-        {
-            "nome": "Kyung-Won Kwon",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Matheus Luiz Nunes",
-            "passes": 29,
-            "chutes": 1,
-            "total": 30
-        },
-        {
-            "nome": "Moon-Hwan Kim",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Rafael Alexandre Conceição Leão",
-            "passes": 10,
-            "chutes": 1,
-            "total": 11
-        },
-        {
-            "nome": "Ricardo Jorge Luz Horta",
-            "passes": 22,
-            "chutes": 3,
-            "total": 25
-        },
-        {
-            "nome": "Rúben Diogo Da Silva Neves",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Seung-Gyu Kim",
-            "passes": 43,
-            "chutes": 0,
-            "total": 43
-        },
-        {
-            "nome": "Ui-Jo Hwang",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Vitor Machado Ferreira",
-            "passes": 62,
-            "chutes": 2,
-            "total": 64
-        },
-        {
-            "nome": "William Silva de Carvalho",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Woo-Young Jung",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Young-Gwon Kim",
-            "passes": 39,
-            "chutes": 1,
-            "total": 40
-        }
-    ]
+    "tabela_stats": []
 }

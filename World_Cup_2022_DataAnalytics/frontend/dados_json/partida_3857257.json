@@ -15419,8 +15419,8 @@
             "is_goal": false
         },
         {
-            "left": 40.6,
-            "bottom": 84.29,
+            "left": 40.97,
+            "bottom": 85.78,
             "jogador": "Mathew Leckie",
             "tipo": "Shot",
             "time": "Australia",
@@ -15502,27 +15502,27 @@
     "scatter_data": [
         {
             "x": 1.29,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Martin Braithwaite Christensen"
         },
         {
             "x": 7.4,
-            "y": 0.88,
+            "y": 0.66,
             "jogador": "Christian Dannemann Eriksen"
         },
         {
             "x": 5.02,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Joakim Mæhle"
         },
         {
             "x": 9.21,
-            "y": 0.02,
+            "y": 0.05,
             "jogador": "Andreas Christensen"
         },
         {
             "x": 11.18,
-            "y": 0.13,
+            "y": 0.61,
             "jogador": "Joachim Andersen"
         },
         {
@@ -15532,22 +15532,22 @@
         },
         {
             "x": 3.93,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Rasmus Nissen Kristensen"
         },
         {
             "x": 3.47,
-            "y": 0.72,
+            "y": 0.64,
             "jogador": "Mathias Jensen"
         },
         {
             "x": 2.95,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Miloš Degenek"
         },
         {
             "x": 2.33,
-            "y": 1.38,
+            "y": 1.41,
             "jogador": "Mitchell Thomas Duke"
         },
         {
@@ -15562,7 +15562,7 @@
         },
         {
             "x": 2.38,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Kye Rowles"
         },
         {
@@ -15572,27 +15572,27 @@
         },
         {
             "x": 3.57,
-            "y": 0.1,
+            "y": 0.63,
             "jogador": "Mathew Leckie"
         },
         {
             "x": 3.99,
-            "y": 0.77,
+            "y": 0.23,
             "jogador": "Aziz Eraltay Behich"
         },
         {
             "x": 1.81,
-            "y": 0.88,
+            "y": 0.95,
             "jogador": "Riley McGree"
         },
         {
             "x": 1.86,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Craig Goodwin"
         },
         {
             "x": 3.62,
-            "y": 2.14,
+            "y": 2.77,
             "jogador": "Andreas Skov Olsen"
         },
         {
@@ -15602,42 +15602,42 @@
         },
         {
             "x": 3.73,
-            "y": 0.57,
+            "y": 1.35,
             "jogador": "Jesper Lindstrøm"
         },
         {
             "x": 2.23,
-            "y": 0.73,
+            "y": 0.62,
             "jogador": "Jackson Irvine"
         },
         {
             "x": 1.29,
-            "y": 0.01,
+            "y": 0.15,
             "jogador": "Keanu Baccus"
         },
         {
             "x": 4.19,
-            "y": 0.21,
+            "y": 0.79,
             "jogador": "Alexander Hartmann Bah"
         },
         {
             "x": 1.24,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Mikkel Damsgaard"
         },
         {
             "x": 0.72,
-            "y": 0.14,
+            "y": 0.69,
             "jogador": "Kasper Dolberg"
         },
         {
             "x": 2.28,
-            "y": 0.01,
+            "y": 0.05,
             "jogador": "Robert Skov"
         },
         {
             "x": 1.09,
-            "y": 0.12,
+            "y": 0.22,
             "jogador": "Andreas Evald Cornelius"
         }
     ],
@@ -15674,192 +15674,5 @@
         "Riley McGree",
         "Robert Skov"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Aaron Mooy",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Ajdin Hrustic",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Alexander Hartmann Bah",
-            "passes": 43,
-            "chutes": 2,
-            "total": 45
-        },
-        {
-            "nome": "Andreas Christensen",
-            "passes": 96,
-            "chutes": 0,
-            "total": 96
-        },
-        {
-            "nome": "Andreas Evald Cornelius",
-            "passes": 13,
-            "chutes": 1,
-            "total": 14
-        },
-        {
-            "nome": "Andreas Skov Olsen",
-            "passes": 34,
-            "chutes": 4,
-            "total": 38
-        },
-        {
-            "nome": "Aziz Eraltay Behich",
-            "passes": 42,
-            "chutes": 1,
-            "total": 43
-        },
-        {
-            "nome": "Bailey Wright",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Christian Dannemann Eriksen",
-            "passes": 80,
-            "chutes": 1,
-            "total": 81
-        },
-        {
-            "nome": "Craig Goodwin",
-            "passes": 21,
-            "chutes": 0,
-            "total": 21
-        },
-        {
-            "nome": "Harry Souttar",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Jackson Irvine",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Jamie MacLaren",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Jesper Lindstrøm",
-            "passes": 26,
-            "chutes": 2,
-            "total": 28
-        },
-        {
-            "nome": "Joachim Andersen",
-            "passes": 121,
-            "chutes": 1,
-            "total": 122
-        },
-        {
-            "nome": "Joakim Mæhle",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Kasper Dolberg",
-            "passes": 4,
-            "chutes": 2,
-            "total": 6
-        },
-        {
-            "nome": "Kasper Schmeichel",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Keanu Baccus",
-            "passes": 12,
-            "chutes": 1,
-            "total": 13
-        },
-        {
-            "nome": "Kye Rowles",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Martin Braithwaite Christensen",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Mathew Leckie",
-            "passes": 30,
-            "chutes": 1,
-            "total": 31
-        },
-        {
-            "nome": "Mathew Ryan",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Mathias Jensen",
-            "passes": 36,
-            "chutes": 1,
-            "total": 37
-        },
-        {
-            "nome": "Mikkel Damsgaard",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Miloš Degenek",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Mitchell Thomas Duke",
-            "passes": 27,
-            "chutes": 2,
-            "total": 29
-        },
-        {
-            "nome": "Pierre-Emile Højbjerg",
-            "passes": 80,
-            "chutes": 0,
-            "total": 80
-        },
-        {
-            "nome": "Rasmus Nissen Kristensen",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Riley McGree",
-            "passes": 17,
-            "chutes": 2,
-            "total": 19
-        },
-        {
-            "nome": "Robert Skov",
-            "passes": 21,
-            "chutes": 0,
-            "total": 21
-        }
-    ]
+    "tabela_stats": []
 }

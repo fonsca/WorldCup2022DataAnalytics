@@ -18123,8 +18123,8 @@
             "is_goal": false
         },
         {
-            "left": 50.2,
-            "bottom": 86.17,
+            "left": 49.79,
+            "bottom": 87.08,
             "jogador": "Lionel Andrés Messi Cuccittini",
             "tipo": "Shot",
             "time": "Argentina",
@@ -18139,8 +18139,8 @@
             "is_goal": false
         },
         {
-            "left": 41.71,
-            "bottom": 90.05,
+            "left": 39.95,
+            "bottom": 89.94,
             "jogador": "Ángel Fabián Di María Hernández",
             "tipo": "Shot",
             "time": "Argentina",
@@ -18195,16 +18195,16 @@
             "is_goal": false
         },
         {
-            "left": 50.1,
-            "bottom": 86.01,
+            "left": 49.77,
+            "bottom": 86.38,
             "jogador": "Kylian Mbappé Lottin",
             "tipo": "Shot",
             "time": "France",
             "is_goal": true
         },
         {
-            "left": 37.75,
-            "bottom": 85.24,
+            "left": 38.64,
+            "bottom": 83.7,
             "jogador": "Kylian Mbappé Lottin",
             "tipo": "Shot",
             "time": "France",
@@ -18299,8 +18299,8 @@
             "is_goal": false
         },
         {
-            "left": 53.34,
-            "bottom": 92.56,
+            "left": 52.71,
+            "bottom": 92.44,
             "jogador": "Lionel Andrés Messi Cuccittini",
             "tipo": "Shot",
             "time": "Argentina",
@@ -18315,8 +18315,8 @@
             "is_goal": false
         },
         {
-            "left": 49.77,
-            "bottom": 87.71,
+            "left": 49.6,
+            "bottom": 85.9,
             "jogador": "Kylian Mbappé Lottin",
             "tipo": "Shot",
             "time": "France",
@@ -18342,22 +18342,22 @@
     "scatter_data": [
         {
             "x": 2.1,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Antoine Griezmann"
         },
         {
             "x": 5.25,
-            "y": 0.03,
+            "y": 0.02,
             "jogador": "Aurélien Djani Tchouaméni"
         },
         {
             "x": 3.59,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Nahuel Molina Lucero"
         },
         {
             "x": 5.77,
-            "y": 1.87,
+            "y": 1.54,
             "jogador": "Rodrigo Javier De Paul"
         },
         {
@@ -18367,12 +18367,12 @@
         },
         {
             "x": 5.73,
-            "y": 0.04,
+            "y": 0.02,
             "jogador": "Nicolás Hernán Otamendi"
         },
         {
             "x": 3.85,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Nicolás Alejandro Tagliafico"
         },
         {
@@ -18382,12 +18382,12 @@
         },
         {
             "x": 3.67,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Theo Bernard François Hernández"
         },
         {
             "x": 3.72,
-            "y": 0.78,
+            "y": 0.19,
             "jogador": "Adrien Rabiot"
         },
         {
@@ -18397,22 +18397,22 @@
         },
         {
             "x": 4.98,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "Jules Koundé"
         },
         {
             "x": 4.63,
-            "y": 2.46,
+            "y": 1.36,
             "jogador": "Alexis Mac Allister"
         },
         {
             "x": 5.29,
-            "y": 4.46,
+            "y": 2.43,
             "jogador": "Lionel Andrés Messi Cuccittini"
         },
         {
             "x": 3.19,
-            "y": 1.92,
+            "y": 1.29,
             "jogador": "Ángel Fabián Di María Hernández"
         },
         {
@@ -18422,72 +18422,72 @@
         },
         {
             "x": 7.43,
-            "y": 1.83,
+            "y": 1.08,
             "jogador": "Enzo Fernandez"
         },
         {
             "x": 3.54,
-            "y": 7.46,
+            "y": 4.62,
             "jogador": "Kylian Mbappé Lottin"
         },
         {
             "x": 1.01,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Ousmane Dembélé"
         },
         {
             "x": 2.19,
-            "y": 0.87,
+            "y": 0.63,
             "jogador": "Julián Álvarez"
         },
         {
             "x": 5.12,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Dayotchanculle Upamecano"
         },
         {
             "x": 1.79,
-            "y": 1.84,
+            "y": 0.95,
             "jogador": "Randal Kolo Muani"
         },
         {
             "x": 2.14,
-            "y": 0.05,
+            "y": 0.09,
             "jogador": "Marcus Thuram"
         },
         {
             "x": 2.36,
-            "y": 0.28,
+            "y": 0.75,
             "jogador": "Marcos Javier Acuña"
         },
         {
             "x": 1.92,
-            "y": 0.19,
+            "y": 0.28,
             "jogador": "Eduardo Camavinga"
         },
         {
             "x": 1.57,
-            "y": 0.08,
+            "y": 0.54,
             "jogador": "Kingsley Coman"
         },
         {
             "x": 1.14,
-            "y": 1.57,
+            "y": 0.6,
             "jogador": "Gonzalo Ariel Montiel"
         },
         {
             "x": 0.92,
-            "y": 0.72,
+            "y": 0.2,
             "jogador": "Youssouf Fofana"
         },
         {
             "x": 1.09,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Leandro Daniel Paredes"
         },
         {
             "x": 0.79,
-            "y": 3.49,
+            "y": 1.14,
             "jogador": "Lautaro Javier Martínez"
         }
     ],
@@ -18527,210 +18527,5 @@
         "Youssouf Fofana",
         "Ángel Fabián Di María Hernández"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Adrien Rabiot",
-            "passes": 51,
-            "chutes": 1,
-            "total": 52
-        },
-        {
-            "nome": "Alexis Mac Allister",
-            "passes": 52,
-            "chutes": 3,
-            "total": 55
-        },
-        {
-            "nome": "Antoine Griezmann",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Aurélien Djani Tchouaméni",
-            "passes": 69,
-            "chutes": 0,
-            "total": 69
-        },
-        {
-            "nome": "Cristian Gabriel Romero",
-            "passes": 71,
-            "chutes": 0,
-            "total": 71
-        },
-        {
-            "nome": "Damián Emiliano Martínez",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Dayotchanculle Upamecano",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Eduardo Camavinga",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "Enzo Fernandez",
-            "passes": 94,
-            "chutes": 2,
-            "total": 96
-        },
-        {
-            "nome": "Germán Alejandro Pezzella",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Gonzalo Ariel Montiel",
-            "passes": 13,
-            "chutes": 1,
-            "total": 14
-        },
-        {
-            "nome": "Hugo Lloris",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Ibrahima Konaté",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Jules Koundé",
-            "passes": 67,
-            "chutes": 0,
-            "total": 67
-        },
-        {
-            "nome": "Julián Álvarez",
-            "passes": 32,
-            "chutes": 1,
-            "total": 33
-        },
-        {
-            "nome": "Kingsley Coman",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Kylian Mbappé Lottin",
-            "passes": 27,
-            "chutes": 6,
-            "total": 33
-        },
-        {
-            "nome": "Lautaro Javier Martínez",
-            "passes": 7,
-            "chutes": 4,
-            "total": 11
-        },
-        {
-            "nome": "Leandro Daniel Paredes",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Lionel Andrés Messi Cuccittini",
-            "passes": 60,
-            "chutes": 5,
-            "total": 65
-        },
-        {
-            "nome": "Marcos Javier Acuña",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Marcus Thuram",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Nahuel Molina Lucero",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Nicolás Alejandro Tagliafico",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Nicolás Hernán Otamendi",
-            "passes": 75,
-            "chutes": 0,
-            "total": 75
-        },
-        {
-            "nome": "Olivier Giroud",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Ousmane Dembélé",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Paulo Bruno Exequiel Dybala",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Randal Kolo Muani",
-            "passes": 15,
-            "chutes": 2,
-            "total": 17
-        },
-        {
-            "nome": "Raphaël Varane",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Rodrigo Javier De Paul",
-            "passes": 68,
-            "chutes": 2,
-            "total": 70
-        },
-        {
-            "nome": "Theo Bernard François Hernández",
-            "passes": 49,
-            "chutes": 0,
-            "total": 49
-        },
-        {
-            "nome": "Youssouf Fofana",
-            "passes": 11,
-            "chutes": 1,
-            "total": 12
-        },
-        {
-            "nome": "Ángel Fabián Di María Hernández",
-            "passes": 29,
-            "chutes": 2,
-            "total": 31
-        }
-    ]
+    "tabela_stats": []
 }

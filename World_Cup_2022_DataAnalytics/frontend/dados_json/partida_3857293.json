@@ -13819,16 +13819,16 @@
             "is_goal": false
         },
         {
-            "left": 52.3,
-            "bottom": 94.26,
+            "left": 52.12,
+            "bottom": 93.76,
             "jogador": "Giorgian Daniel De Arrascaeta Benedetti",
             "tipo": "Shot",
             "time": "Uruguay",
             "is_goal": true
         },
         {
-            "left": 39.8,
-            "bottom": 87.99,
+            "left": 40.13,
+            "bottom": 89.91,
             "jogador": "Giorgian Daniel De Arrascaeta Benedetti",
             "tipo": "Shot",
             "time": "Uruguay",
@@ -13958,27 +13958,27 @@
     "scatter_data": [
         {
             "x": 2.3,
-            "y": 0.64,
+            "y": 0.66,
             "jogador": "Luis Alberto Suárez Díaz"
         },
         {
             "x": 7.25,
-            "y": 0.04,
+            "y": 1.15,
             "jogador": "Federico Santiago Valverde Dipetta"
         },
         {
             "x": 4.77,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Mathías Olivera Miramontes"
         },
         {
             "x": 2.93,
-            "y": 0.71,
+            "y": 1.37,
             "jogador": "Giorgian Daniel De Arrascaeta Benedetti"
         },
         {
             "x": 1.15,
-            "y": 0.73,
+            "y": 0.66,
             "jogador": "André Ayew Pelé"
         },
         {
@@ -13988,32 +13988,32 @@
         },
         {
             "x": 7.99,
-            "y": 0.05,
+            "y": 0.27,
             "jogador": "Thomas Teye Partey"
         },
         {
             "x": 5.18,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Alidu Seidu"
         },
         {
             "x": 5.23,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Daniel Amartey"
         },
         {
             "x": 5.46,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Mohamed Salisu"
         },
         {
             "x": 1.04,
-            "y": 0.53,
+            "y": 0.67,
             "jogador": "Jordan Ayew"
         },
         {
             "x": 5.69,
-            "y": 0.03,
+            "y": 0.35,
             "jogador": "Abdul Rahman Baba"
         },
         {
@@ -14023,77 +14023,77 @@
         },
         {
             "x": 3.45,
-            "y": 0.14,
+            "y": 0.64,
             "jogador": "José María Giménez de Vargas"
         },
         {
             "x": 5.35,
-            "y": 0.04,
+            "y": 0.02,
             "jogador": "Guillermo Varela Olivera"
         },
         {
             "x": 1.9,
-            "y": 0.16,
+            "y": 0.62,
             "jogador": "Facundo Pellistri Rebollo"
         },
         {
             "x": 1.96,
-            "y": 0.09,
+            "y": 0.01,
             "jogador": "Lawrence Ati-Zigi"
         },
         {
             "x": 2.47,
-            "y": 0.11,
+            "y": 0.01,
             "jogador": "Sergio Rochet Álvarez"
         },
         {
             "x": 4.26,
-            "y": 0.06,
+            "y": 0.18,
             "jogador": "Sebastián Coates Nión"
         },
         {
             "x": 5.0,
-            "y": 0.08,
+            "y": 2.27,
             "jogador": "Mohammed Kudus"
         },
         {
             "x": 1.9,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Rodrigo Bentancur Colmán"
         },
         {
             "x": 2.01,
-            "y": 0.59,
+            "y": 0.66,
             "jogador": "Darwin Gabriel Núñez Ribeiro"
         },
         {
             "x": 4.6,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Matías Vecino Falero"
         },
         {
             "x": 1.61,
-            "y": 0.04,
+            "y": 0.72,
             "jogador": "Osman Bukari"
         },
         {
             "x": 2.47,
-            "y": 0.02,
+            "y": 0.42,
             "jogador": "Kamaldeen Sulemana"
         },
         {
             "x": 1.27,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Edinson Roberto Cavani Gómez"
         },
         {
             "x": 1.5,
-            "y": 0.05,
+            "y": 0.16,
             "jogador": "Diego Nicolás De La Cruz Arcosa"
         },
         {
             "x": 1.96,
-            "y": 0.01,
+            "y": 0.07,
             "jogador": "Daniel-Kofi Kyereh"
         },
         {
@@ -14136,198 +14136,5 @@
         "Sergio Rochet Álvarez",
         "Thomas Teye Partey"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdul Fatawu Issahaku",
-            "passes": 0,
-            "chutes": 0,
-            "total": 0
-        },
-        {
-            "nome": "Abdul Rahman Baba",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Agustín Canobbio Graviz",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Alidu Seidu",
-            "passes": 52,
-            "chutes": 0,
-            "total": 52
-        },
-        {
-            "nome": "André Ayew Pelé",
-            "passes": 8,
-            "chutes": 1,
-            "total": 9
-        },
-        {
-            "nome": "Antoine Semenyo",
-            "passes": 3,
-            "chutes": 1,
-            "total": 4
-        },
-        {
-            "nome": "Daniel Amartey",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Daniel-Kofi Kyereh",
-            "passes": 18,
-            "chutes": 0,
-            "total": 18
-        },
-        {
-            "nome": "Darwin Gabriel Núñez Ribeiro",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Diego Nicolás De La Cruz Arcosa",
-            "passes": 12,
-            "chutes": 1,
-            "total": 13
-        },
-        {
-            "nome": "Edinson Roberto Cavani Gómez",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Facundo Pellistri Rebollo",
-            "passes": 14,
-            "chutes": 1,
-            "total": 15
-        },
-        {
-            "nome": "Federico Santiago Valverde Dipetta",
-            "passes": 76,
-            "chutes": 3,
-            "total": 79
-        },
-        {
-            "nome": "Giorgian Daniel De Arrascaeta Benedetti",
-            "passes": 26,
-            "chutes": 2,
-            "total": 28
-        },
-        {
-            "nome": "Guillermo Varela Olivera",
-            "passes": 55,
-            "chutes": 0,
-            "total": 55
-        },
-        {
-            "nome": "Iñaki Williams Arthuer",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Jordan Ayew",
-            "passes": 9,
-            "chutes": 1,
-            "total": 10
-        },
-        {
-            "nome": "José María Giménez de Vargas",
-            "passes": 37,
-            "chutes": 1,
-            "total": 38
-        },
-        {
-            "nome": "Kamaldeen Sulemana",
-            "passes": 16,
-            "chutes": 1,
-            "total": 17
-        },
-        {
-            "nome": "Lawrence Ati-Zigi",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Luis Alberto Suárez Díaz",
-            "passes": 20,
-            "chutes": 1,
-            "total": 21
-        },
-        {
-            "nome": "Mathías Olivera Miramontes",
-            "passes": 52,
-            "chutes": 0,
-            "total": 52
-        },
-        {
-            "nome": "Matías Vecino Falero",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Maximiliano Gómez González",
-            "passes": 3,
-            "chutes": 1,
-            "total": 4
-        },
-        {
-            "nome": "Mohamed Salisu",
-            "passes": 59,
-            "chutes": 0,
-            "total": 59
-        },
-        {
-            "nome": "Mohammed Kudus",
-            "passes": 34,
-            "chutes": 4,
-            "total": 38
-        },
-        {
-            "nome": "Osman Bukari",
-            "passes": 13,
-            "chutes": 1,
-            "total": 14
-        },
-        {
-            "nome": "Rodrigo Bentancur Colmán",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Salis Abdul Samed",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Sebastián Coates Nión",
-            "passes": 47,
-            "chutes": 1,
-            "total": 48
-        },
-        {
-            "nome": "Sergio Rochet Álvarez",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        },
-        {
-            "nome": "Thomas Teye Partey",
-            "passes": 78,
-            "chutes": 0,
-            "total": 78
-        }
-    ]
+    "tabela_stats": []
 }

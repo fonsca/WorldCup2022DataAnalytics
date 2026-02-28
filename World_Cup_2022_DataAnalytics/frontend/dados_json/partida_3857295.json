@@ -16259,8 +16259,8 @@
             "is_goal": false
         },
         {
-            "left": 58.24,
-            "bottom": 83.35,
+            "left": 58.77,
+            "bottom": 82.81,
             "jogador": "Keysher Fuller Spence",
             "tipo": "Shot",
             "time": "Costa Rica",
@@ -16278,17 +16278,17 @@
     "scatter_data": [
         {
             "x": 5.13,
-            "y": 0.21,
+            "y": 0.79,
             "jogador": "Joel Nathaniel Campbell Samuels"
         },
         {
             "x": 6.85,
-            "y": 0.02,
+            "y": 0.58,
             "jogador": "Francisco Javier Calvo Quesada"
         },
         {
             "x": 8.48,
-            "y": 1.89,
+            "y": 1.18,
             "jogador": "Wataru Endo"
         },
         {
@@ -16298,7 +16298,7 @@
         },
         {
             "x": 6.41,
-            "y": 0.75,
+            "y": 0.7,
             "jogador": "Hidemasa Morita"
         },
         {
@@ -16308,17 +16308,17 @@
         },
         {
             "x": 2.02,
-            "y": 1.98,
+            "y": 2.09,
             "jogador": "Yuki Soma"
         },
         {
             "x": 4.29,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Yuto Nagatomo"
         },
         {
             "x": 3.6,
-            "y": 1.13,
+            "y": 0.78,
             "jogador": "Daichi Kamada"
         },
         {
@@ -16328,7 +16328,7 @@
         },
         {
             "x": 3.65,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Kendall Jamaal Waston Manley"
         },
         {
@@ -16343,7 +16343,7 @@
         },
         {
             "x": 6.6,
-            "y": 0.88,
+            "y": 0.62,
             "jogador": "Ko Itakura"
         },
         {
@@ -16363,7 +16363,7 @@
         },
         {
             "x": 2.51,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Miki Yamane"
         },
         {
@@ -16373,42 +16373,42 @@
         },
         {
             "x": 2.02,
-            "y": 0.02,
+            "y": 0.57,
             "jogador": "Gerson Torres Barrantes"
         },
         {
             "x": 2.17,
-            "y": 0.34,
+            "y": 0.65,
             "jogador": "Keysher Fuller Spence"
         },
         {
             "x": 1.87,
-            "y": 0.05,
+            "y": 0.21,
             "jogador": "Ritsu Doan"
         },
         {
             "x": 5.37,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Hiroki Ito"
         },
         {
             "x": 0.74,
-            "y": 1.57,
+            "y": 1.29,
             "jogador": "Takuma Asano"
         },
         {
             "x": 1.43,
-            "y": 0.01,
+            "y": 0.29,
             "jogador": "Kaoru Mitoma"
         },
         {
             "x": 0.94,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "Brandon Aguilera Zamora"
         },
         {
             "x": 0.94,
-            "y": 0.01,
+            "y": 0.1,
             "jogador": "Junya Ito"
         },
         {
@@ -16449,186 +16449,5 @@
         "Yuto Nagatomo",
         "Óscar Esau Duarte Gaitán"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Anthony Daniel Contreras Enríquez",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Ayase Ueda",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Brandon Aguilera Zamora",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Bryan Oviedo",
-            "passes": 43,
-            "chutes": 0,
-            "total": 43
-        },
-        {
-            "nome": "Celso Borges Mora",
-            "passes": 58,
-            "chutes": 0,
-            "total": 58
-        },
-        {
-            "nome": "Daichi Kamada",
-            "passes": 34,
-            "chutes": 2,
-            "total": 36
-        },
-        {
-            "nome": "Daniel Alonso Chacón Salas",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Francisco Javier Calvo Quesada",
-            "passes": 75,
-            "chutes": 1,
-            "total": 76
-        },
-        {
-            "nome": "Gerson Torres Barrantes",
-            "passes": 17,
-            "chutes": 1,
-            "total": 18
-        },
-        {
-            "nome": "Hidemasa Morita",
-            "passes": 68,
-            "chutes": 1,
-            "total": 69
-        },
-        {
-            "nome": "Hiroki Ito",
-            "passes": 63,
-            "chutes": 0,
-            "total": 63
-        },
-        {
-            "nome": "Jewison Bennette",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Joel Nathaniel Campbell Samuels",
-            "passes": 46,
-            "chutes": 1,
-            "total": 47
-        },
-        {
-            "nome": "Junya Ito",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Kaoru Mitoma",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Kendall Jamaal Waston Manley",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Keylor Navas Gamboa",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Keysher Fuller Spence",
-            "passes": 24,
-            "chutes": 1,
-            "total": 25
-        },
-        {
-            "nome": "Ko Itakura",
-            "passes": 68,
-            "chutes": 1,
-            "total": 69
-        },
-        {
-            "nome": "Maya Yoshida",
-            "passes": 117,
-            "chutes": 0,
-            "total": 117
-        },
-        {
-            "nome": "Miki Yamane",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Ritsu Doan",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Shūichi Gonda",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Takuma Asano",
-            "passes": 6,
-            "chutes": 2,
-            "total": 8
-        },
-        {
-            "nome": "Takumi Minamino",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Wataru Endo",
-            "passes": 89,
-            "chutes": 3,
-            "total": 92
-        },
-        {
-            "nome": "Yeltsin Ignacio Tejeda Valverde",
-            "passes": 49,
-            "chutes": 0,
-            "total": 49
-        },
-        {
-            "nome": "Yuki Soma",
-            "passes": 20,
-            "chutes": 3,
-            "total": 23
-        },
-        {
-            "nome": "Yuto Nagatomo",
-            "passes": 48,
-            "chutes": 0,
-            "total": 48
-        },
-        {
-            "nome": "Óscar Esau Duarte Gaitán",
-            "passes": 48,
-            "chutes": 0,
-            "total": 48
-        }
-    ]
+    "tabela_stats": []
 }

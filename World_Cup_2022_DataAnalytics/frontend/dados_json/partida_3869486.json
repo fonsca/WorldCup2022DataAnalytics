@@ -14619,8 +14619,8 @@
             "is_goal": false
         },
         {
-            "left": 48.7,
-            "bottom": 90.57,
+            "left": 49.23,
+            "bottom": 90.18,
             "jogador": "Youssef En-Nesyri",
             "tipo": "Shot",
             "time": "Morocco",
@@ -14718,22 +14718,22 @@
     "scatter_data": [
         {
             "x": 5.18,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Otávio Edmilson da Silva Monteiro"
         },
         {
             "x": 6.76,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Rúben Diogo Da Silva Neves"
         },
         {
             "x": 10.47,
-            "y": 0.11,
+            "y": 0.18,
             "jogador": "Kléper Laveran Lima Ferreira"
         },
         {
             "x": 9.43,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "Rúben Santos Gato Alves Dias"
         },
         {
@@ -14743,67 +14743,67 @@
         },
         {
             "x": 3.54,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Achraf Hakimi Mouh"
         },
         {
             "x": 3.05,
-            "y": 0.84,
+            "y": 0.55,
             "jogador": "Raphaël Adelino José Guerreiro"
         },
         {
             "x": 2.07,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Jawad El Yamiq"
         },
         {
             "x": 1.96,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Sofyan Amrabat"
         },
         {
             "x": 2.94,
-            "y": 2.23,
+            "y": 3.06,
             "jogador": "João Félix Sequeira"
         },
         {
             "x": 2.94,
-            "y": 0.87,
+            "y": 0.82,
             "jogador": "Hakim Ziyech"
         },
         {
             "x": 7.31,
-            "y": 0.22,
+            "y": 1.18,
             "jogador": "Bruno Miguel Borges Fernandes"
         },
         {
             "x": 10.2,
-            "y": 0.12,
+            "y": 0.63,
             "jogador": "Bernardo Mota Veiga de Carvalho e Silva"
         },
         {
             "x": 3.87,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "José Diogo Dalot Teixeira"
         },
         {
             "x": 2.18,
-            "y": 0.09,
+            "y": 0.63,
             "jogador": "Yahia Attiyat allah"
         },
         {
             "x": 1.31,
-            "y": 1.82,
+            "y": 1.99,
             "jogador": "Youssef En-Nesyri"
         },
         {
             "x": 1.2,
-            "y": 0.87,
+            "y": 0.65,
             "jogador": "Selim Amallah"
         },
         {
             "x": 1.8,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Diogo Meireles Costa"
         },
         {
@@ -14813,47 +14813,47 @@
         },
         {
             "x": 3.0,
-            "y": 0.02,
+            "y": 0.51,
             "jogador": "Azzedine Ounahi"
         },
         {
             "x": 2.34,
-            "y": 0.86,
+            "y": 0.78,
             "jogador": "Sofiane Boufal"
         },
         {
             "x": 1.04,
-            "y": 0.07,
+            "y": 0.61,
             "jogador": "Gonçalo Matias Ramos"
         },
         {
             "x": 0.98,
-            "y": 0.06,
+            "y": 0.22,
             "jogador": "Cristiano Ronaldo dos Santos Aveiro"
         },
         {
             "x": 4.69,
-            "y": 0.04,
+            "y": 0.02,
             "jogador": "João Pedro Cavaco Cancelo"
         },
         {
             "x": 3.71,
-            "y": 0.03,
+            "y": 0.02,
             "jogador": "Vitor Machado Ferreira"
         },
         {
             "x": 1.91,
-            "y": 0.02,
+            "y": 0.14,
             "jogador": "Rafael Alexandre Conceição Leão"
         },
         {
             "x": 0.6,
-            "y": 0.0,
+            "y": 0.03,
             "jogador": "Walid Cheddira"
         },
         {
             "x": 1.15,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Ricardo Jorge Luz Horta"
         }
     ],
@@ -14890,192 +14890,5 @@
         "Youssef En-Nesyri",
         "Zakaria Aboukhlal"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Achraf Dari",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Achraf Hakimi Mouh",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Azzedine Ounahi",
-            "passes": 23,
-            "chutes": 1,
-            "total": 24
-        },
-        {
-            "nome": "Bernardo Mota Veiga de Carvalho e Silva",
-            "passes": 100,
-            "chutes": 1,
-            "total": 101
-        },
-        {
-            "nome": "Bruno Miguel Borges Fernandes",
-            "passes": 74,
-            "chutes": 2,
-            "total": 76
-        },
-        {
-            "nome": "Cristiano Ronaldo dos Santos Aveiro",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Diogo Meireles Costa",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Gonçalo Matias Ramos",
-            "passes": 8,
-            "chutes": 1,
-            "total": 9
-        },
-        {
-            "nome": "Hakim Ziyech",
-            "passes": 27,
-            "chutes": 1,
-            "total": 28
-        },
-        {
-            "nome": "Jawad El Yamiq",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "José Diogo Dalot Teixeira",
-            "passes": 40,
-            "chutes": 0,
-            "total": 40
-        },
-        {
-            "nome": "João Félix Sequeira",
-            "passes": 21,
-            "chutes": 5,
-            "total": 26
-        },
-        {
-            "nome": "João Pedro Cavaco Cancelo",
-            "passes": 47,
-            "chutes": 0,
-            "total": 47
-        },
-        {
-            "nome": "Kléper Laveran Lima Ferreira",
-            "passes": 104,
-            "chutes": 1,
-            "total": 105
-        },
-        {
-            "nome": "Otávio Edmilson da Silva Monteiro",
-            "passes": 53,
-            "chutes": 0,
-            "total": 53
-        },
-        {
-            "nome": "Rafael Alexandre Conceição Leão",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Raphaël Adelino José Guerreiro",
-            "passes": 32,
-            "chutes": 1,
-            "total": 33
-        },
-        {
-            "nome": "Ricardo Jorge Luz Horta",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Romain Saïss",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Rúben Diogo Da Silva Neves",
-            "passes": 66,
-            "chutes": 0,
-            "total": 66
-        },
-        {
-            "nome": "Rúben Santos Gato Alves Dias",
-            "passes": 94,
-            "chutes": 0,
-            "total": 94
-        },
-        {
-            "nome": "Selim Amallah",
-            "passes": 9,
-            "chutes": 1,
-            "total": 10
-        },
-        {
-            "nome": "Sofiane Boufal",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Sofyan Amrabat",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Vitor Machado Ferreira",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Walid Cheddira",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Yahia Attiyat allah",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Yahya Jabrane",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Yassine Bounou",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Youssef En-Nesyri",
-            "passes": 9,
-            "chutes": 3,
-            "total": 12
-        },
-        {
-            "nome": "Zakaria Aboukhlal",
-            "passes": 1,
-            "chutes": 1,
-            "total": 2
-        }
-    ]
+    "tabela_stats": []
 }

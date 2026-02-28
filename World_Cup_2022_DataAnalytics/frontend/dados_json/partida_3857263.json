@@ -15163,8 +15163,8 @@
             "is_goal": false
         },
         {
-            "left": 43.19,
-            "bottom": 89.79,
+            "left": 44.04,
+            "bottom": 91.7,
             "jogador": "Álvaro Borja Morata Martín",
             "tipo": "Shot",
             "time": "Spain",
@@ -15227,8 +15227,8 @@
             "is_goal": false
         },
         {
-            "left": 63.81,
-            "bottom": 89.63,
+            "left": 63.2,
+            "bottom": 89.65,
             "jogador": "Niclas Füllkrug",
             "tipo": "Shot",
             "time": "Germany",
@@ -15238,52 +15238,52 @@
     "scatter_data": [
         {
             "x": 1.42,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Pablo Martín Páez Gavira"
         },
         {
             "x": 8.85,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "Aymeric Laporte"
         },
         {
             "x": 9.64,
-            "y": 0.06,
+            "y": 0.02,
             "jogador": "Rodrigo Hernández Cascante"
         },
         {
             "x": 2.47,
-            "y": 1.8,
+            "y": 1.34,
             "jogador": "Ferrán Torres García"
         },
         {
             "x": 4.48,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Niklas Süle"
         },
         {
             "x": 7.42,
-            "y": 0.87,
+            "y": 0.78,
             "jogador": "Jordi Alba Ramos"
         },
         {
             "x": 2.26,
-            "y": 0.99,
+            "y": 0.76,
             "jogador": "Leon Goretzka"
         },
         {
             "x": 6.58,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Daniel Carvajal Ramos"
         },
         {
             "x": 6.48,
-            "y": 0.04,
+            "y": 0.06,
             "jogador": "Pedro González López"
         },
         {
             "x": 2.32,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Thilo Kehrer"
         },
         {
@@ -15293,52 +15293,52 @@
         },
         {
             "x": 4.58,
-            "y": 1.73,
+            "y": 1.16,
             "jogador": "Antonio Rüdiger"
         },
         {
             "x": 4.0,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "David Raum"
         },
         {
             "x": 3.69,
-            "y": 0.9,
+            "y": 0.78,
             "jogador": "Jamal Musiala"
         },
         {
             "x": 4.74,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Unai Simón Mendibil"
         },
         {
             "x": 2.47,
-            "y": 1.67,
+            "y": 1.3,
             "jogador": "Serge Gnabry"
         },
         {
             "x": 3.58,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Sergio Busquets i Burgos"
         },
         {
             "x": 5.16,
-            "y": 1.85,
+            "y": 0.64,
             "jogador": "Daniel Olmo Carvajal"
         },
         {
             "x": 3.16,
-            "y": 1.9,
+            "y": 1.42,
             "jogador": "Joshua Kimmich"
         },
         {
             "x": 1.79,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "İlkay Gündoğan"
         },
         {
             "x": 3.21,
-            "y": 0.98,
+            "y": 0.65,
             "jogador": "Marco Asensio Willemsen"
         },
         {
@@ -15348,37 +15348,37 @@
         },
         {
             "x": 0.84,
-            "y": 0.96,
+            "y": 0.63,
             "jogador": "Álvaro Borja Morata Martín"
         },
         {
             "x": 1.16,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Jorge Resurrección Merodio"
         },
         {
             "x": 1.37,
-            "y": 0.01,
+            "y": 0.06,
             "jogador": "Nicholas Williams Arthuer"
         },
         {
             "x": 0.68,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Lukas Klostermann"
         },
         {
             "x": 0.84,
-            "y": 2.42,
+            "y": 1.77,
             "jogador": "Niclas Füllkrug"
         },
         {
             "x": 1.11,
-            "y": 0.02,
+            "y": 0.12,
             "jogador": "Leroy Sané"
         },
         {
             "x": 0.9,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Alejandro Balde Martínez"
         }
     ],
@@ -15415,192 +15415,5 @@
         "Álvaro Borja Morata Martín",
         "İlkay Gündoğan"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alejandro Balde Martínez",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Antonio Rüdiger",
-            "passes": 48,
-            "chutes": 2,
-            "total": 50
-        },
-        {
-            "nome": "Aymeric Laporte",
-            "passes": 98,
-            "chutes": 0,
-            "total": 98
-        },
-        {
-            "nome": "Daniel Carvajal Ramos",
-            "passes": 74,
-            "chutes": 0,
-            "total": 74
-        },
-        {
-            "nome": "Daniel Olmo Carvajal",
-            "passes": 41,
-            "chutes": 2,
-            "total": 43
-        },
-        {
-            "nome": "David Raum",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Ferrán Torres García",
-            "passes": 20,
-            "chutes": 2,
-            "total": 22
-        },
-        {
-            "nome": "Jamal Musiala",
-            "passes": 20,
-            "chutes": 1,
-            "total": 21
-        },
-        {
-            "nome": "Jonas Hofmann",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Jordi Alba Ramos",
-            "passes": 82,
-            "chutes": 1,
-            "total": 83
-        },
-        {
-            "nome": "Jorge Resurrección Merodio",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Joshua Kimmich",
-            "passes": 39,
-            "chutes": 2,
-            "total": 41
-        },
-        {
-            "nome": "Leon Goretzka",
-            "passes": 26,
-            "chutes": 1,
-            "total": 27
-        },
-        {
-            "nome": "Leroy Sané",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Lukas Klostermann",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Manuel Neuer",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Marco Asensio Willemsen",
-            "passes": 34,
-            "chutes": 1,
-            "total": 35
-        },
-        {
-            "nome": "Nicholas Williams Arthuer",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Niclas Füllkrug",
-            "passes": 7,
-            "chutes": 3,
-            "total": 10
-        },
-        {
-            "nome": "Nico Schlotterbeck",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Niklas Süle",
-            "passes": 47,
-            "chutes": 0,
-            "total": 47
-        },
-        {
-            "nome": "Pablo Martín Páez Gavira",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Pedro González López",
-            "passes": 63,
-            "chutes": 0,
-            "total": 63
-        },
-        {
-            "nome": "Rodrigo Hernández Cascante",
-            "passes": 105,
-            "chutes": 0,
-            "total": 105
-        },
-        {
-            "nome": "Serge Gnabry",
-            "passes": 18,
-            "chutes": 2,
-            "total": 20
-        },
-        {
-            "nome": "Sergio Busquets i Burgos",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Thilo Kehrer",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Thomas Müller",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Unai Simón Mendibil",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Álvaro Borja Morata Martín",
-            "passes": 8,
-            "chutes": 1,
-            "total": 9
-        },
-        {
-            "nome": "İlkay Gündoğan",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        }
-    ]
+    "tabela_stats": []
 }

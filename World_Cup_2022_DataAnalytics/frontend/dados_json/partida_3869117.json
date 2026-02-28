@@ -15419,8 +15419,8 @@
             "is_goal": false
         },
         {
-            "left": 55.08,
-            "bottom": 84.61,
+            "left": 53.57,
+            "bottom": 83.66,
             "jogador": "Memphis Depay",
             "tipo": "Shot",
             "time": "Netherlands",
@@ -15459,8 +15459,8 @@
             "is_goal": false
         },
         {
-            "left": 49.05,
-            "bottom": 86.25,
+            "left": 47.48,
+            "bottom": 85.56,
             "jogador": "Daley Blind",
             "tipo": "Shot",
             "time": "Netherlands",
@@ -15579,8 +15579,8 @@
             "is_goal": false
         },
         {
-            "left": 55.19,
-            "bottom": 92.96,
+            "left": 55.54,
+            "bottom": 93.09,
             "jogador": "Haji Wright",
             "tipo": "Shot",
             "time": "United States",
@@ -15603,8 +15603,8 @@
             "is_goal": false
         },
         {
-            "left": 55.33,
-            "bottom": 91.55,
+            "left": 54.1,
+            "bottom": 91.09,
             "jogador": "Denzel Dumfries",
             "tipo": "Shot",
             "time": "Netherlands",
@@ -15646,147 +15646,147 @@
     "scatter_data": [
         {
             "x": 3.18,
-            "y": 3.13,
+            "y": 2.79,
             "jogador": "Memphis Depay"
         },
         {
             "x": 3.59,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Frenkie de Jong"
         },
         {
             "x": 1.18,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Marten de Roon"
         },
         {
             "x": 4.15,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Jurriën David Norman Timber"
         },
         {
             "x": 2.82,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Andries Noppert"
         },
         {
             "x": 4.36,
-            "y": 1.21,
+            "y": 1.35,
             "jogador": "Sergino Dest"
         },
         {
             "x": 7.03,
-            "y": 0.26,
+            "y": 0.22,
             "jogador": "Walker Zimmerman"
         },
         {
             "x": 7.74,
-            "y": 0.37,
+            "y": 0.57,
             "jogador": "Tim Ream"
         },
         {
             "x": 2.51,
-            "y": 1.63,
+            "y": 1.59,
             "jogador": "Timothy Weah"
         },
         {
             "x": 7.74,
-            "y": 0.14,
+            "y": 0.02,
             "jogador": "Tyler Adams"
         },
         {
             "x": 7.28,
-            "y": 0.07,
+            "y": 0.02,
             "jogador": "Antonee Robinson"
         },
         {
             "x": 4.05,
-            "y": 2.3,
+            "y": 2.43,
             "jogador": "Christian Pulisic"
         },
         {
             "x": 4.05,
-            "y": 1.44,
+            "y": 1.83,
             "jogador": "Weston McKennie"
         },
         {
             "x": 5.03,
-            "y": 0.32,
+            "y": 0.2,
             "jogador": "Yunus Dimoara Musah"
         },
         {
             "x": 1.79,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Jesus Ferreira"
         },
         {
             "x": 2.87,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Nathan Aké"
         },
         {
             "x": 3.79,
-            "y": 1.07,
+            "y": 1.3,
             "jogador": "Daley Blind"
         },
         {
             "x": 4.1,
-            "y": 0.82,
+            "y": 0.6,
             "jogador": "Virgil van Dijk"
         },
         {
             "x": 4.26,
-            "y": 0.2,
+            "y": 0.6,
             "jogador": "Denzel Dumfries"
         },
         {
             "x": 2.05,
-            "y": 0.04,
+            "y": 0.0,
             "jogador": "Matthew Charles Turner"
         },
         {
             "x": 1.13,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Davy Klaassen"
         },
         {
             "x": 3.33,
-            "y": 0.9,
+            "y": 0.13,
             "jogador": "Cody Mathès Gakpo"
         },
         {
             "x": 3.18,
-            "y": 1.16,
+            "y": 1.06,
             "jogador": "Giovanni Reyna"
         },
         {
             "x": 2.26,
-            "y": 0.77,
+            "y": 0.87,
             "jogador": "Steven Bergwijn"
         },
         {
             "x": 2.36,
-            "y": 0.83,
+            "y": 0.49,
             "jogador": "Teun Koopmeiners"
         },
         {
             "x": 0.87,
-            "y": 1.72,
+            "y": 1.37,
             "jogador": "Haji Wright"
         },
         {
             "x": 1.28,
-            "y": 0.03,
+            "y": 0.06,
             "jogador": "Brenden Aaronson"
         },
         {
             "x": 0.92,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "DeAndre Yedlin"
         },
         {
             "x": 0.97,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Xavi Simons"
         }
     ],
@@ -15823,192 +15823,5 @@
         "Xavi Simons",
         "Yunus Dimoara Musah"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Andries Noppert",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Antonee Robinson",
-            "passes": 78,
-            "chutes": 0,
-            "total": 78
-        },
-        {
-            "nome": "Brenden Aaronson",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Christian Pulisic",
-            "passes": 36,
-            "chutes": 3,
-            "total": 39
-        },
-        {
-            "nome": "Cody Mathès Gakpo",
-            "passes": 29,
-            "chutes": 1,
-            "total": 30
-        },
-        {
-            "nome": "Daley Blind",
-            "passes": 41,
-            "chutes": 2,
-            "total": 43
-        },
-        {
-            "nome": "Davy Klaassen",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "DeAndre Yedlin",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Denzel Dumfries",
-            "passes": 48,
-            "chutes": 1,
-            "total": 49
-        },
-        {
-            "nome": "Frenkie de Jong",
-            "passes": 43,
-            "chutes": 0,
-            "total": 43
-        },
-        {
-            "nome": "Giovanni Reyna",
-            "passes": 31,
-            "chutes": 2,
-            "total": 33
-        },
-        {
-            "nome": "Haji Wright",
-            "passes": 8,
-            "chutes": 3,
-            "total": 11
-        },
-        {
-            "nome": "Jesus Ferreira",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Jordan Morris",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Jurriën David Norman Timber",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Marten de Roon",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Matthew Charles Turner",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "Memphis Depay",
-            "passes": 30,
-            "chutes": 4,
-            "total": 34
-        },
-        {
-            "nome": "Nathan Aké",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Sergino Dest",
-            "passes": 38,
-            "chutes": 2,
-            "total": 40
-        },
-        {
-            "nome": "Steven Bergwijn",
-            "passes": 19,
-            "chutes": 1,
-            "total": 20
-        },
-        {
-            "nome": "Teun Koopmeiners",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Tim Ream",
-            "passes": 84,
-            "chutes": 1,
-            "total": 85
-        },
-        {
-            "nome": "Timothy Weah",
-            "passes": 24,
-            "chutes": 2,
-            "total": 26
-        },
-        {
-            "nome": "Tyler Adams",
-            "passes": 86,
-            "chutes": 0,
-            "total": 86
-        },
-        {
-            "nome": "Virgil van Dijk",
-            "passes": 47,
-            "chutes": 1,
-            "total": 48
-        },
-        {
-            "nome": "Walker Zimmerman",
-            "passes": 75,
-            "chutes": 1,
-            "total": 76
-        },
-        {
-            "nome": "Weston McKennie",
-            "passes": 40,
-            "chutes": 3,
-            "total": 43
-        },
-        {
-            "nome": "Wout Weghorst",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Xavi Simons",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Yunus Dimoara Musah",
-            "passes": 52,
-            "chutes": 1,
-            "total": 53
-        }
-    ]
+    "tabela_stats": []
 }

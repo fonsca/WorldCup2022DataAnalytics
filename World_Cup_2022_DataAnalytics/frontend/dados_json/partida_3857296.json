@@ -18086,17 +18086,17 @@
     "scatter_data": [
         {
             "x": 5.1,
-            "y": 0.0,
+            "y": 0.62,
             "jogador": "Mateo Kovačić"
         },
         {
             "x": 6.92,
-            "y": 0.0,
+            "y": 1.41,
             "jogador": "Marcelo Brozović"
         },
         {
             "x": 4.57,
-            "y": 0.0,
+            "y": 1.28,
             "jogador": "Luka Modrić"
         },
         {
@@ -18106,107 +18106,107 @@
         },
         {
             "x": 4.39,
-            "y": 0.0,
+            "y": 0.68,
             "jogador": "Josip Juranović"
         },
         {
             "x": 3.9,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Dejan Lovren"
         },
         {
             "x": 2.17,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Dominik Livaković"
         },
         {
             "x": 6.7,
-            "y": 0.0,
+            "y": 1.07,
             "jogador": "Borna Sosa"
         },
         {
             "x": 4.17,
-            "y": 0.0,
+            "y": 0.83,
             "jogador": "Ivan Perišić"
         },
         {
             "x": 1.24,
-            "y": 0.0,
+            "y": 0.65,
             "jogador": "Marko Livaja"
         },
         {
             "x": 2.53,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Andrej Kramarić"
         },
         {
             "x": 3.19,
-            "y": 0.0,
+            "y": 2.25,
             "jogador": "Yannick Ferreira Carrasco"
         },
         {
             "x": 1.51,
-            "y": 0.0,
+            "y": 1.25,
             "jogador": "Dries Mertens"
         },
         {
             "x": 6.25,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "Timothy Castagne"
         },
         {
             "x": 3.99,
-            "y": 0.0,
+            "y": 0.61,
             "jogador": "Axel Witsel"
         },
         {
             "x": 2.71,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Leandro Trossard"
         },
         {
             "x": 5.45,
-            "y": 0.0,
+            "y": 0.19,
             "jogador": "Thomas Meunier"
         },
         {
             "x": 3.06,
-            "y": 0.0,
+            "y": 1.12,
             "jogador": "Kevin De Bruyne"
         },
         {
             "x": 7.45,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "Toby Alderweireld"
         },
         {
             "x": 7.1,
-            "y": 0.0,
+            "y": 0.72,
             "jogador": "Jan Vertonghen"
         },
         {
             "x": 3.68,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Leander Dendoncker"
         },
         {
             "x": 4.97,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Joško Gvardiol"
         },
         {
             "x": 0.89,
-            "y": 0.0,
+            "y": 2.0,
             "jogador": "Romelu Lukaku Menama"
         },
         {
             "x": 0.8,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Thorgan Hazard"
         },
         {
             "x": 1.46,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Bruno Petković"
         },
         {
@@ -18216,7 +18216,7 @@
         },
         {
             "x": 1.55,
-            "y": 0.0,
+            "y": 0.18,
             "jogador": "Jeremy Doku"
         }
     ],
@@ -18252,186 +18252,5 @@
         "Yannick Ferreira Carrasco",
         "Youri Tielemans"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Andrej Kramarić",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Axel Witsel",
-            "passes": 50,
-            "chutes": 1,
-            "total": 51
-        },
-        {
-            "nome": "Borna Sosa",
-            "passes": 84,
-            "chutes": 2,
-            "total": 86
-        },
-        {
-            "nome": "Bruno Petković",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Dejan Lovren",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Dominik Livaković",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Dries Mertens",
-            "passes": 18,
-            "chutes": 2,
-            "total": 20
-        },
-        {
-            "nome": "Eden Hazard",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Ivan Perišić",
-            "passes": 42,
-            "chutes": 2,
-            "total": 44
-        },
-        {
-            "nome": "Jan Vertonghen",
-            "passes": 89,
-            "chutes": 1,
-            "total": 90
-        },
-        {
-            "nome": "Jeremy Doku",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Josip Juranović",
-            "passes": 58,
-            "chutes": 1,
-            "total": 59
-        },
-        {
-            "nome": "Joško Gvardiol",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Kevin De Bruyne",
-            "passes": 38,
-            "chutes": 2,
-            "total": 40
-        },
-        {
-            "nome": "Leander Dendoncker",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Leandro Trossard",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Lovro Majer",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Luka Modrić",
-            "passes": 57,
-            "chutes": 2,
-            "total": 59
-        },
-        {
-            "nome": "Marcelo Brozović",
-            "passes": 87,
-            "chutes": 2,
-            "total": 89
-        },
-        {
-            "nome": "Mario Pašalić",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Marko Livaja",
-            "passes": 14,
-            "chutes": 1,
-            "total": 15
-        },
-        {
-            "nome": "Mateo Kovačić",
-            "passes": 64,
-            "chutes": 1,
-            "total": 65
-        },
-        {
-            "nome": "Romelu Lukaku Menama",
-            "passes": 8,
-            "chutes": 5,
-            "total": 13
-        },
-        {
-            "nome": "Thibaut Courtois",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Thomas Meunier",
-            "passes": 69,
-            "chutes": 1,
-            "total": 70
-        },
-        {
-            "nome": "Thorgan Hazard",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Timothy Castagne",
-            "passes": 83,
-            "chutes": 0,
-            "total": 83
-        },
-        {
-            "nome": "Toby Alderweireld",
-            "passes": 92,
-            "chutes": 0,
-            "total": 92
-        },
-        {
-            "nome": "Yannick Ferreira Carrasco",
-            "passes": 32,
-            "chutes": 4,
-            "total": 36
-        },
-        {
-            "nome": "Youri Tielemans",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        }
-    ]
+    "tabela_stats": []
 }

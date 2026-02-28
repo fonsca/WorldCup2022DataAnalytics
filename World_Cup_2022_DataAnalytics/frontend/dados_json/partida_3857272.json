@@ -15254,62 +15254,62 @@
     "scatter_data": [
         {
             "x": 3.52,
-            "y": 0.0,
+            "y": 0.71,
             "jogador": "Mason Mount"
         },
         {
             "x": 8.73,
-            "y": 0.0,
+            "y": 0.65,
             "jogador": "John Stones"
         },
         {
             "x": 7.68,
-            "y": 0.0,
+            "y": 0.19,
             "jogador": "Harry Maguire"
         },
         {
             "x": 7.57,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "Luke Shaw"
         },
         {
             "x": 6.52,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Walker Zimmerman"
         },
         {
             "x": 3.37,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Matthew Charles Turner"
         },
         {
             "x": 5.47,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Declan Rice"
         },
         {
             "x": 4.0,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Tyler Adams"
         },
         {
             "x": 1.21,
-            "y": 0.0,
+            "y": 1.27,
             "jogador": "Haji Wright"
         },
         {
             "x": 2.84,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "Timothy Weah"
         },
         {
             "x": 3.31,
-            "y": 0.0,
+            "y": 1.47,
             "jogador": "Weston McKennie"
         },
         {
             "x": 6.31,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Kieran Trippier"
         },
         {
@@ -15319,22 +15319,22 @@
         },
         {
             "x": 4.89,
-            "y": 0.0,
+            "y": 0.03,
             "jogador": "Tim Ream"
         },
         {
             "x": 3.68,
-            "y": 0.0,
+            "y": 0.66,
             "jogador": "Sergino Dest"
         },
         {
             "x": 3.52,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Jude Bellingham"
         },
         {
             "x": 4.31,
-            "y": 0.0,
+            "y": 2.58,
             "jogador": "Christian Pulisic"
         },
         {
@@ -15344,22 +15344,22 @@
         },
         {
             "x": 3.31,
-            "y": 0.0,
+            "y": 0.55,
             "jogador": "Yunus Dimoara Musah"
         },
         {
             "x": 4.05,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Antonee Robinson"
         },
         {
             "x": 2.74,
-            "y": 0.0,
+            "y": 0.82,
             "jogador": "Harry Kane"
         },
         {
             "x": 2.74,
-            "y": 0.0,
+            "y": 0.61,
             "jogador": "Bukayo Saka"
         },
         {
@@ -15369,17 +15369,17 @@
         },
         {
             "x": 1.53,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Jack Grealish"
         },
         {
             "x": 1.42,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Shaquell Moore"
         },
         {
             "x": 0.89,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Brenden Aaronson"
         }
     ],
@@ -15414,180 +15414,5 @@
         "Weston McKennie",
         "Yunus Dimoara Musah"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Antonee Robinson",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Brenden Aaronson",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Bukayo Saka",
-            "passes": 27,
-            "chutes": 1,
-            "total": 28
-        },
-        {
-            "nome": "Christian Pulisic",
-            "passes": 36,
-            "chutes": 4,
-            "total": 40
-        },
-        {
-            "nome": "Declan Rice",
-            "passes": 60,
-            "chutes": 0,
-            "total": 60
-        },
-        {
-            "nome": "Giovanni Reyna",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Haji Wright",
-            "passes": 11,
-            "chutes": 2,
-            "total": 13
-        },
-        {
-            "nome": "Harry Kane",
-            "passes": 25,
-            "chutes": 2,
-            "total": 27
-        },
-        {
-            "nome": "Harry Maguire",
-            "passes": 79,
-            "chutes": 1,
-            "total": 80
-        },
-        {
-            "nome": "Jack Grealish",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "John Stones",
-            "passes": 90,
-            "chutes": 1,
-            "total": 91
-        },
-        {
-            "nome": "Jordan Brian Henderson",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Jordan Pickford",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Joshua Sargent",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Jude Bellingham",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Kieran Trippier",
-            "passes": 74,
-            "chutes": 0,
-            "total": 74
-        },
-        {
-            "nome": "Luke Shaw",
-            "passes": 83,
-            "chutes": 0,
-            "total": 83
-        },
-        {
-            "nome": "Marcus Rashford",
-            "passes": 2,
-            "chutes": 1,
-            "total": 3
-        },
-        {
-            "nome": "Mason Mount",
-            "passes": 32,
-            "chutes": 2,
-            "total": 34
-        },
-        {
-            "nome": "Matthew Charles Turner",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Raheem Sterling",
-            "passes": 21,
-            "chutes": 0,
-            "total": 21
-        },
-        {
-            "nome": "Sergino Dest",
-            "passes": 40,
-            "chutes": 1,
-            "total": 41
-        },
-        {
-            "nome": "Shaquell Moore",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Tim Ream",
-            "passes": 54,
-            "chutes": 0,
-            "total": 54
-        },
-        {
-            "nome": "Timothy Weah",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Tyler Adams",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Walker Zimmerman",
-            "passes": 70,
-            "chutes": 0,
-            "total": 70
-        },
-        {
-            "nome": "Weston McKennie",
-            "passes": 33,
-            "chutes": 2,
-            "total": 35
-        },
-        {
-            "nome": "Yunus Dimoara Musah",
-            "passes": 35,
-            "chutes": 1,
-            "total": 36
-        }
-    ]
+    "tabela_stats": []
 }

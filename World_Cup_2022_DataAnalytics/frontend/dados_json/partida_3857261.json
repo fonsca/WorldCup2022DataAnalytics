@@ -14395,16 +14395,16 @@
             "is_goal": false
         },
         {
-            "left": 37.63,
-            "bottom": 78.4,
+            "left": 36.71,
+            "bottom": 77.0,
             "jogador": "Marcus Rashford",
             "tipo": "Shot",
             "time": "England",
             "is_goal": true
         },
         {
-            "left": 43.07,
-            "bottom": 92.36,
+            "left": 43.11,
+            "bottom": 91.72,
             "jogador": "Philip Foden",
             "tipo": "Shot",
             "time": "England",
@@ -14419,8 +14419,8 @@
             "is_goal": false
         },
         {
-            "left": 62.74,
-            "bottom": 89.15,
+            "left": 61.72,
+            "bottom": 87.48,
             "jogador": "Marcus Rashford",
             "tipo": "Shot",
             "time": "England",
@@ -14510,22 +14510,22 @@
     "scatter_data": [
         {
             "x": 2.88,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Aaron Ramsey"
         },
         {
             "x": 2.43,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Ben Davies"
         },
         {
             "x": 4.48,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Declan Rice"
         },
         {
             "x": 8.52,
-            "y": 0.94,
+            "y": 0.81,
             "jogador": "John Stones"
         },
         {
@@ -14540,22 +14540,22 @@
         },
         {
             "x": 5.97,
-            "y": 0.04,
+            "y": 0.02,
             "jogador": "Jordan Brian Henderson"
         },
         {
             "x": 5.92,
-            "y": 0.13,
+            "y": 0.96,
             "jogador": "Jude Bellingham"
         },
         {
             "x": 1.49,
-            "y": 1.78,
+            "y": 1.28,
             "jogador": "Harry Kane"
         },
         {
             "x": 4.2,
-            "y": 2.57,
+            "y": 2.77,
             "jogador": "Philip Foden"
         },
         {
@@ -14565,22 +14565,22 @@
         },
         {
             "x": 2.71,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Danny Ward"
         },
         {
             "x": 5.25,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Kyle Walker"
         },
         {
             "x": 8.85,
-            "y": 0.71,
+            "y": 0.78,
             "jogador": "Harry Maguire"
         },
         {
             "x": 4.37,
-            "y": 3.14,
+            "y": 4.05,
             "jogador": "Marcus Rashford"
         },
         {
@@ -14590,7 +14590,7 @@
         },
         {
             "x": 6.08,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Luke Shaw"
         },
         {
@@ -14600,27 +14600,27 @@
         },
         {
             "x": 2.54,
-            "y": 1.77,
+            "y": 1.22,
             "jogador": "Joe Allen"
         },
         {
             "x": 1.77,
-            "y": 0.49,
+            "y": 0.7,
             "jogador": "Kieffer Roberto Francisco Moore"
         },
         {
             "x": 1.38,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Daniel James"
         },
         {
             "x": 3.04,
-            "y": 0.01,
+            "y": 0.05,
             "jogador": "Connor Roberts"
         },
         {
             "x": 0.66,
-            "y": 0.05,
+            "y": 0.63,
             "jogador": "Brennan Johnson"
         },
         {
@@ -14640,22 +14640,22 @@
         },
         {
             "x": 1.55,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Kieran Trippier"
         },
         {
             "x": 1.33,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Kalvin Phillips"
         },
         {
             "x": 1.83,
-            "y": 0.01,
+            "y": 0.07,
             "jogador": "Jack Grealish"
         },
         {
             "x": 0.66,
-            "y": 0.08,
+            "y": 0.23,
             "jogador": "Harry Wilson"
         }
     ],
@@ -14693,198 +14693,5 @@
         "Rubin Colwill",
         "Trent Alexander-Arnold"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Aaron Ramsey",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Ben Davies",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Brennan Johnson",
-            "passes": 3,
-            "chutes": 1,
-            "total": 4
-        },
-        {
-            "nome": "Callum Wilson",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Chris Mepham",
-            "passes": 53,
-            "chutes": 0,
-            "total": 53
-        },
-        {
-            "nome": "Connor Roberts",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Daniel James",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Danny Ward",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Declan Rice",
-            "passes": 48,
-            "chutes": 0,
-            "total": 48
-        },
-        {
-            "nome": "Ethan Ampadu",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Gareth Frank Bale",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Harry Kane",
-            "passes": 9,
-            "chutes": 2,
-            "total": 11
-        },
-        {
-            "nome": "Harry Maguire",
-            "passes": 87,
-            "chutes": 1,
-            "total": 88
-        },
-        {
-            "nome": "Harry Wilson",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Jack Grealish",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Joe Allen",
-            "passes": 27,
-            "chutes": 2,
-            "total": 29
-        },
-        {
-            "nome": "Joe Rodon",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "John Stones",
-            "passes": 82,
-            "chutes": 2,
-            "total": 84
-        },
-        {
-            "nome": "Jordan Brian Henderson",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Jordan Pickford",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Joseff Morrell",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Jude Bellingham",
-            "passes": 52,
-            "chutes": 2,
-            "total": 54
-        },
-        {
-            "nome": "Kalvin Phillips",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Kieffer Roberto Francisco Moore",
-            "passes": 17,
-            "chutes": 2,
-            "total": 19
-        },
-        {
-            "nome": "Kieran Trippier",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Kyle Walker",
-            "passes": 55,
-            "chutes": 0,
-            "total": 55
-        },
-        {
-            "nome": "Luke Shaw",
-            "passes": 60,
-            "chutes": 0,
-            "total": 60
-        },
-        {
-            "nome": "Marcus Rashford",
-            "passes": 31,
-            "chutes": 6,
-            "total": 37
-        },
-        {
-            "nome": "Neco Williams",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Philip Foden",
-            "passes": 36,
-            "chutes": 5,
-            "total": 41
-        },
-        {
-            "nome": "Rubin Colwill",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Trent Alexander-Arnold",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        }
-    ]
+    "tabela_stats": []
 }

@@ -13547,8 +13547,8 @@
             "is_goal": false
         },
         {
-            "left": 49.39,
-            "bottom": 86.86,
+            "left": 50.93,
+            "bottom": 87.08,
             "jogador": "Lionel Andrés Messi Cuccittini",
             "tipo": "Shot",
             "time": "Argentina",
@@ -13579,8 +13579,8 @@
             "is_goal": false
         },
         {
-            "left": 37.44,
-            "bottom": 86.89,
+            "left": 37.51,
+            "bottom": 86.8,
             "jogador": "Saleh Khalid Al Shehri",
             "tipo": "Shot",
             "time": "Saudi Arabia",
@@ -13595,8 +13595,8 @@
             "is_goal": false
         },
         {
-            "left": 33.45,
-            "bottom": 82.22,
+            "left": 32.84,
+            "bottom": 82.41,
             "jogador": "Salem Mohammed Al Dawsari",
             "tipo": "Shot",
             "time": "Saudi Arabia",
@@ -13902,72 +13902,72 @@
     "scatter_data": [
         {
             "x": 1.79,
-            "y": 0.7,
+            "y": 0.62,
             "jogador": "Saleh Khalid Al Shehri"
         },
         {
             "x": 4.21,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Mohammed Kanoo"
         },
         {
             "x": 2.89,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Hassan Mohammed Al-Tambakti"
         },
         {
             "x": 3.64,
-            "y": 0.15,
+            "y": 0.6,
             "jogador": "Nicolás Alejandro Tagliafico"
         },
         {
             "x": 1.73,
-            "y": 0.75,
+            "y": 1.18,
             "jogador": "Lautaro Javier Martínez"
         },
         {
             "x": 6.18,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Leandro Daniel Paredes"
         },
         {
             "x": 9.47,
-            "y": 0.2,
+            "y": 0.19,
             "jogador": "Nicolás Hernán Otamendi"
         },
         {
             "x": 6.64,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Cristian Gabriel Romero"
         },
         {
             "x": 8.89,
-            "y": 0.75,
+            "y": 0.65,
             "jogador": "Rodrigo Javier De Paul"
         },
         {
             "x": 6.41,
-            "y": 0.04,
+            "y": 0.05,
             "jogador": "Nahuel Molina Lucero"
         },
         {
             "x": 2.19,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Damián Emiliano Martínez"
         },
         {
             "x": 5.37,
-            "y": 0.17,
+            "y": 1.15,
             "jogador": "Ángel Fabián Di María Hernández"
         },
         {
             "x": 2.31,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Mohammed Khalil Al Owais"
         },
         {
             "x": 3.58,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Abdulelah Saad Hameed Al-Malki"
         },
         {
@@ -13977,62 +13977,62 @@
         },
         {
             "x": 1.44,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Ali Albulayhi"
         },
         {
             "x": 2.48,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Yasir Gharsan Al Shahrani"
         },
         {
             "x": 5.72,
-            "y": 1.57,
+            "y": 2.2,
             "jogador": "Lionel Andrés Messi Cuccittini"
         },
         {
             "x": 3.18,
-            "y": 0.49,
+            "y": 0.62,
             "jogador": "Salem Mohammed Al Dawsari"
         },
         {
             "x": 2.83,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Saud Abdullah Abdul Hamid"
         },
         {
             "x": 3.12,
-            "y": 0.73,
+            "y": 0.79,
             "jogador": "Alejandro Darío Gómez"
         },
         {
             "x": 2.19,
-            "y": 0.02,
+            "y": 0.12,
             "jogador": "Firas Tariq Nasser Al Albirakan"
         },
         {
             "x": 1.04,
-            "y": 0.48,
+            "y": 0.66,
             "jogador": "Nawaf Shaker Al Abid"
         },
         {
             "x": 3.41,
-            "y": 0.14,
+            "y": 0.62,
             "jogador": "Lisandro Martínez"
         },
         {
             "x": 3.93,
-            "y": 0.17,
+            "y": 0.53,
             "jogador": "Enzo Fernandez"
         },
         {
             "x": 0.87,
-            "y": 0.12,
+            "y": 0.18,
             "jogador": "Julián Álvarez"
         },
         {
             "x": 1.79,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Marcos Javier Acuña"
         }
     ],
@@ -14069,192 +14069,5 @@
         "Yasir Gharsan Al Shahrani",
         "Ángel Fabián Di María Hernández"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdulelah Al Amri",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Abdulelah Saad Hameed Al-Malki",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Alejandro Darío Gómez",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Ali Albulayhi",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "Cristian Gabriel Romero",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Damián Emiliano Martínez",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Enzo Fernandez",
-            "passes": 38,
-            "chutes": 1,
-            "total": 39
-        },
-        {
-            "nome": "Firas Tariq Nasser Al Albirakan",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Haitham Mohammed Asiri",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Hassan Mohammed Al-Tambakti",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Julián Álvarez",
-            "passes": 8,
-            "chutes": 1,
-            "total": 9
-        },
-        {
-            "nome": "Lautaro Javier Martínez",
-            "passes": 16,
-            "chutes": 2,
-            "total": 18
-        },
-        {
-            "nome": "Leandro Daniel Paredes",
-            "passes": 57,
-            "chutes": 0,
-            "total": 57
-        },
-        {
-            "nome": "Lionel Andrés Messi Cuccittini",
-            "passes": 46,
-            "chutes": 4,
-            "total": 50
-        },
-        {
-            "nome": "Lisandro Martínez",
-            "passes": 32,
-            "chutes": 1,
-            "total": 33
-        },
-        {
-            "nome": "Marcos Javier Acuña",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Mohammed Al Burayk",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Mohammed Kanoo",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Mohammed Khalil Al Owais",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Nahuel Molina Lucero",
-            "passes": 68,
-            "chutes": 0,
-            "total": 68
-        },
-        {
-            "nome": "Nawaf Shaker Al Abid",
-            "passes": 6,
-            "chutes": 1,
-            "total": 7
-        },
-        {
-            "nome": "Nicolás Alejandro Tagliafico",
-            "passes": 34,
-            "chutes": 1,
-            "total": 35
-        },
-        {
-            "nome": "Nicolás Hernán Otamendi",
-            "passes": 89,
-            "chutes": 1,
-            "total": 90
-        },
-        {
-            "nome": "Rodrigo Javier De Paul",
-            "passes": 86,
-            "chutes": 1,
-            "total": 87
-        },
-        {
-            "nome": "Saleh Khalid Al Shehri",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Salem Mohammed Al Dawsari",
-            "passes": 24,
-            "chutes": 1,
-            "total": 25
-        },
-        {
-            "nome": "Salman Mohammed Al Faraj",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Saud Abdullah Abdul Hamid",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Sultan Abdullah Salim Al Ghannam",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Yasir Gharsan Al Shahrani",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Ángel Fabián Di María Hernández",
-            "passes": 41,
-            "chutes": 2,
-            "total": 43
-        }
-    ]
+    "tabela_stats": []
 }

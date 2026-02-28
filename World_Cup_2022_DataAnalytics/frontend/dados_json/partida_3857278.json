@@ -14883,8 +14883,8 @@
             "is_goal": false
         },
         {
-            "left": 48.4,
-            "bottom": 92.56,
+            "left": 49.33,
+            "bottom": 93.13,
             "jogador": "Christian Pulisic",
             "tipo": "Shot",
             "time": "United States",
@@ -14958,22 +14958,22 @@
     "scatter_data": [
         {
             "x": 3.65,
-            "y": 0.13,
+            "y": 0.29,
             "jogador": "Mehdi Taremi"
         },
         {
             "x": 3.27,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Ehsan Hajsafi"
         },
         {
             "x": 5.2,
-            "y": 0.05,
+            "y": 0.07,
             "jogador": "Ramin Rezaeian"
         },
         {
             "x": 5.9,
-            "y": 1.37,
+            "y": 1.4,
             "jogador": "Sergino Dest"
         },
         {
@@ -14983,62 +14983,62 @@
         },
         {
             "x": 6.49,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Tyler Adams"
         },
         {
             "x": 1.77,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Ahmad Nourollahi"
         },
         {
             "x": 1.07,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Sardar Azmoun"
         },
         {
             "x": 5.79,
-            "y": 0.87,
+            "y": 0.79,
             "jogador": "Yunus Dimoara Musah"
         },
         {
             "x": 3.43,
-            "y": 1.53,
+            "y": 1.36,
             "jogador": "Timothy Weah"
         },
         {
             "x": 5.2,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Cameron Carter-Vickers"
         },
         {
             "x": 5.74,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Tim Ream"
         },
         {
             "x": 2.74,
-            "y": 0.02,
+            "y": 0.03,
             "jogador": "Ali Gholizadeh"
         },
         {
             "x": 5.47,
-            "y": 0.03,
+            "y": 0.02,
             "jogador": "Antonee Robinson"
         },
         {
             "x": 5.15,
-            "y": 0.05,
+            "y": 0.54,
             "jogador": "Saeid Ezatolahi Afagh"
         },
         {
             "x": 6.6,
-            "y": 0.24,
+            "y": 0.18,
             "jogador": "Morteza Pouraliganji"
         },
         {
             "x": 2.52,
-            "y": 0.27,
+            "y": 0.01,
             "jogador": "Matthew Charles Turner"
         },
         {
@@ -15048,42 +15048,42 @@
         },
         {
             "x": 2.04,
-            "y": 0.87,
+            "y": 1.26,
             "jogador": "Christian Pulisic"
         },
         {
             "x": 2.04,
-            "y": 0.19,
+            "y": 0.01,
             "jogador": "Alireza Safar Beiranvand"
         },
         {
             "x": 2.74,
-            "y": 0.85,
+            "y": 1.91,
             "jogador": "Joshua Sargent"
         },
         {
             "x": 5.1,
-            "y": 0.08,
+            "y": 0.01,
             "jogador": "Seyed Majid Hosseini"
         },
         {
             "x": 2.95,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Ali Karimi"
         },
         {
             "x": 1.72,
-            "y": 0.02,
+            "y": 0.16,
             "jogador": "Brenden Aaronson"
         },
         {
             "x": 1.98,
-            "y": 0.12,
+            "y": 0.61,
             "jogador": "Saman Ghoddos"
         },
         {
             "x": 3.0,
-            "y": 0.03,
+            "y": 0.12,
             "jogador": "Abolfazl Jalali"
         },
         {
@@ -15093,7 +15093,7 @@
         },
         {
             "x": 0.54,
-            "y": 0.04,
+            "y": 0.17,
             "jogador": "Haji Wright"
         }
     ],
@@ -15131,198 +15131,5 @@
         "Weston McKennie",
         "Yunus Dimoara Musah"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abolfazl Jalali",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Ahmad Nourollahi",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Ali Gholizadeh",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "Ali Karimi",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Alireza Safar Beiranvand",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Antonee Robinson",
-            "passes": 58,
-            "chutes": 0,
-            "total": 58
-        },
-        {
-            "nome": "Brenden Aaronson",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Cameron Carter-Vickers",
-            "passes": 55,
-            "chutes": 0,
-            "total": 55
-        },
-        {
-            "nome": "Christian Pulisic",
-            "passes": 16,
-            "chutes": 2,
-            "total": 18
-        },
-        {
-            "nome": "Ehsan Hajsafi",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Haji Wright",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Joshua Sargent",
-            "passes": 21,
-            "chutes": 3,
-            "total": 24
-        },
-        {
-            "nome": "Karim Ansarifard",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Kellyn Kai Perry-Acosta",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Matthew Charles Turner",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Mehdi Taremi",
-            "passes": 35,
-            "chutes": 1,
-            "total": 36
-        },
-        {
-            "nome": "Mehdi Torabi",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Milad Mohammadi",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Morteza Pouraliganji",
-            "passes": 72,
-            "chutes": 1,
-            "total": 73
-        },
-        {
-            "nome": "Ramin Rezaeian",
-            "passes": 58,
-            "chutes": 0,
-            "total": 58
-        },
-        {
-            "nome": "Saeid Ezatolahi Afagh",
-            "passes": 57,
-            "chutes": 1,
-            "total": 58
-        },
-        {
-            "nome": "Saman Ghoddos",
-            "passes": 21,
-            "chutes": 1,
-            "total": 22
-        },
-        {
-            "nome": "Sardar Azmoun",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Sergino Dest",
-            "passes": 55,
-            "chutes": 2,
-            "total": 57
-        },
-        {
-            "nome": "Seyed Majid Hosseini",
-            "passes": 57,
-            "chutes": 0,
-            "total": 57
-        },
-        {
-            "nome": "Shaquell Moore",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Tim Ream",
-            "passes": 58,
-            "chutes": 0,
-            "total": 58
-        },
-        {
-            "nome": "Timothy Weah",
-            "passes": 32,
-            "chutes": 2,
-            "total": 34
-        },
-        {
-            "nome": "Tyler Adams",
-            "passes": 69,
-            "chutes": 0,
-            "total": 69
-        },
-        {
-            "nome": "Walker Zimmerman",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Weston McKennie",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Yunus Dimoara Musah",
-            "passes": 52,
-            "chutes": 2,
-            "total": 54
-        }
-    ]
+    "tabela_stats": []
 }

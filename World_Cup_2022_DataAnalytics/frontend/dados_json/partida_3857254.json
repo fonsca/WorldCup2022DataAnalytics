@@ -16126,77 +16126,77 @@
     "scatter_data": [
         {
             "x": 1.49,
-            "y": 0.0,
+            "y": 1.12,
             "jogador": "Kasper Dolberg"
         },
         {
             "x": 7.76,
-            "y": 0.0,
+            "y": 0.84,
             "jogador": "Christian Dannemann Eriksen"
         },
         {
             "x": 2.89,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Andreas Skov Olsen"
         },
         {
             "x": 4.88,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Rasmus Nissen Kristensen"
         },
         {
             "x": 4.88,
-            "y": 0.0,
+            "y": 0.2,
             "jogador": "Joakim Mæhle"
         },
         {
             "x": 7.26,
-            "y": 0.0,
+            "y": 0.5,
             "jogador": "Pierre-Emile Højbjerg"
         },
         {
             "x": 3.13,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Aymen Dahmen"
         },
         {
             "x": 7.71,
-            "y": 0.0,
+            "y": 0.38,
             "jogador": "Andreas Christensen"
         },
         {
             "x": 3.78,
-            "y": 0.0,
+            "y": 0.61,
             "jogador": "Dylan Daniel Mahmoud Bronn"
         },
         {
             "x": 4.68,
-            "y": 0.0,
+            "y": 0.6,
             "jogador": "Yassine Meriah"
         },
         {
             "x": 2.14,
-            "y": 0.0,
+            "y": 1.72,
             "jogador": "Issam Jebali"
         },
         {
             "x": 2.19,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Anis Ben Slimane"
         },
         {
             "x": 6.97,
-            "y": 0.0,
+            "y": 0.81,
             "jogador": "Joachim Andersen"
         },
         {
             "x": 2.24,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Kasper Schmeichel"
         },
         {
             "x": 5.12,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Simon Thorup Kjær"
         },
         {
@@ -16206,52 +16206,52 @@
         },
         {
             "x": 3.68,
-            "y": 0.0,
+            "y": 0.1,
             "jogador": "Ali Abdi"
         },
         {
             "x": 4.38,
-            "y": 0.0,
+            "y": 0.64,
             "jogador": "Aïssa Bilal Laïdouni"
         },
         {
             "x": 2.79,
-            "y": 0.0,
+            "y": 1.1,
             "jogador": "Mohamed Dräger"
         },
         {
             "x": 4.03,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Montassar Omar Talbi"
         },
         {
             "x": 3.18,
-            "y": 0.0,
+            "y": 1.55,
             "jogador": "Ellyes Joris Skhiri"
         },
         {
             "x": 2.99,
-            "y": 0.0,
+            "y": 1.37,
             "jogador": "Youssef Msakni"
         },
         {
             "x": 2.64,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Mikkel Damsgaard"
         },
         {
             "x": 3.08,
-            "y": 0.0,
+            "y": 0.47,
             "jogador": "Mathias Jensen"
         },
         {
             "x": 1.29,
-            "y": 0.0,
+            "y": 0.14,
             "jogador": "Naïm Sliti"
         },
         {
             "x": 0.95,
-            "y": 0.0,
+            "y": 0.87,
             "jogador": "Andreas Evald Cornelius"
         }
     ],
@@ -16288,192 +16288,5 @@
         "Yassine Meriah",
         "Youssef Msakni"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Ali Abdi",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Andreas Christensen",
-            "passes": 82,
-            "chutes": 1,
-            "total": 83
-        },
-        {
-            "nome": "Andreas Evald Cornelius",
-            "passes": 4,
-            "chutes": 3,
-            "total": 7
-        },
-        {
-            "nome": "Andreas Skov Olsen",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Anis Ben Slimane",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "Aymen Dahmen",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Aïssa Bilal Laïdouni",
-            "passes": 45,
-            "chutes": 1,
-            "total": 46
-        },
-        {
-            "nome": "Christian Dannemann Eriksen",
-            "passes": 80,
-            "chutes": 1,
-            "total": 81
-        },
-        {
-            "nome": "Dylan Daniel Mahmoud Bronn",
-            "passes": 41,
-            "chutes": 1,
-            "total": 42
-        },
-        {
-            "nome": "Ellyes Joris Skhiri",
-            "passes": 35,
-            "chutes": 2,
-            "total": 37
-        },
-        {
-            "nome": "Ferjani Sassi",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Hannibal Mejbri",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Issam Jebali",
-            "passes": 18,
-            "chutes": 3,
-            "total": 21
-        },
-        {
-            "nome": "Jesper Lindstrøm",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Joachim Andersen",
-            "passes": 78,
-            "chutes": 1,
-            "total": 79
-        },
-        {
-            "nome": "Joakim Mæhle",
-            "passes": 52,
-            "chutes": 1,
-            "total": 53
-        },
-        {
-            "nome": "Kasper Dolberg",
-            "passes": 11,
-            "chutes": 2,
-            "total": 13
-        },
-        {
-            "nome": "Kasper Schmeichel",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Mathias Jensen",
-            "passes": 32,
-            "chutes": 1,
-            "total": 33
-        },
-        {
-            "nome": "Mikkel Damsgaard",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Mohamed Dräger",
-            "passes": 31,
-            "chutes": 2,
-            "total": 33
-        },
-        {
-            "nome": "Montassar Omar Talbi",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Naïm Sliti",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Pierre-Emile Højbjerg",
-            "passes": 74,
-            "chutes": 1,
-            "total": 75
-        },
-        {
-            "nome": "Rasmus Nissen Kristensen",
-            "passes": 58,
-            "chutes": 0,
-            "total": 58
-        },
-        {
-            "nome": "Simon Thorup Kjær",
-            "passes": 55,
-            "chutes": 0,
-            "total": 55
-        },
-        {
-            "nome": "Taha Yassine Khenissi",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Thomas Delaney",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Wajdi Kechrida",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Yassine Meriah",
-            "passes": 53,
-            "chutes": 1,
-            "total": 54
-        },
-        {
-            "nome": "Youssef Msakni",
-            "passes": 25,
-            "chutes": 3,
-            "total": 28
-        }
-    ]
+    "tabela_stats": []
 }

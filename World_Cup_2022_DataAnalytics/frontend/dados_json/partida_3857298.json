@@ -15635,8 +15635,8 @@
             "is_goal": false
         },
         {
-            "left": 49.4,
-            "bottom": 87.21,
+            "left": 50.71,
+            "bottom": 86.72,
             "jogador": "Cristiano Ronaldo dos Santos Aveiro",
             "tipo": "Shot",
             "time": "Portugal",
@@ -15667,32 +15667,32 @@
             "is_goal": false
         },
         {
-            "left": 49.88,
-            "bottom": 92.56,
+            "left": 49.11,
+            "bottom": 92.73,
             "jogador": "André Ayew Pelé",
             "tipo": "Shot",
             "time": "Ghana",
             "is_goal": true
         },
         {
-            "left": 64.92,
-            "bottom": 86.33,
+            "left": 65.37,
+            "bottom": 86.63,
             "jogador": "João Félix Sequeira",
             "tipo": "Shot",
             "time": "Portugal",
             "is_goal": true
         },
         {
-            "left": 36.17,
-            "bottom": 90.24,
+            "left": 35.83,
+            "bottom": 90.46,
             "jogador": "Rafael Alexandre Conceição Leão",
             "tipo": "Shot",
             "time": "Portugal",
             "is_goal": true
         },
         {
-            "left": 49.99,
-            "bottom": 90.34,
+            "left": 49.37,
+            "bottom": 91.05,
             "jogador": "Osman Bukari",
             "tipo": "Shot",
             "time": "Ghana",
@@ -15934,137 +15934,137 @@
     "scatter_data": [
         {
             "x": 2.01,
-            "y": 3.69,
+            "y": 2.54,
             "jogador": "Cristiano Ronaldo dos Santos Aveiro"
         },
         {
             "x": 6.5,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Bernardo Mota Veiga de Carvalho e Silva"
         },
         {
             "x": 5.69,
-            "y": 0.97,
+            "y": 0.77,
             "jogador": "Rúben Diogo Da Silva Neves"
         },
         {
             "x": 6.09,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Rúben Santos Gato Alves Dias"
         },
         {
             "x": 6.6,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "João Pedro Cavaco Cancelo"
         },
         {
             "x": 7.35,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Danilo Luís Hélio Pereira"
         },
         {
             "x": 6.85,
-            "y": 0.03,
+            "y": 0.02,
             "jogador": "Raphaël Adelino José Guerreiro"
         },
         {
             "x": 3.52,
-            "y": 1.7,
+            "y": 1.34,
             "jogador": "João Félix Sequeira"
         },
         {
             "x": 2.27,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Diogo Meireles Costa"
         },
         {
             "x": 3.78,
-            "y": 1.9,
+            "y": 1.54,
             "jogador": "Otávio Edmilson da Silva Monteiro"
         },
         {
             "x": 4.18,
-            "y": 0.27,
+            "y": 0.18,
             "jogador": "Mohamed Salisu"
         },
         {
             "x": 4.03,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Abdul Rahman Baba"
         },
         {
             "x": 2.27,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Alexander Djiku"
         },
         {
             "x": 1.86,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Lawrence Ati-Zigi"
         },
         {
             "x": 4.78,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Daniel Amartey"
         },
         {
             "x": 1.31,
-            "y": 0.93,
+            "y": 0.65,
             "jogador": "André Ayew Pelé"
         },
         {
             "x": 2.42,
-            "y": 0.91,
+            "y": 0.44,
             "jogador": "Alidu Seidu"
         },
         {
             "x": 4.88,
-            "y": 0.98,
+            "y": 0.54,
             "jogador": "Thomas Teye Partey"
         },
         {
             "x": 5.34,
-            "y": 0.04,
+            "y": 0.18,
             "jogador": "Bruno Miguel Borges Fernandes"
         },
         {
             "x": 1.66,
-            "y": 0.9,
+            "y": 0.65,
             "jogador": "Iñaki Williams Arthuer"
         },
         {
             "x": 4.53,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Salis Abdul Samed"
         },
         {
             "x": 3.52,
-            "y": 1.78,
+            "y": 1.14,
             "jogador": "Mohammed Kudus"
         },
         {
             "x": 2.72,
-            "y": 0.02,
+            "y": 0.05,
             "jogador": "William Silva de Carvalho"
         },
         {
             "x": 1.01,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Tariq Lamptey"
         },
         {
             "x": 1.36,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Jordan Ayew"
         },
         {
             "x": 0.96,
-            "y": 0.54,
+            "y": 0.35,
             "jogador": "Osman Bukari"
         },
         {
             "x": 1.11,
-            "y": 0.45,
+            "y": 0.77,
             "jogador": "Rafael Alexandre Conceição Leão"
         },
         {
@@ -16107,198 +16107,5 @@
         "Thomas Teye Partey",
         "William Silva de Carvalho"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdul Rahman Baba",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Alexander Djiku",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Alidu Seidu",
-            "passes": 23,
-            "chutes": 1,
-            "total": 24
-        },
-        {
-            "nome": "André Ayew Pelé",
-            "passes": 14,
-            "chutes": 1,
-            "total": 15
-        },
-        {
-            "nome": "Antoine Semenyo",
-            "passes": 0,
-            "chutes": 0,
-            "total": 0
-        },
-        {
-            "nome": "Bernardo Mota Veiga de Carvalho e Silva",
-            "passes": 73,
-            "chutes": 0,
-            "total": 73
-        },
-        {
-            "nome": "Bruno Miguel Borges Fernandes",
-            "passes": 57,
-            "chutes": 0,
-            "total": 57
-        },
-        {
-            "nome": "Cristiano Ronaldo dos Santos Aveiro",
-            "passes": 19,
-            "chutes": 4,
-            "total": 23
-        },
-        {
-            "nome": "Daniel Amartey",
-            "passes": 52,
-            "chutes": 0,
-            "total": 52
-        },
-        {
-            "nome": "Daniel-Kofi Kyereh",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Danilo Luís Hélio Pereira",
-            "passes": 80,
-            "chutes": 0,
-            "total": 80
-        },
-        {
-            "nome": "Diogo Meireles Costa",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Gonçalo Matias Ramos",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Iñaki Williams Arthuer",
-            "passes": 16,
-            "chutes": 1,
-            "total": 17
-        },
-        {
-            "nome": "Jordan Ayew",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "João Félix Sequeira",
-            "passes": 32,
-            "chutes": 2,
-            "total": 34
-        },
-        {
-            "nome": "João Maria Lobo Alves Palhinha Gonçalves",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "João Mário Naval da Costa Eduardo",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "João Pedro Cavaco Cancelo",
-            "passes": 71,
-            "chutes": 0,
-            "total": 71
-        },
-        {
-            "nome": "Lawrence Ati-Zigi",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Mohamed Salisu",
-            "passes": 47,
-            "chutes": 1,
-            "total": 48
-        },
-        {
-            "nome": "Mohammed Kudus",
-            "passes": 27,
-            "chutes": 2,
-            "total": 29
-        },
-        {
-            "nome": "Osman Bukari",
-            "passes": 8,
-            "chutes": 2,
-            "total": 10
-        },
-        {
-            "nome": "Otávio Edmilson da Silva Monteiro",
-            "passes": 41,
-            "chutes": 2,
-            "total": 43
-        },
-        {
-            "nome": "Rafael Alexandre Conceição Leão",
-            "passes": 9,
-            "chutes": 2,
-            "total": 11
-        },
-        {
-            "nome": "Raphaël Adelino José Guerreiro",
-            "passes": 82,
-            "chutes": 0,
-            "total": 82
-        },
-        {
-            "nome": "Rúben Diogo Da Silva Neves",
-            "passes": 64,
-            "chutes": 1,
-            "total": 65
-        },
-        {
-            "nome": "Rúben Santos Gato Alves Dias",
-            "passes": 66,
-            "chutes": 0,
-            "total": 66
-        },
-        {
-            "nome": "Salis Abdul Samed",
-            "passes": 49,
-            "chutes": 0,
-            "total": 49
-        },
-        {
-            "nome": "Tariq Lamptey",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Thomas Teye Partey",
-            "passes": 54,
-            "chutes": 1,
-            "total": 55
-        },
-        {
-            "nome": "William Silva de Carvalho",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        }
-    ]
+    "tabela_stats": []
 }

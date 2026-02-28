@@ -15347,8 +15347,8 @@
             "is_goal": false
         },
         {
-            "left": 47.64,
-            "bottom": 82.83,
+            "left": 47.01,
+            "bottom": 83.54,
             "jogador": "Wahbi Khazri",
             "tipo": "Shot",
             "time": "Tunisia",
@@ -15422,142 +15422,142 @@
     "scatter_data": [
         {
             "x": 3.38,
-            "y": 0.04,
+            "y": 0.02,
             "jogador": "Ellyes Joris Skhiri"
         },
         {
             "x": 1.66,
-            "y": 1.47,
+            "y": 1.93,
             "jogador": "Wahbi Khazri"
         },
         {
             "x": 2.5,
-            "y": 0.73,
+            "y": 0.65,
             "jogador": "Anis Ben Slimane"
         },
         {
             "x": 4.21,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Wajdi Kechrida"
         },
         {
             "x": 3.12,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Yassine Meriah"
         },
         {
             "x": 2.76,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Nader Ghandri"
         },
         {
             "x": 2.55,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Montassar Omar Talbi"
         },
         {
             "x": 4.63,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Ali Maâloul"
         },
         {
             "x": 2.34,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Steve Mandanda"
         },
         {
             "x": 4.21,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Raphaël Varane"
         },
         {
             "x": 6.14,
-            "y": 0.23,
+            "y": 0.65,
             "jogador": "Axel Disasi"
         },
         {
             "x": 4.53,
-            "y": 0.5,
+            "y": 0.64,
             "jogador": "Aïssa Bilal Laïdouni"
         },
         {
             "x": 1.09,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Aymen Dahmen"
         },
         {
             "x": 6.82,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Ibrahima Konaté"
         },
         {
             "x": 7.86,
-            "y": 0.12,
+            "y": 0.02,
             "jogador": "Eduardo Camavinga"
         },
         {
             "x": 2.34,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Mohamed Ali Ben Romdhane"
         },
         {
             "x": 2.34,
-            "y": 0.75,
+            "y": 0.66,
             "jogador": "Kingsley Coman"
         },
         {
             "x": 9.11,
-            "y": 0.15,
+            "y": 0.03,
             "jogador": "Aurélien Djani Tchouaméni"
         },
         {
             "x": 3.38,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Jordan Veretout"
         },
         {
             "x": 4.06,
-            "y": 0.69,
+            "y": 0.81,
             "jogador": "Youssouf Fofana"
         },
         {
             "x": 2.34,
-            "y": 0.14,
+            "y": 0.22,
             "jogador": "Randal Kolo Muani"
         },
         {
             "x": 3.12,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Mattéo Guendouzi Olié"
         },
         {
             "x": 3.43,
-            "y": 0.15,
+            "y": 0.06,
             "jogador": "William Saliba"
         },
         {
             "x": 0.57,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Issam Jebali"
         },
         {
             "x": 2.08,
-            "y": 0.25,
+            "y": 0.74,
             "jogador": "Adrien Rabiot"
         },
         {
             "x": 3.33,
-            "y": 0.32,
+            "y": 0.51,
             "jogador": "Kylian Mbappé Lottin"
         },
         {
             "x": 3.33,
-            "y": 0.15,
+            "y": 0.02,
             "jogador": "Antoine Griezmann"
         },
         {
             "x": 2.13,
-            "y": 0.27,
+            "y": 0.75,
             "jogador": "Ousmane Dembélé"
         }
     ],
@@ -15593,186 +15593,5 @@
         "Yassine Meriah",
         "Youssouf Fofana"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Adrien Rabiot",
-            "passes": 17,
-            "chutes": 2,
-            "total": 19
-        },
-        {
-            "nome": "Ali Abdi",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Ali Maâloul",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Anis Ben Slimane",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Antoine Griezmann",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Aurélien Djani Tchouaméni",
-            "passes": 95,
-            "chutes": 0,
-            "total": 95
-        },
-        {
-            "nome": "Axel Disasi",
-            "passes": 72,
-            "chutes": 1,
-            "total": 73
-        },
-        {
-            "nome": "Aymen Dahmen",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "Aïssa Bilal Laïdouni",
-            "passes": 43,
-            "chutes": 1,
-            "total": 44
-        },
-        {
-            "nome": "Eduardo Camavinga",
-            "passes": 79,
-            "chutes": 0,
-            "total": 79
-        },
-        {
-            "nome": "Ellyes Joris Skhiri",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Ghilane Chalali",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Ibrahima Konaté",
-            "passes": 68,
-            "chutes": 0,
-            "total": 68
-        },
-        {
-            "nome": "Issam Jebali",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Jordan Veretout",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Kingsley Coman",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Kylian Mbappé Lottin",
-            "passes": 25,
-            "chutes": 3,
-            "total": 28
-        },
-        {
-            "nome": "Mattéo Guendouzi Olié",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Mohamed Ali Ben Romdhane",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Montassar Omar Talbi",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Nader Ghandri",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Ousmane Dembélé",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Randal Kolo Muani",
-            "passes": 17,
-            "chutes": 1,
-            "total": 18
-        },
-        {
-            "nome": "Raphaël Varane",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Steve Mandanda",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Wahbi Khazri",
-            "passes": 10,
-            "chutes": 3,
-            "total": 13
-        },
-        {
-            "nome": "Wajdi Kechrida",
-            "passes": 47,
-            "chutes": 0,
-            "total": 47
-        },
-        {
-            "nome": "William Saliba",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Yassine Meriah",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Youssouf Fofana",
-            "passes": 36,
-            "chutes": 1,
-            "total": 37
-        }
-    ]
+    "tabela_stats": []
 }

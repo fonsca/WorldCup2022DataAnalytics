@@ -13723,16 +13723,16 @@
             "is_goal": false
         },
         {
-            "left": 48.51,
-            "bottom": 92.55,
+            "left": 47.36,
+            "bottom": 92.26,
             "jogador": "Mohamed Salisu",
             "tipo": "Shot",
             "time": "Ghana",
             "is_goal": true
         },
         {
-            "left": 51.77,
-            "bottom": 89.85,
+            "left": 52.66,
+            "bottom": 91.01,
             "jogador": "Mohammed Kudus",
             "tipo": "Shot",
             "time": "Ghana",
@@ -13771,16 +13771,16 @@
             "is_goal": false
         },
         {
-            "left": 48.87,
-            "bottom": 89.87,
+            "left": 47.69,
+            "bottom": 90.55,
             "jogador": "Gue-Sung Cho",
             "tipo": "Shot",
             "time": "South Korea",
             "is_goal": true
         },
         {
-            "left": 53.7,
-            "bottom": 92.22,
+            "left": 55.13,
+            "bottom": 93.24,
             "jogador": "Gue-Sung Cho",
             "tipo": "Shot",
             "time": "South Korea",
@@ -13795,8 +13795,8 @@
             "is_goal": false
         },
         {
-            "left": 60.42,
-            "bottom": 86.67,
+            "left": 59.38,
+            "bottom": 86.92,
             "jogador": "Mohammed Kudus",
             "tipo": "Shot",
             "time": "Ghana",
@@ -13915,92 +13915,92 @@
         },
         {
             "x": 6.12,
-            "y": 0.64,
+            "y": 0.63,
             "jogador": "Woo-Young Jung"
         },
         {
             "x": 8.94,
-            "y": 0.08,
+            "y": 0.03,
             "jogador": "Moon-Hwan Kim"
         },
         {
             "x": 6.92,
-            "y": 0.14,
+            "y": 0.19,
             "jogador": "Young-Gwon Kim"
         },
         {
             "x": 5.19,
-            "y": 0.29,
+            "y": 0.85,
             "jogador": "Jin-Su Kim"
         },
         {
             "x": 1.67,
-            "y": 0.11,
+            "y": 0.0,
             "jogador": "Lawrence Ati-Zigi"
         },
         {
             "x": 4.56,
-            "y": 0.12,
+            "y": 0.76,
             "jogador": "Salis Abdul Samed"
         },
         {
             "x": 3.92,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Daniel Amartey"
         },
         {
             "x": 5.02,
-            "y": 0.95,
+            "y": 0.72,
             "jogador": "Thomas Teye Partey"
         },
         {
             "x": 1.79,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "André Ayew Pelé"
         },
         {
             "x": 4.27,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Gideon Mensah"
         },
         {
             "x": 4.33,
-            "y": 0.91,
+            "y": 0.65,
             "jogador": "Mohamed Salisu"
         },
         {
             "x": 7.04,
-            "y": 0.92,
+            "y": 0.75,
             "jogador": "Min Jae Kim"
         },
         {
             "x": 2.42,
-            "y": 0.08,
+            "y": 0.0,
             "jogador": "Seung-Gyu Kim"
         },
         {
             "x": 2.31,
-            "y": 0.84,
+            "y": 0.67,
             "jogador": "Tariq Lamptey"
         },
         {
             "x": 2.77,
-            "y": 1.29,
+            "y": 1.3,
             "jogador": "Mohammed Kudus"
         },
         {
             "x": 2.48,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Chang-Hoon Kwon"
         },
         {
             "x": 4.44,
-            "y": 0.13,
+            "y": 0.64,
             "jogador": "Heung-Min Son"
         },
         {
             "x": 9.81,
-            "y": 0.9,
+            "y": 0.77,
             "jogador": "In-Beom Hwang"
         },
         {
@@ -14010,27 +14010,27 @@
         },
         {
             "x": 2.42,
-            "y": 4.52,
+            "y": 3.51,
             "jogador": "Gue-Sung Cho"
         },
         {
             "x": 1.44,
-            "y": 0.57,
+            "y": 0.6,
             "jogador": "Iñaki Williams Arthuer"
         },
         {
             "x": 1.73,
-            "y": 0.12,
+            "y": 0.21,
             "jogador": "Sang-Ho Na"
         },
         {
             "x": 3.52,
-            "y": 0.18,
+            "y": 1.33,
             "jogador": "Kang-In Lee"
         },
         {
             "x": 0.98,
-            "y": 0.14,
+            "y": 0.06,
             "jogador": "Kyung-Won Kwon"
         }
     ],
@@ -14066,186 +14066,5 @@
         "Woo-Young Jung",
         "Young-Gwon Kim"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alexander Djiku",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "André Ayew Pelé",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Chang-Hoon Kwon",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Daniel Amartey",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Daniel-Kofi Kyereh",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Denis Odoi",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Gideon Mensah",
-            "passes": 45,
-            "chutes": 0,
-            "total": 45
-        },
-        {
-            "nome": "Gue-Sung Cho",
-            "passes": 18,
-            "chutes": 6,
-            "total": 24
-        },
-        {
-            "nome": "Heung-Min Son",
-            "passes": 38,
-            "chutes": 2,
-            "total": 40
-        },
-        {
-            "nome": "In-Beom Hwang",
-            "passes": 93,
-            "chutes": 1,
-            "total": 94
-        },
-        {
-            "nome": "Iñaki Williams Arthuer",
-            "passes": 14,
-            "chutes": 1,
-            "total": 15
-        },
-        {
-            "nome": "Jin-Su Kim",
-            "passes": 50,
-            "chutes": 3,
-            "total": 53
-        },
-        {
-            "nome": "Jordan Ayew",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Kamaldeen Sulemana",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Kang-In Lee",
-            "passes": 33,
-            "chutes": 3,
-            "total": 36
-        },
-        {
-            "nome": "Kyung-Won Kwon",
-            "passes": 9,
-            "chutes": 1,
-            "total": 10
-        },
-        {
-            "nome": "Lawrence Ati-Zigi",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Min Jae Kim",
-            "passes": 70,
-            "chutes": 1,
-            "total": 71
-        },
-        {
-            "nome": "Mohamed Salisu",
-            "passes": 43,
-            "chutes": 1,
-            "total": 44
-        },
-        {
-            "nome": "Mohammed Kudus",
-            "passes": 21,
-            "chutes": 2,
-            "total": 23
-        },
-        {
-            "nome": "Moon-Hwan Kim",
-            "passes": 89,
-            "chutes": 0,
-            "total": 89
-        },
-        {
-            "nome": "Salis Abdul Samed",
-            "passes": 42,
-            "chutes": 1,
-            "total": 43
-        },
-        {
-            "nome": "Sang-Ho Na",
-            "passes": 16,
-            "chutes": 1,
-            "total": 17
-        },
-        {
-            "nome": "Seung-Gyu Kim",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "Tariq Lamptey",
-            "passes": 19,
-            "chutes": 1,
-            "total": 20
-        },
-        {
-            "nome": "Thomas Teye Partey",
-            "passes": 49,
-            "chutes": 1,
-            "total": 50
-        },
-        {
-            "nome": "Ui-Jo Hwang",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Woo-Yeong Jeong",
-            "passes": 16,
-            "chutes": 1,
-            "total": 17
-        },
-        {
-            "nome": "Woo-Young Jung",
-            "passes": 59,
-            "chutes": 1,
-            "total": 60
-        },
-        {
-            "nome": "Young-Gwon Kim",
-            "passes": 66,
-            "chutes": 1,
-            "total": 67
-        }
-    ]
+    "tabela_stats": []
 }

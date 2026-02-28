@@ -12899,8 +12899,8 @@
             "is_goal": false
         },
         {
-            "left": 56.19,
-            "bottom": 89.18,
+            "left": 55.86,
+            "bottom": 89.48,
             "jogador": "Piotr Zieliński",
             "tipo": "Shot",
             "time": "Poland",
@@ -13043,8 +13043,8 @@
             "is_goal": false
         },
         {
-            "left": 55.29,
-            "bottom": 86.38,
+            "left": 55.68,
+            "bottom": 87.12,
             "jogador": "Robert Lewandowski",
             "tipo": "Shot",
             "time": "Poland",
@@ -13078,122 +13078,122 @@
     "scatter_data": [
         {
             "x": 2.15,
-            "y": 0.26,
+            "y": 0.58,
             "jogador": "Piotr Zieliński"
         },
         {
             "x": 3.56,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Jakub Piotr Kiwior"
         },
         {
             "x": 5.28,
-            "y": 0.65,
+            "y": 1.18,
             "jogador": "Mohammed Al Burayk"
         },
         {
             "x": 6.51,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Ali Albulayhi"
         },
         {
             "x": 8.66,
-            "y": 1.7,
+            "y": 2.69,
             "jogador": "Salem Mohammed Al Dawsari"
         },
         {
             "x": 8.66,
-            "y": 2.03,
+            "y": 2.25,
             "jogador": "Mohammed Kanoo"
         },
         {
             "x": 3.07,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Przemysław Frankowski"
         },
         {
             "x": 6.38,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Abdulelah Al Amri"
         },
         {
             "x": 7.12,
-            "y": 0.14,
+            "y": 0.41,
             "jogador": "Saud Abdullah Abdul Hamid"
         },
         {
             "x": 2.27,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Mohammed Khalil Al Owais"
         },
         {
             "x": 5.1,
-            "y": 1.29,
+            "y": 1.49,
             "jogador": "Abdulelah Saad Hameed Al-Malki"
         },
         {
             "x": 2.82,
-            "y": 0.67,
+            "y": 0.66,
             "jogador": "Krystian Bielik"
         },
         {
             "x": 3.62,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Wojciech Szczęsny"
         },
         {
             "x": 3.81,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Matty Cash"
         },
         {
             "x": 3.56,
-            "y": 2.51,
+            "y": 2.66,
             "jogador": "Robert Lewandowski"
         },
         {
             "x": 3.01,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Bartosz Bereszyński"
         },
         {
             "x": 1.96,
-            "y": 0.71,
+            "y": 0.7,
             "jogador": "Saleh Khalid Al Shehri"
         },
         {
             "x": 2.89,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Kamil Glik"
         },
         {
             "x": 2.27,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Sami Khalil Al Naji"
         },
         {
             "x": 1.6,
-            "y": 0.78,
+            "y": 0.61,
             "jogador": "Arkadiusz Milik"
         },
         {
             "x": 3.13,
-            "y": 0.65,
+            "y": 0.67,
             "jogador": "Firas Tariq Nasser Al Albirakan"
         },
         {
             "x": 2.52,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Grzegorz Krychowiak"
         },
         {
             "x": 4.17,
-            "y": 0.82,
+            "y": 0.59,
             "jogador": "Nawaf Shaker Al Abid"
         },
         {
             "x": 1.6,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Jakub Kamiński"
         },
         {
@@ -13203,17 +13203,17 @@
         },
         {
             "x": 0.55,
-            "y": 0.63,
+            "y": 0.59,
             "jogador": "Krzysztof Piątek"
         },
         {
             "x": 0.92,
-            "y": 0.21,
+            "y": 0.17,
             "jogador": "Abdulrahman Al-Obood"
         },
         {
             "x": 1.1,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Nasser Al Dawsari"
         }
     ],
@@ -13248,180 +13248,5 @@
         "Sultan Abdullah Salim Al Ghannam",
         "Wojciech Szczęsny"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdulelah Al Amri",
-            "passes": 59,
-            "chutes": 0,
-            "total": 59
-        },
-        {
-            "nome": "Abdulelah Saad Hameed Al-Malki",
-            "passes": 49,
-            "chutes": 2,
-            "total": 51
-        },
-        {
-            "nome": "Abdulrahman Al-Obood",
-            "passes": 6,
-            "chutes": 1,
-            "total": 7
-        },
-        {
-            "nome": "Ali Albulayhi",
-            "passes": 59,
-            "chutes": 0,
-            "total": 59
-        },
-        {
-            "nome": "Arkadiusz Milik",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Bartosz Bereszyński",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Firas Tariq Nasser Al Albirakan",
-            "passes": 28,
-            "chutes": 1,
-            "total": 29
-        },
-        {
-            "nome": "Grzegorz Krychowiak",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Hattan Babhir",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Jakub Kamiński",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Jakub Piotr Kiwior",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Kamil Glik",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Krystian Bielik",
-            "passes": 30,
-            "chutes": 1,
-            "total": 31
-        },
-        {
-            "nome": "Krzysztof Piątek",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Matty Cash",
-            "passes": 40,
-            "chutes": 0,
-            "total": 40
-        },
-        {
-            "nome": "Mohammed Al Burayk",
-            "passes": 47,
-            "chutes": 2,
-            "total": 49
-        },
-        {
-            "nome": "Mohammed Kanoo",
-            "passes": 80,
-            "chutes": 4,
-            "total": 84
-        },
-        {
-            "nome": "Mohammed Khalil Al Owais",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Nasser Al Dawsari",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Nawaf Shaker Al Abid",
-            "passes": 32,
-            "chutes": 1,
-            "total": 33
-        },
-        {
-            "nome": "Piotr Zieliński",
-            "passes": 20,
-            "chutes": 1,
-            "total": 21
-        },
-        {
-            "nome": "Przemysław Frankowski",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Robert Lewandowski",
-            "passes": 21,
-            "chutes": 5,
-            "total": 26
-        },
-        {
-            "nome": "Saleh Khalid Al Shehri",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Salem Mohammed Al Dawsari",
-            "passes": 70,
-            "chutes": 4,
-            "total": 74
-        },
-        {
-            "nome": "Sami Khalil Al Naji",
-            "passes": 21,
-            "chutes": 0,
-            "total": 21
-        },
-        {
-            "nome": "Saud Abdullah Abdul Hamid",
-            "passes": 65,
-            "chutes": 1,
-            "total": 66
-        },
-        {
-            "nome": "Sultan Abdullah Salim Al Ghannam",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Wojciech Szczęsny",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        }
-    ]
+    "tabela_stats": []
 }

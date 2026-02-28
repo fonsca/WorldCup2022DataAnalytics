@@ -15158,67 +15158,67 @@
     "scatter_data": [
         {
             "x": 1.06,
-            "y": 0.0,
+            "y": 0.65,
             "jogador": "Ui-Jo Hwang"
         },
         {
             "x": 5.45,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Woo-Young Jung"
         },
         {
             "x": 4.13,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Young-Gwon Kim"
         },
         {
             "x": 3.76,
-            "y": 0.0,
+            "y": 0.58,
             "jogador": "Matías Vecino Falero"
         },
         {
             "x": 7.94,
-            "y": 0.0,
+            "y": 0.63,
             "jogador": "Rodrigo Bentancur Colmán"
         },
         {
             "x": 4.13,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Mathías Olivera Miramontes"
         },
         {
             "x": 2.38,
-            "y": 0.0,
+            "y": 0.64,
             "jogador": "Darwin Gabriel Núñez Ribeiro"
         },
         {
             "x": 4.87,
-            "y": 0.0,
+            "y": 0.59,
             "jogador": "Min Jae Kim"
         },
         {
             "x": 3.6,
-            "y": 0.0,
+            "y": 0.19,
             "jogador": "Heung-Min Son"
         },
         {
             "x": 1.8,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Sergio Rochet Álvarez"
         },
         {
             "x": 2.59,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Seung-Gyu Kim"
         },
         {
             "x": 7.09,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "José Martín Cáceres Silva"
         },
         {
             "x": 3.44,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Jae-Sung Lee"
         },
         {
@@ -15228,7 +15228,7 @@
         },
         {
             "x": 6.41,
-            "y": 0.0,
+            "y": 0.49,
             "jogador": "In-Beom Hwang"
         },
         {
@@ -15238,62 +15238,62 @@
         },
         {
             "x": 5.24,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Moon-Hwan Kim"
         },
         {
             "x": 7.2,
-            "y": 0.0,
+            "y": 0.64,
             "jogador": "Diego Roberto Godín Leal"
         },
         {
             "x": 7.62,
-            "y": 0.0,
+            "y": 0.63,
             "jogador": "José María Giménez de Vargas"
         },
         {
             "x": 2.96,
-            "y": 0.0,
+            "y": 0.05,
             "jogador": "Sang-Ho Na"
         },
         {
             "x": 6.09,
-            "y": 0.0,
+            "y": 1.41,
             "jogador": "Federico Santiago Valverde Dipetta"
         },
         {
             "x": 2.49,
-            "y": 0.0,
+            "y": 0.05,
             "jogador": "Facundo Pellistri Rebollo"
         },
         {
             "x": 1.16,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Jun-Ho Son"
         },
         {
             "x": 1.16,
-            "y": 0.0,
+            "y": 0.53,
             "jogador": "Kang-In Lee"
         },
         {
             "x": 0.79,
-            "y": 0.0,
+            "y": 0.4,
             "jogador": "Gue-Sung Cho"
         },
         {
             "x": 0.74,
-            "y": 0.0,
+            "y": 0.83,
             "jogador": "Edinson Roberto Cavani Gómez"
         },
         {
             "x": 1.22,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Diego Nicolás De La Cruz Arcosa"
         },
         {
             "x": 0.74,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Matías Nicolás Viña Susperreguy"
         }
     ],
@@ -15328,180 +15328,5 @@
         "Woo-Young Jung",
         "Young-Gwon Kim"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Darwin Gabriel Núñez Ribeiro",
-            "passes": 22,
-            "chutes": 1,
-            "total": 23
-        },
-        {
-            "nome": "Diego Nicolás De La Cruz Arcosa",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Diego Roberto Godín Leal",
-            "passes": 75,
-            "chutes": 1,
-            "total": 76
-        },
-        {
-            "nome": "Edinson Roberto Cavani Gómez",
-            "passes": 6,
-            "chutes": 2,
-            "total": 8
-        },
-        {
-            "nome": "Facundo Pellistri Rebollo",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Federico Santiago Valverde Dipetta",
-            "passes": 61,
-            "chutes": 3,
-            "total": 64
-        },
-        {
-            "nome": "Gue-Sung Cho",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Guillermo Varela Olivera",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Heung-Min Son",
-            "passes": 30,
-            "chutes": 1,
-            "total": 31
-        },
-        {
-            "nome": "In-Beom Hwang",
-            "passes": 62,
-            "chutes": 2,
-            "total": 64
-        },
-        {
-            "nome": "Jae-Sung Lee",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Jin-Su Kim",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "José Martín Cáceres Silva",
-            "passes": 81,
-            "chutes": 0,
-            "total": 81
-        },
-        {
-            "nome": "José María Giménez de Vargas",
-            "passes": 79,
-            "chutes": 1,
-            "total": 80
-        },
-        {
-            "nome": "Jun-Ho Son",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Kang-In Lee",
-            "passes": 9,
-            "chutes": 1,
-            "total": 10
-        },
-        {
-            "nome": "Luis Alberto Suárez Díaz",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Mathías Olivera Miramontes",
-            "passes": 48,
-            "chutes": 0,
-            "total": 48
-        },
-        {
-            "nome": "Matías Nicolás Viña Susperreguy",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Matías Vecino Falero",
-            "passes": 40,
-            "chutes": 1,
-            "total": 41
-        },
-        {
-            "nome": "Min Jae Kim",
-            "passes": 52,
-            "chutes": 1,
-            "total": 53
-        },
-        {
-            "nome": "Moon-Hwan Kim",
-            "passes": 63,
-            "chutes": 0,
-            "total": 63
-        },
-        {
-            "nome": "Rodrigo Bentancur Colmán",
-            "passes": 78,
-            "chutes": 1,
-            "total": 79
-        },
-        {
-            "nome": "Sang-Ho Na",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Sergio Rochet Álvarez",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Seung-Gyu Kim",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Ui-Jo Hwang",
-            "passes": 8,
-            "chutes": 1,
-            "total": 9
-        },
-        {
-            "nome": "Woo-Young Jung",
-            "passes": 57,
-            "chutes": 0,
-            "total": 57
-        },
-        {
-            "nome": "Young-Gwon Kim",
-            "passes": 43,
-            "chutes": 0,
-            "total": 43
-        }
-    ]
+    "tabela_stats": []
 }

@@ -14827,16 +14827,16 @@
             "is_goal": false
         },
         {
-            "left": 41.85,
-            "bottom": 85.81,
+            "left": 42.3,
+            "bottom": 86.45,
             "jogador": "Boulaye Dia",
             "tipo": "Shot",
             "time": "Senegal",
             "is_goal": true
         },
         {
-            "left": 59.66,
-            "bottom": 89.7,
+            "left": 58.66,
+            "bottom": 90.31,
             "jogador": "Famara Diedhiou",
             "tipo": "Shot",
             "time": "Senegal",
@@ -14899,8 +14899,8 @@
             "is_goal": false
         },
         {
-            "left": 48.15,
-            "bottom": 89.31,
+            "left": 48.66,
+            "bottom": 88.95,
             "jogador": "Mohammed Muntari",
             "tipo": "Shot",
             "time": "Qatar",
@@ -14915,8 +14915,8 @@
             "is_goal": false
         },
         {
-            "left": 56.0,
-            "bottom": 87.25,
+            "left": 56.32,
+            "bottom": 86.78,
             "jogador": "Cheikh Ahmadou Bamba Mbacke Dieng",
             "tipo": "Shot",
             "time": "Senegal",
@@ -14950,67 +14950,67 @@
     "scatter_data": [
         {
             "x": 4.99,
-            "y": 0.95,
+            "y": 0.63,
             "jogador": "Akram Hassan Afif"
         },
         {
             "x": 5.85,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Boualem Khoukhi"
         },
         {
             "x": 7.84,
-            "y": 0.2,
+            "y": 0.02,
             "jogador": "Youssouf Sabaly"
         },
         {
             "x": 5.05,
-            "y": 2.88,
+            "y": 1.85,
             "jogador": "Abdelkarim Hassan Al Haj Fadlalla"
         },
         {
             "x": 3.06,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Homam Alamin Ahmed"
         },
         {
             "x": 3.54,
-            "y": 0.04,
+            "y": 0.0,
             "jogador": "Karim Boudiaf"
         },
         {
             "x": 3.65,
-            "y": 1.01,
+            "y": 0.63,
             "jogador": "Ismaeel Mohammad Mohammad"
         },
         {
             "x": 3.33,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Pedro Miguel Correia"
         },
         {
             "x": 2.63,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Meshaal Aissa Barsham"
         },
         {
             "x": 6.71,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Kalidou Koulibaly"
         },
         {
             "x": 4.94,
-            "y": 1.93,
+            "y": 1.22,
             "jogador": "Nampalys Mendy"
         },
         {
             "x": 7.19,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Abdou Diallo"
         },
         {
             "x": 5.58,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Ismail Jakobs"
         },
         {
@@ -15020,62 +15020,62 @@
         },
         {
             "x": 2.47,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Hassan Khalid Al Heidos"
         },
         {
             "x": 5.53,
-            "y": 1.0,
+            "y": 0.56,
             "jogador": "Idrissa Gana Gueye"
         },
         {
             "x": 3.22,
-            "y": 0.98,
+            "y": 0.69,
             "jogador": "Krépin Diatta"
         },
         {
             "x": 1.29,
-            "y": 2.77,
+            "y": 1.91,
             "jogador": "Famara Diedhiou"
         },
         {
             "x": 2.9,
-            "y": 1.34,
+            "y": 0.87,
             "jogador": "Almoez Ali Zainalabiddin Abdulla"
         },
         {
             "x": 4.03,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Assim Omer Al Haj Madibo"
         },
         {
             "x": 2.58,
-            "y": 1.53,
+            "y": 1.24,
             "jogador": "Boulaye Dia"
         },
         {
             "x": 2.52,
-            "y": 1.94,
+            "y": 1.43,
             "jogador": "Ismaïla Sarr"
         },
         {
             "x": 1.23,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Pathé Ismaël Ciss"
         },
         {
             "x": 0.81,
-            "y": 0.04,
+            "y": 0.0,
             "jogador": "Abdulaziz Hatem Mohammed Abdullah"
         },
         {
             "x": 1.34,
-            "y": 0.84,
+            "y": 0.3,
             "jogador": "Iliman Ndiaye"
         },
         {
             "x": 1.29,
-            "y": 0.11,
+            "y": 0.01,
             "jogador": "Pape Matar Sarr"
         },
         {
@@ -15085,12 +15085,12 @@
         },
         {
             "x": 1.02,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Tarek Salman Salman"
         },
         {
             "x": 0.86,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Mohammed Waed Abdulwahhab Al Bayati"
         }
     ],
@@ -15127,192 +15127,5 @@
         "Tarek Salman Salman",
         "Youssouf Sabaly"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdelkarim Hassan Al Haj Fadlalla",
-            "passes": 47,
-            "chutes": 4,
-            "total": 51
-        },
-        {
-            "nome": "Abdou Diallo",
-            "passes": 75,
-            "chutes": 0,
-            "total": 75
-        },
-        {
-            "nome": "Abdulaziz Hatem Mohammed Abdullah",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Akram Hassan Afif",
-            "passes": 49,
-            "chutes": 1,
-            "total": 50
-        },
-        {
-            "nome": "Almoez Ali Zainalabiddin Abdulla",
-            "passes": 22,
-            "chutes": 2,
-            "total": 24
-        },
-        {
-            "nome": "Assim Omer Al Haj Madibo",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Boualem Khoukhi",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Boulaye Dia",
-            "passes": 22,
-            "chutes": 2,
-            "total": 24
-        },
-        {
-            "nome": "Cheikh Ahmadou Bamba Mbacke Dieng",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Edouard Mendy",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Famara Diedhiou",
-            "passes": 9,
-            "chutes": 3,
-            "total": 12
-        },
-        {
-            "nome": "Hassan Khalid Al Heidos",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Homam Alamin Ahmed",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Idrissa Gana Gueye",
-            "passes": 56,
-            "chutes": 1,
-            "total": 57
-        },
-        {
-            "nome": "Iliman Ndiaye",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Ismaeel Mohammad Mohammad",
-            "passes": 38,
-            "chutes": 1,
-            "total": 39
-        },
-        {
-            "nome": "Ismail Jakobs",
-            "passes": 63,
-            "chutes": 0,
-            "total": 63
-        },
-        {
-            "nome": "Ismaïla Sarr",
-            "passes": 16,
-            "chutes": 2,
-            "total": 18
-        },
-        {
-            "nome": "Kalidou Koulibaly",
-            "passes": 67,
-            "chutes": 0,
-            "total": 67
-        },
-        {
-            "nome": "Karim Boudiaf",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Krépin Diatta",
-            "passes": 27,
-            "chutes": 1,
-            "total": 28
-        },
-        {
-            "nome": "Meshaal Aissa Barsham",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Mohammed Muntari",
-            "passes": 2,
-            "chutes": 2,
-            "total": 4
-        },
-        {
-            "nome": "Mohammed Waed Abdulwahhab Al Bayati",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Nampalys Mendy",
-            "passes": 48,
-            "chutes": 2,
-            "total": 50
-        },
-        {
-            "nome": "Pape Abou Cissé",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Pape Matar Sarr",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Pathé Ismaël Ciss",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Pedro Miguel Correia",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Tarek Salman Salman",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Youssouf Sabaly",
-            "passes": 79,
-            "chutes": 0,
-            "total": 79
-        }
-    ]
+    "tabela_stats": []
 }

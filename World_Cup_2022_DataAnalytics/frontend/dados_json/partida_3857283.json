@@ -15827,8 +15827,8 @@
             "is_goal": false
         },
         {
-            "left": 45.36,
-            "bottom": 95.34,
+            "left": 45.34,
+            "bottom": 95.13,
             "jogador": "Romain Saïss",
             "tipo": "Shot",
             "time": "Morocco",
@@ -15851,8 +15851,8 @@
             "is_goal": false
         },
         {
-            "left": 57.93,
-            "bottom": 88.65,
+            "left": 56.94,
+            "bottom": 88.2,
             "jogador": "Zakaria Aboukhlal",
             "tipo": "Shot",
             "time": "Morocco",
@@ -15862,12 +15862,12 @@
     "scatter_data": [
         {
             "x": 1.37,
-            "y": 0.14,
+            "y": 0.69,
             "jogador": "Michy Batshuayi Tunga"
         },
         {
             "x": 7.28,
-            "y": 0.03,
+            "y": 0.02,
             "jogador": "Axel Witsel"
         },
         {
@@ -15877,27 +15877,27 @@
         },
         {
             "x": 4.25,
-            "y": 1.08,
+            "y": 1.26,
             "jogador": "Amadou Onana"
         },
         {
             "x": 9.46,
-            "y": 0.79,
+            "y": 0.54,
             "jogador": "Jan Vertonghen"
         },
         {
             "x": 4.5,
-            "y": 0.14,
+            "y": 0.63,
             "jogador": "Thomas Meunier"
         },
         {
             "x": 6.17,
-            "y": 1.57,
+            "y": 1.65,
             "jogador": "Kevin De Bruyne"
         },
         {
             "x": 4.0,
-            "y": 1.03,
+            "y": 0.91,
             "jogador": "Hakim Ziyech"
         },
         {
@@ -15907,22 +15907,22 @@
         },
         {
             "x": 6.98,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Timothy Castagne"
         },
         {
             "x": 4.25,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Thorgan Hazard"
         },
         {
             "x": 1.92,
-            "y": 0.15,
+            "y": 0.69,
             "jogador": "Selim Amallah"
         },
         {
             "x": 3.39,
-            "y": 0.82,
+            "y": 0.56,
             "jogador": "Romain Saïss"
         },
         {
@@ -15932,22 +15932,22 @@
         },
         {
             "x": 3.54,
-            "y": 0.54,
+            "y": 0.68,
             "jogador": "Achraf Hakimi Mouh"
         },
         {
             "x": 2.63,
-            "y": 0.88,
+            "y": 0.61,
             "jogador": "Sofiane Boufal"
         },
         {
             "x": 3.64,
-            "y": 0.01,
+            "y": 0.04,
             "jogador": "Sofyan Amrabat"
         },
         {
             "x": 3.44,
-            "y": 0.9,
+            "y": 0.62,
             "jogador": "Eden Hazard"
         },
         {
@@ -15957,17 +15957,17 @@
         },
         {
             "x": 2.88,
-            "y": 0.79,
+            "y": 0.54,
             "jogador": "Azzedine Ounahi"
         },
         {
             "x": 2.88,
-            "y": 0.73,
+            "y": 0.47,
             "jogador": "Noussair Mazraoui"
         },
         {
             "x": 1.72,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Munir Mohand Mohamedi"
         },
         {
@@ -15977,12 +15977,12 @@
         },
         {
             "x": 1.67,
-            "y": 0.92,
+            "y": 0.78,
             "jogador": "Dries Mertens"
         },
         {
             "x": 0.61,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "Yahia Attiyat allah"
         },
         {
@@ -15992,12 +15992,12 @@
         },
         {
             "x": 1.52,
-            "y": 0.01,
+            "y": 0.09,
             "jogador": "Leandro Trossard"
         },
         {
             "x": 0.61,
-            "y": 0.69,
+            "y": 0.18,
             "jogador": "Zakaria Aboukhlal"
         }
     ],
@@ -16035,198 +16035,5 @@
         "Youssef En-Nesyri",
         "Zakaria Aboukhlal"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdelhamid Sabiri",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Abderrazak Hamdallah",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Achraf Hakimi Mouh",
-            "passes": 38,
-            "chutes": 1,
-            "total": 39
-        },
-        {
-            "nome": "Amadou Onana",
-            "passes": 43,
-            "chutes": 2,
-            "total": 45
-        },
-        {
-            "nome": "Axel Witsel",
-            "passes": 79,
-            "chutes": 0,
-            "total": 79
-        },
-        {
-            "nome": "Azzedine Ounahi",
-            "passes": 30,
-            "chutes": 1,
-            "total": 31
-        },
-        {
-            "nome": "Charles De Ketelaere",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Dries Mertens",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Eden Hazard",
-            "passes": 30,
-            "chutes": 1,
-            "total": 31
-        },
-        {
-            "nome": "Hakim Ziyech",
-            "passes": 30,
-            "chutes": 2,
-            "total": 32
-        },
-        {
-            "nome": "Jan Vertonghen",
-            "passes": 104,
-            "chutes": 1,
-            "total": 105
-        },
-        {
-            "nome": "Jawad El Yamiq",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Kevin De Bruyne",
-            "passes": 63,
-            "chutes": 3,
-            "total": 66
-        },
-        {
-            "nome": "Leandro Trossard",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Michy Batshuayi Tunga",
-            "passes": 10,
-            "chutes": 1,
-            "total": 11
-        },
-        {
-            "nome": "Munir Mohand Mohamedi",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        },
-        {
-            "nome": "Nayef Aguerd",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Noussair Mazraoui",
-            "passes": 31,
-            "chutes": 1,
-            "total": 32
-        },
-        {
-            "nome": "Romain Saïss",
-            "passes": 39,
-            "chutes": 1,
-            "total": 40
-        },
-        {
-            "nome": "Romelu Lukaku Menama",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Selim Amallah",
-            "passes": 19,
-            "chutes": 1,
-            "total": 20
-        },
-        {
-            "nome": "Sofiane Boufal",
-            "passes": 22,
-            "chutes": 1,
-            "total": 23
-        },
-        {
-            "nome": "Sofyan Amrabat",
-            "passes": 40,
-            "chutes": 0,
-            "total": 40
-        },
-        {
-            "nome": "Thibaut Courtois",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Thomas Meunier",
-            "passes": 48,
-            "chutes": 1,
-            "total": 49
-        },
-        {
-            "nome": "Thorgan Hazard",
-            "passes": 48,
-            "chutes": 0,
-            "total": 48
-        },
-        {
-            "nome": "Timothy Castagne",
-            "passes": 75,
-            "chutes": 0,
-            "total": 75
-        },
-        {
-            "nome": "Toby Alderweireld",
-            "passes": 100,
-            "chutes": 0,
-            "total": 100
-        },
-        {
-            "nome": "Yahia Attiyat allah",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Youri Tielemans",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Youssef En-Nesyri",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Zakaria Aboukhlal",
-            "passes": 5,
-            "chutes": 1,
-            "total": 6
-        }
-    ]
+    "tabela_stats": []
 }

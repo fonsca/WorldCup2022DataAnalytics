@@ -13163,8 +13163,8 @@
             "is_goal": false
         },
         {
-            "left": 62.11,
-            "bottom": 87.29,
+            "left": 61.41,
+            "bottom": 85.71,
             "jogador": "Xherdan Shaqiri",
             "tipo": "Shot",
             "time": "Switzerland",
@@ -13187,8 +13187,8 @@
             "is_goal": false
         },
         {
-            "left": 49.11,
-            "bottom": 86.91,
+            "left": 48.03,
+            "bottom": 86.28,
             "jogador": "Aleksandar Mitrović",
             "tipo": "Shot",
             "time": "Serbia",
@@ -13203,8 +13203,8 @@
             "is_goal": false
         },
         {
-            "left": 41.37,
-            "bottom": 85.64,
+            "left": 39.76,
+            "bottom": 86.11,
             "jogador": "Dušan Vlahović",
             "tipo": "Shot",
             "time": "Serbia",
@@ -13219,8 +13219,8 @@
             "is_goal": false
         },
         {
-            "left": 46.74,
-            "bottom": 91.77,
+            "left": 46.67,
+            "bottom": 90.75,
             "jogador": "Breel-Donald Embolo",
             "tipo": "Shot",
             "time": "Switzerland",
@@ -13235,8 +13235,8 @@
             "is_goal": false
         },
         {
-            "left": 50.62,
-            "bottom": 85.48,
+            "left": 51.25,
+            "bottom": 85.85,
             "jogador": "Remo Freuler",
             "tipo": "Shot",
             "time": "Switzerland",
@@ -13414,112 +13414,112 @@
     "scatter_data": [
         {
             "x": 2.45,
-            "y": 1.89,
+            "y": 1.97,
             "jogador": "Breel-Donald Embolo"
         },
         {
             "x": 2.63,
-            "y": 1.05,
+            "y": 1.3,
             "jogador": "Remo Freuler"
         },
         {
             "x": 5.8,
-            "y": 0.09,
+            "y": 0.01,
             "jogador": "Silvan Widmer"
         },
         {
             "x": 4.13,
-            "y": 0.04,
+            "y": 0.59,
             "jogador": "Fabian Lukas Schär"
         },
         {
             "x": 2.57,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Djibril Sow"
         },
         {
             "x": 2.93,
-            "y": 1.89,
+            "y": 1.37,
             "jogador": "Xherdan Shaqiri"
         },
         {
             "x": 5.09,
-            "y": 0.1,
+            "y": 0.72,
             "jogador": "Manuel Obafemi Akanji"
         },
         {
             "x": 3.47,
-            "y": 0.93,
+            "y": 0.82,
             "jogador": "Andrija Živković"
         },
         {
             "x": 6.22,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Saša Lukić"
         },
         {
             "x": 2.39,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Gregor Kobel"
         },
         {
             "x": 2.45,
-            "y": 0.94,
+            "y": 0.67,
             "jogador": "Ruben Vargas"
         },
         {
             "x": 4.91,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Ricardo Iván Rodríguez Araya"
         },
         {
             "x": 6.28,
-            "y": 0.98,
+            "y": 0.68,
             "jogador": "Nikola Milenković"
         },
         {
             "x": 2.93,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Sergej Milinković-Savić"
         },
         {
             "x": 5.21,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Filip Kostić"
         },
         {
             "x": 8.56,
-            "y": 0.04,
+            "y": 0.02,
             "jogador": "Strahinja Pavlović"
         },
         {
             "x": 3.29,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Milos Veljkovic"
         },
         {
             "x": 4.31,
-            "y": 0.09,
+            "y": 0.01,
             "jogador": "Vanja Milinković Savić"
         },
         {
             "x": 6.04,
-            "y": 2.81,
+            "y": 2.43,
             "jogador": "Granit Xhaka"
         },
         {
             "x": 4.49,
-            "y": 0.1,
+            "y": 0.62,
             "jogador": "Dušan Tadić"
         },
         {
             "x": 2.45,
-            "y": 1.4,
+            "y": 1.87,
             "jogador": "Aleksandar Mitrović"
         },
         {
             "x": 1.08,
-            "y": 2.78,
+            "y": 1.92,
             "jogador": "Dušan Vlahović"
         },
         {
@@ -13529,7 +13529,7 @@
         },
         {
             "x": 1.2,
-            "y": 0.19,
+            "y": 0.78,
             "jogador": "Luka Jović"
         },
         {
@@ -13544,17 +13544,17 @@
         },
         {
             "x": 1.02,
-            "y": 0.0,
+            "y": 0.03,
             "jogador": "Denis Lemi Zakaria Lako Lado"
         },
         {
             "x": 1.38,
-            "y": 0.02,
+            "y": 0.34,
             "jogador": "Christian Fassnacht"
         },
         {
             "x": 0.9,
-            "y": 0.21,
+            "y": 0.3,
             "jogador": "Nemanja Radonjić"
         }
     ],
@@ -13591,192 +13591,5 @@
         "Vanja Milinković Savić",
         "Xherdan Shaqiri"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Aleksandar Mitrović",
-            "passes": 23,
-            "chutes": 3,
-            "total": 26
-        },
-        {
-            "nome": "Andrija Živković",
-            "passes": 31,
-            "chutes": 1,
-            "total": 32
-        },
-        {
-            "nome": "Breel-Donald Embolo",
-            "passes": 17,
-            "chutes": 3,
-            "total": 20
-        },
-        {
-            "nome": "Christian Fassnacht",
-            "passes": 10,
-            "chutes": 1,
-            "total": 11
-        },
-        {
-            "nome": "Denis Lemi Zakaria Lako Lado",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Djibril Sow",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        },
-        {
-            "nome": "Dušan Tadić",
-            "passes": 35,
-            "chutes": 1,
-            "total": 36
-        },
-        {
-            "nome": "Dušan Vlahović",
-            "passes": 5,
-            "chutes": 3,
-            "total": 8
-        },
-        {
-            "nome": "Edimilson Fernandes",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Fabian Lukas Schär",
-            "passes": 44,
-            "chutes": 1,
-            "total": 45
-        },
-        {
-            "nome": "Filip Kostić",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Filip Đuričić",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Granit Xhaka",
-            "passes": 57,
-            "chutes": 3,
-            "total": 60
-        },
-        {
-            "nome": "Gregor Kobel",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Luka Jović",
-            "passes": 10,
-            "chutes": 2,
-            "total": 12
-        },
-        {
-            "nome": "Manuel Obafemi Akanji",
-            "passes": 53,
-            "chutes": 1,
-            "total": 54
-        },
-        {
-            "nome": "Milos Veljkovic",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Nemanja Gudelj",
-            "passes": 21,
-            "chutes": 0,
-            "total": 21
-        },
-        {
-            "nome": "Nemanja Maksimović",
-            "passes": 18,
-            "chutes": 0,
-            "total": 18
-        },
-        {
-            "nome": "Nemanja Radonjić",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Nikola Milenković",
-            "passes": 58,
-            "chutes": 1,
-            "total": 59
-        },
-        {
-            "nome": "Noah Okafor",
-            "passes": 0,
-            "chutes": 0,
-            "total": 0
-        },
-        {
-            "nome": "Remo Freuler",
-            "passes": 23,
-            "chutes": 2,
-            "total": 25
-        },
-        {
-            "nome": "Ricardo Iván Rodríguez Araya",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Ruben Vargas",
-            "passes": 23,
-            "chutes": 1,
-            "total": 24
-        },
-        {
-            "nome": "Saša Lukić",
-            "passes": 59,
-            "chutes": 0,
-            "total": 59
-        },
-        {
-            "nome": "Sergej Milinković-Savić",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Silvan Widmer",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Strahinja Pavlović",
-            "passes": 85,
-            "chutes": 0,
-            "total": 85
-        },
-        {
-            "nome": "Vanja Milinković Savić",
-            "passes": 45,
-            "chutes": 0,
-            "total": 45
-        },
-        {
-            "nome": "Xherdan Shaqiri",
-            "passes": 24,
-            "chutes": 2,
-            "total": 26
-        }
-    ]
+    "tabela_stats": []
 }

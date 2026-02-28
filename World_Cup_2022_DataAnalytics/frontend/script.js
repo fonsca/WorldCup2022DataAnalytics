@@ -60,16 +60,12 @@ async function carregarDados() {
         plotarNoCampo(dadosGlobais);
         atualizarGrafico(dados.usage_rate);
         atualizarScatter(dados.scatter_data);
-
-        if (typeof atualizarTabela === "function") {
-            atualizarTabela(dados.todos_jogadores);
-        }
         
         // 2. Preenche o Select com os nomes dos jogadores
         preencherSelect(dados.todos_jogadores);
 
         // 3. Atualiza a tabela
-        atualizarTabela(dados.tabela_stats);
+        // atualizarTabela(dados.tabela_stats);
 
     } catch (erro) {
         console.error("Erro JS:", erro);
@@ -185,6 +181,9 @@ function atualizarGrafico(dadosUsage) {
 
 function atualizarTabela(stats) {
     const tbody = document.getElementById('tabela-corpo');
+    if (!tbody) {
+        return; 
+    }
     tbody.innerHTML = ''; // Limpa a tabela antes de encher
 
     stats.forEach(jogador => {

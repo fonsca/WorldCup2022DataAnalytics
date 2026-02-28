@@ -18443,8 +18443,8 @@
             "is_goal": false
         },
         {
-            "left": 58.27,
-            "bottom": 84.8,
+            "left": 57.79,
+            "bottom": 86.12,
             "jogador": "Alexis Mac Allister",
             "tipo": "Shot",
             "time": "Argentina",
@@ -18507,8 +18507,8 @@
             "is_goal": false
         },
         {
-            "left": 42.49,
-            "bottom": 84.89,
+            "left": 42.58,
+            "bottom": 85.91,
             "jogador": "Julián Álvarez",
             "tipo": "Shot",
             "time": "Argentina",
@@ -18560,22 +18560,22 @@
         },
         {
             "x": 3.59,
-            "y": 1.16,
+            "y": 1.29,
             "jogador": "Marcos Javier Acuña"
         },
         {
             "x": 2.42,
-            "y": 4.03,
+            "y": 3.88,
             "jogador": "Julián Álvarez"
         },
         {
             "x": 1.77,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Grzegorz Krychowiak"
         },
         {
             "x": 2.64,
-            "y": 1.49,
+            "y": 1.27,
             "jogador": "Kamil Glik"
         },
         {
@@ -18585,17 +18585,17 @@
         },
         {
             "x": 2.03,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Bartosz Bereszyński"
         },
         {
             "x": 5.92,
-            "y": 0.04,
+            "y": 0.02,
             "jogador": "Nahuel Molina Lucero"
         },
         {
             "x": 12.15,
-            "y": 0.99,
+            "y": 0.67,
             "jogador": "Rodrigo Javier De Paul"
         },
         {
@@ -18610,17 +18610,17 @@
         },
         {
             "x": 7.39,
-            "y": 0.65,
+            "y": 0.6,
             "jogador": "Enzo Fernandez"
         },
         {
             "x": 4.58,
-            "y": 1.82,
+            "y": 1.34,
             "jogador": "Alexis Mac Allister"
         },
         {
             "x": 6.83,
-            "y": 3.53,
+            "y": 4.44,
             "jogador": "Lionel Andrés Messi Cuccittini"
         },
         {
@@ -18650,17 +18650,17 @@
         },
         {
             "x": 5.27,
-            "y": 2.02,
+            "y": 1.86,
             "jogador": "Ángel Fabián Di María Hernández"
         },
         {
             "x": 2.33,
-            "y": 0.22,
+            "y": 0.71,
             "jogador": "Krystian Bielik"
         },
         {
             "x": 0.78,
-            "y": 0.84,
+            "y": 0.61,
             "jogador": "Michał Skóraś"
         },
         {
@@ -18670,12 +18670,12 @@
         },
         {
             "x": 3.07,
-            "y": 0.14,
+            "y": 0.19,
             "jogador": "Nicolás Alejandro Tagliafico"
         },
         {
             "x": 6.23,
-            "y": 0.02,
+            "y": 0.03,
             "jogador": "Leandro Daniel Paredes"
         },
         {
@@ -18685,17 +18685,17 @@
         },
         {
             "x": 1.25,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Germán Alejandro Pezzella"
         },
         {
             "x": 0.99,
-            "y": 0.21,
+            "y": 0.25,
             "jogador": "Lautaro Javier Martínez"
         },
         {
             "x": 1.04,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Thiago Ezequiel Almada"
         }
     ],
@@ -18733,198 +18733,5 @@
         "Wojciech Szczęsny",
         "Ángel Fabián Di María Hernández"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alexis Mac Allister",
-            "passes": 54,
-            "chutes": 2,
-            "total": 56
-        },
-        {
-            "nome": "Artur Jędrzejczyk",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Bartosz Bereszyński",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Cristian Gabriel Romero",
-            "passes": 76,
-            "chutes": 0,
-            "total": 76
-        },
-        {
-            "nome": "Damian Szymański",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Damián Emiliano Martínez",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Enzo Fernandez",
-            "passes": 93,
-            "chutes": 1,
-            "total": 94
-        },
-        {
-            "nome": "Germán Alejandro Pezzella",
-            "passes": 18,
-            "chutes": 0,
-            "total": 18
-        },
-        {
-            "nome": "Grzegorz Krychowiak",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Jakub Kamiński",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Jakub Piotr Kiwior",
-            "passes": 43,
-            "chutes": 0,
-            "total": 43
-        },
-        {
-            "nome": "Julián Álvarez",
-            "passes": 24,
-            "chutes": 6,
-            "total": 30
-        },
-        {
-            "nome": "Kamil Glik",
-            "passes": 34,
-            "chutes": 2,
-            "total": 36
-        },
-        {
-            "nome": "Karol Świderski",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Krystian Bielik",
-            "passes": 27,
-            "chutes": 1,
-            "total": 28
-        },
-        {
-            "nome": "Krzysztof Piątek",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Lautaro Javier Martínez",
-            "passes": 11,
-            "chutes": 1,
-            "total": 12
-        },
-        {
-            "nome": "Leandro Daniel Paredes",
-            "passes": 80,
-            "chutes": 0,
-            "total": 80
-        },
-        {
-            "nome": "Lionel Andrés Messi Cuccittini",
-            "passes": 70,
-            "chutes": 7,
-            "total": 77
-        },
-        {
-            "nome": "Marcos Javier Acuña",
-            "passes": 43,
-            "chutes": 2,
-            "total": 45
-        },
-        {
-            "nome": "Matty Cash",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Michał Skóraś",
-            "passes": 9,
-            "chutes": 1,
-            "total": 10
-        },
-        {
-            "nome": "Nahuel Molina Lucero",
-            "passes": 78,
-            "chutes": 0,
-            "total": 78
-        },
-        {
-            "nome": "Nicolás Alejandro Tagliafico",
-            "passes": 38,
-            "chutes": 1,
-            "total": 39
-        },
-        {
-            "nome": "Nicolás Hernán Otamendi",
-            "passes": 93,
-            "chutes": 0,
-            "total": 93
-        },
-        {
-            "nome": "Piotr Zieliński",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Przemysław Frankowski",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Robert Lewandowski",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Rodrigo Javier De Paul",
-            "passes": 153,
-            "chutes": 1,
-            "total": 154
-        },
-        {
-            "nome": "Thiago Ezequiel Almada",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Wojciech Szczęsny",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Ángel Fabián Di María Hernández",
-            "passes": 51,
-            "chutes": 3,
-            "total": 54
-        }
-    ]
+    "tabela_stats": []
 }

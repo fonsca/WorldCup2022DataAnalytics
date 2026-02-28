@@ -16803,8 +16803,8 @@
             "is_goal": false
         },
         {
-            "left": 38.25,
-            "bottom": 85.57,
+            "left": 38.43,
+            "bottom": 85.63,
             "jogador": "Carlos Henrique Casimiro",
             "tipo": "Shot",
             "time": "Brazil",
@@ -17014,37 +17014,37 @@
     "scatter_data": [
         {
             "x": 2.03,
-            "y": 1.66,
+            "y": 1.38,
             "jogador": "Djibril Sow"
         },
         {
             "x": 6.51,
-            "y": 0.93,
+            "y": 0.62,
             "jogador": "Manuel Obafemi Akanji"
         },
         {
             "x": 6.22,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Nico Elvedi"
         },
         {
             "x": 4.38,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Ricardo Iván Rodríguez Araya"
         },
         {
             "x": 1.93,
-            "y": 0.6,
+            "y": 0.64,
             "jogador": "Ruben Vargas"
         },
         {
             "x": 8.44,
-            "y": 0.79,
+            "y": 0.59,
             "jogador": "Marcos Aoás Corrêa"
         },
         {
             "x": 4.15,
-            "y": 0.29,
+            "y": 1.15,
             "jogador": "Carlos Henrique Casimiro"
         },
         {
@@ -17054,17 +17054,17 @@
         },
         {
             "x": 6.27,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Alex Sandro Lobo Silva"
         },
         {
             "x": 7.26,
-            "y": 0.73,
+            "y": 0.64,
             "jogador": "Thiago Emiliano da Silva"
         },
         {
             "x": 5.85,
-            "y": 0.5,
+            "y": 0.59,
             "jogador": "Éder Gabriel Militão"
         },
         {
@@ -17074,17 +17074,17 @@
         },
         {
             "x": 1.37,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Breel-Donald Embolo"
         },
         {
             "x": 3.06,
-            "y": 0.1,
+            "y": 0.56,
             "jogador": "Raphael Dias Belloli"
         },
         {
             "x": 1.04,
-            "y": 0.88,
+            "y": 1.3,
             "jogador": "Richarlison de Andrade"
         },
         {
@@ -17099,37 +17099,37 @@
         },
         {
             "x": 4.34,
-            "y": 0.15,
+            "y": 0.7,
             "jogador": "Silvan Widmer"
         },
         {
             "x": 5.85,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Granit Xhaka"
         },
         {
             "x": 2.5,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Frederico Rodrigues Santos"
         },
         {
             "x": 3.16,
-            "y": 0.14,
+            "y": 0.86,
             "jogador": "Vinícius José Paixão de Oliveira Júnior"
         },
         {
             "x": 1.84,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Fabian Rieder"
         },
         {
             "x": 2.55,
-            "y": 0.35,
+            "y": 0.37,
             "jogador": "Rodrygo Silva de Goes"
         },
         {
             "x": 1.51,
-            "y": 0.9,
+            "y": 0.77,
             "jogador": "Edimilson Fernandes"
         },
         {
@@ -17139,22 +17139,22 @@
         },
         {
             "x": 2.5,
-            "y": 0.48,
+            "y": 0.68,
             "jogador": "Bruno Guimarães Rodriguez Moura"
         },
         {
             "x": 1.65,
-            "y": 0.4,
+            "y": 0.21,
             "jogador": "Antony Matheus dos Santos"
         },
         {
             "x": 0.61,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Gabriel Fernando de Jesus"
         },
         {
             "x": 0.75,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Alex Nicolao Telles"
         }
     ],
@@ -17192,198 +17192,5 @@
         "Yann Sommer",
         "Éder Gabriel Militão"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alex Nicolao Telles",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Alex Sandro Lobo Silva",
-            "passes": 74,
-            "chutes": 0,
-            "total": 74
-        },
-        {
-            "nome": "Alisson Ramsés Becker",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Antony Matheus dos Santos",
-            "passes": 15,
-            "chutes": 1,
-            "total": 16
-        },
-        {
-            "nome": "Breel-Donald Embolo",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Bruno Guimarães Rodriguez Moura",
-            "passes": 24,
-            "chutes": 1,
-            "total": 25
-        },
-        {
-            "nome": "Carlos Henrique Casimiro",
-            "passes": 50,
-            "chutes": 2,
-            "total": 52
-        },
-        {
-            "nome": "Djibril Sow",
-            "passes": 20,
-            "chutes": 2,
-            "total": 22
-        },
-        {
-            "nome": "Edimilson Fernandes",
-            "passes": 13,
-            "chutes": 1,
-            "total": 14
-        },
-        {
-            "nome": "Fabian Frei",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Fabian Rieder",
-            "passes": 18,
-            "chutes": 0,
-            "total": 18
-        },
-        {
-            "nome": "Frederico Rodrigues Santos",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        },
-        {
-            "nome": "Gabriel Fernando de Jesus",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Granit Xhaka",
-            "passes": 67,
-            "chutes": 0,
-            "total": 67
-        },
-        {
-            "nome": "Haris Seferović",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Lucas Tolentino Coelho de Lima",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Manuel Obafemi Akanji",
-            "passes": 74,
-            "chutes": 1,
-            "total": 75
-        },
-        {
-            "nome": "Marcos Aoás Corrêa",
-            "passes": 96,
-            "chutes": 1,
-            "total": 97
-        },
-        {
-            "nome": "Michel Aebischer",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Nico Elvedi",
-            "passes": 72,
-            "chutes": 0,
-            "total": 72
-        },
-        {
-            "nome": "Raphael Dias Belloli",
-            "passes": 35,
-            "chutes": 1,
-            "total": 36
-        },
-        {
-            "nome": "Remo Freuler",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Renato Steffen",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Ricardo Iván Rodríguez Araya",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Richarlison de Andrade",
-            "passes": 7,
-            "chutes": 2,
-            "total": 9
-        },
-        {
-            "nome": "Rodrygo Silva de Goes",
-            "passes": 26,
-            "chutes": 2,
-            "total": 28
-        },
-        {
-            "nome": "Ruben Vargas",
-            "passes": 20,
-            "chutes": 1,
-            "total": 21
-        },
-        {
-            "nome": "Silvan Widmer",
-            "passes": 50,
-            "chutes": 1,
-            "total": 51
-        },
-        {
-            "nome": "Thiago Emiliano da Silva",
-            "passes": 81,
-            "chutes": 1,
-            "total": 82
-        },
-        {
-            "nome": "Vinícius José Paixão de Oliveira Júnior",
-            "passes": 22,
-            "chutes": 1,
-            "total": 23
-        },
-        {
-            "nome": "Yann Sommer",
-            "passes": 49,
-            "chutes": 0,
-            "total": 49
-        },
-        {
-            "nome": "Éder Gabriel Militão",
-            "passes": 67,
-            "chutes": 1,
-            "total": 68
-        }
-    ]
+    "tabela_stats": []
 }

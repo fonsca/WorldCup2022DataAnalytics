@@ -13459,8 +13459,8 @@
             "is_goal": false
         },
         {
-            "left": 54.54,
-            "bottom": 95.59,
+            "left": 54.09,
+            "bottom": 95.05,
             "jogador": "Jean-Charles Castelletto",
             "tipo": "Shot",
             "time": "Cameroon",
@@ -13483,16 +13483,16 @@
             "is_goal": false
         },
         {
-            "left": 53.68,
-            "bottom": 87.89,
+            "left": 52.29,
+            "bottom": 88.67,
             "jogador": "Strahinja Pavlović",
             "tipo": "Shot",
             "time": "Serbia",
             "is_goal": true
         },
         {
-            "left": 58.15,
-            "bottom": 80.48,
+            "left": 57.66,
+            "bottom": 79.88,
             "jogador": "Sergej Milinković-Savić",
             "tipo": "Shot",
             "time": "Serbia",
@@ -13515,8 +13515,8 @@
             "is_goal": false
         },
         {
-            "left": 49.95,
-            "bottom": 91.61,
+            "left": 51.15,
+            "bottom": 90.54,
             "jogador": "Aleksandar Mitrović",
             "tipo": "Shot",
             "time": "Serbia",
@@ -13547,16 +13547,16 @@
             "is_goal": false
         },
         {
-            "left": 59.54,
-            "bottom": 83.92,
+            "left": 59.76,
+            "bottom": 84.51,
             "jogador": "Vincent Paté Aboubakar",
             "tipo": "Shot",
             "time": "Cameroon",
             "is_goal": true
         },
         {
-            "left": 46.13,
-            "bottom": 88.83,
+            "left": 46.68,
+            "bottom": 89.26,
             "jogador": "Jean-Eric Maxim Choupo-Moting",
             "tipo": "Shot",
             "time": "Cameroon",
@@ -13622,112 +13622,112 @@
     "scatter_data": [
         {
             "x": 2.89,
-            "y": 5.04,
+            "y": 4.05,
             "jogador": "Aleksandar Mitrović"
         },
         {
             "x": 7.9,
-            "y": 1.03,
+            "y": 0.68,
             "jogador": "Saša Lukić"
         },
         {
             "x": 3.24,
-            "y": 1.0,
+            "y": 0.62,
             "jogador": "Strahinja Pavlović"
         },
         {
             "x": 3.48,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Milos Veljkovic"
         },
         {
             "x": 4.71,
-            "y": 0.16,
+            "y": 0.58,
             "jogador": "Nikola Milenković"
         },
         {
             "x": 4.54,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Andrija Živković"
         },
         {
             "x": 5.66,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Ngoran Suiru Fai Collins"
         },
         {
             "x": 2.77,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Martin Hongla Yma II"
         },
         {
             "x": 3.59,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Devis Rogers Epassy Mboka"
         },
         {
             "x": 3.18,
-            "y": 0.96,
+            "y": 0.74,
             "jogador": "Jean-Charles Castelletto"
         },
         {
             "x": 3.06,
-            "y": 0.18,
+            "y": 0.62,
             "jogador": "Jean-Eric Maxim Choupo-Moting"
         },
         {
             "x": 2.83,
-            "y": 3.83,
+            "y": 2.74,
             "jogador": "Pierre Kunde Malong"
         },
         {
             "x": 2.47,
-            "y": 0.05,
+            "y": 0.0,
             "jogador": "André-Frank Zambo Anguissa"
         },
         {
             "x": 3.59,
-            "y": 1.86,
+            "y": 1.44,
             "jogador": "Nicolas Alexis Julio N'Koulou Ndoubena"
         },
         {
             "x": 3.54,
-            "y": 0.08,
+            "y": 0.03,
             "jogador": "Nouhou Tolo"
         },
         {
             "x": 3.59,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Vanja Milinković Savić"
         },
         {
             "x": 6.36,
-            "y": 1.66,
+            "y": 1.79,
             "jogador": "Sergej Milinković-Savić"
         },
         {
             "x": 3.42,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Nemanja Maksimović"
         },
         {
             "x": 1.36,
-            "y": 0.9,
+            "y": 0.61,
             "jogador": "Karl Brillant Toko Ekambi"
         },
         {
             "x": 6.36,
-            "y": 1.09,
+            "y": 0.57,
             "jogador": "Filip Kostić"
         },
         {
             "x": 6.42,
-            "y": 0.17,
+            "y": 0.02,
             "jogador": "Dušan Tadić"
         },
         {
             "x": 2.89,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Bryan Mbeumo"
         },
         {
@@ -13737,42 +13737,42 @@
         },
         {
             "x": 1.89,
-            "y": 1.68,
+            "y": 1.53,
             "jogador": "Vincent Paté Aboubakar"
         },
         {
             "x": 1.47,
-            "y": 0.02,
+            "y": 0.13,
             "jogador": "Christian Mougang Bassogog"
         },
         {
             "x": 1.0,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Gaël Ondoua"
         },
         {
             "x": 1.89,
-            "y": 0.14,
+            "y": 0.28,
             "jogador": "Marko Grujić"
         },
         {
             "x": 1.65,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Srđan Babić"
         },
         {
             "x": 1.0,
-            "y": 0.29,
+            "y": 0.15,
             "jogador": "Georges-Kévin Nkoudou Mbida"
         },
         {
             "x": 0.59,
-            "y": 0.05,
+            "y": 0.0,
             "jogador": "Samuel Yves Oum Gwet"
         },
         {
             "x": 0.53,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Nemanja Radonjić"
         }
     ],
@@ -13810,198 +13810,5 @@
         "Vanja Milinković Savić",
         "Vincent Paté Aboubakar"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Aleksandar Mitrović",
-            "passes": 22,
-            "chutes": 7,
-            "total": 29
-        },
-        {
-            "nome": "Andrija Živković",
-            "passes": 43,
-            "chutes": 0,
-            "total": 43
-        },
-        {
-            "nome": "André-Frank Zambo Anguissa",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Bryan Mbeumo",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Christian Mougang Bassogog",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Devis Rogers Epassy Mboka",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Dušan Tadić",
-            "passes": 56,
-            "chutes": 0,
-            "total": 56
-        },
-        {
-            "nome": "Filip Kostić",
-            "passes": 56,
-            "chutes": 1,
-            "total": 57
-        },
-        {
-            "nome": "Filip Đuričić",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Gaël Ondoua",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Georges-Kévin Nkoudou Mbida",
-            "passes": 8,
-            "chutes": 1,
-            "total": 9
-        },
-        {
-            "nome": "Jean-Charles Castelletto",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Jean-Eric Maxim Choupo-Moting",
-            "passes": 27,
-            "chutes": 1,
-            "total": 28
-        },
-        {
-            "nome": "Karl Brillant Toko Ekambi",
-            "passes": 11,
-            "chutes": 1,
-            "total": 12
-        },
-        {
-            "nome": "Marko Grujić",
-            "passes": 17,
-            "chutes": 1,
-            "total": 18
-        },
-        {
-            "nome": "Martin Hongla Yma II",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Milos Veljkovic",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Nemanja Maksimović",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Nemanja Radonjić",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Ngoran Suiru Fai Collins",
-            "passes": 67,
-            "chutes": 0,
-            "total": 67
-        },
-        {
-            "nome": "Nicolas Alexis Julio N'Koulou Ndoubena",
-            "passes": 33,
-            "chutes": 2,
-            "total": 35
-        },
-        {
-            "nome": "Nikola Milenković",
-            "passes": 49,
-            "chutes": 1,
-            "total": 50
-        },
-        {
-            "nome": "Nouhou Tolo",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Pierre Kunde Malong",
-            "passes": 26,
-            "chutes": 4,
-            "total": 30
-        },
-        {
-            "nome": "Samuel Yves Oum Gwet",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Saša Lukić",
-            "passes": 72,
-            "chutes": 1,
-            "total": 73
-        },
-        {
-            "nome": "Sergej Milinković-Savić",
-            "passes": 48,
-            "chutes": 3,
-            "total": 51
-        },
-        {
-            "nome": "Srđan Babić",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Stefan Mitrović",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Strahinja Pavlović",
-            "passes": 27,
-            "chutes": 1,
-            "total": 28
-        },
-        {
-            "nome": "Vanja Milinković Savić",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Vincent Paté Aboubakar",
-            "passes": 8,
-            "chutes": 3,
-            "total": 11
-        }
-    ]
+    "tabela_stats": []
 }

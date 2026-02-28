@@ -17547,8 +17547,8 @@
             "is_goal": false
         },
         {
-            "left": 40.31,
-            "bottom": 91.8,
+            "left": 40.27,
+            "bottom": 92.08,
             "jogador": "Craig Goodwin",
             "tipo": "Shot",
             "time": "Australia",
@@ -17579,8 +17579,8 @@
             "is_goal": false
         },
         {
-            "left": 52.11,
-            "bottom": 90.25,
+            "left": 53.07,
+            "bottom": 88.8,
             "jogador": "Adrien Rabiot",
             "tipo": "Shot",
             "time": "France",
@@ -17595,8 +17595,8 @@
             "is_goal": false
         },
         {
-            "left": 49.28,
-            "bottom": 87.78,
+            "left": 48.97,
+            "bottom": 89.07,
             "jogador": "Olivier Giroud",
             "tipo": "Shot",
             "time": "France",
@@ -17715,16 +17715,16 @@
             "is_goal": false
         },
         {
-            "left": 52.53,
-            "bottom": 91.52,
+            "left": 53.3,
+            "bottom": 91.84,
             "jogador": "Kylian Mbappé Lottin",
             "tipo": "Shot",
             "time": "France",
             "is_goal": true
         },
         {
-            "left": 52.98,
-            "bottom": 90.08,
+            "left": 52.71,
+            "bottom": 90.03,
             "jogador": "Olivier Giroud",
             "tipo": "Shot",
             "time": "France",
@@ -17974,7 +17974,7 @@
     "scatter_data": [
         {
             "x": 0.94,
-            "y": 2.73,
+            "y": 3.12,
             "jogador": "Olivier Giroud"
         },
         {
@@ -17984,137 +17984,137 @@
         },
         {
             "x": 5.13,
-            "y": 0.94,
+            "y": 0.66,
             "jogador": "Adrien Rabiot"
         },
         {
             "x": 9.86,
-            "y": 0.15,
+            "y": 0.04,
             "jogador": "Dayotchanculle Upamecano"
         },
         {
             "x": 6.83,
-            "y": 0.08,
+            "y": 0.02,
             "jogador": "Benjamin Pavard"
         },
         {
             "x": 7.85,
-            "y": 1.21,
+            "y": 0.82,
             "jogador": "Ibrahima Konaté"
         },
         {
             "x": 0.71,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Lucas Hernández Pi"
         },
         {
             "x": 5.71,
-            "y": 5.03,
+            "y": 4.45,
             "jogador": "Kylian Mbappé Lottin"
         },
         {
             "x": 5.31,
-            "y": 1.94,
+            "y": 2.08,
             "jogador": "Antoine Griezmann"
         },
         {
             "x": 3.17,
-            "y": 1.18,
+            "y": 1.36,
             "jogador": "Ousmane Dembélé"
         },
         {
             "x": 2.68,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Nathaniel Atkinson"
         },
         {
             "x": 4.24,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Harry Souttar"
         },
         {
             "x": 4.86,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Kye Rowles"
         },
         {
             "x": 5.13,
-            "y": 0.08,
+            "y": 0.01,
             "jogador": "Aziz Eraltay Behich"
         },
         {
             "x": 2.72,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "Mathew Leckie"
         },
         {
             "x": 2.86,
-            "y": 0.82,
+            "y": 0.62,
             "jogador": "Jackson Irvine"
         },
         {
             "x": 0.67,
-            "y": 0.77,
+            "y": 0.56,
             "jogador": "Mitchell Thomas Duke"
         },
         {
             "x": 1.52,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Hugo Lloris"
         },
         {
             "x": 1.92,
-            "y": 0.87,
+            "y": 0.7,
             "jogador": "Craig Goodwin"
         },
         {
             "x": 1.83,
-            "y": 0.72,
+            "y": 0.6,
             "jogador": "Riley McGree"
         },
         {
             "x": 5.49,
-            "y": 0.08,
+            "y": 0.02,
             "jogador": "Aaron Mooy"
         },
         {
             "x": 2.19,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Mathew Ryan"
         },
         {
             "x": 5.44,
-            "y": 1.17,
+            "y": 0.77,
             "jogador": "Theo Bernard François Hernández"
         },
         {
             "x": 1.07,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Awer Mabil"
         },
         {
             "x": 1.25,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Youssouf Fofana"
         },
         {
             "x": 1.43,
-            "y": 0.04,
+            "y": 0.14,
             "jogador": "Kingsley Coman"
         },
         {
             "x": 0.71,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Miloš Degenek"
         },
         {
             "x": 0.62,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Keanu Baccus"
         },
         {
             "x": 0.62,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Jules Koundé"
         }
     ],
@@ -18151,192 +18151,5 @@
         "Theo Bernard François Hernández",
         "Youssouf Fofana"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Aaron Mooy",
-            "passes": 67,
-            "chutes": 0,
-            "total": 67
-        },
-        {
-            "nome": "Adrien Rabiot",
-            "passes": 66,
-            "chutes": 1,
-            "total": 67
-        },
-        {
-            "nome": "Antoine Griezmann",
-            "passes": 76,
-            "chutes": 3,
-            "total": 79
-        },
-        {
-            "nome": "Aurélien Djani Tchouaméni",
-            "passes": 78,
-            "chutes": 1,
-            "total": 79
-        },
-        {
-            "nome": "Awer Mabil",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Aziz Eraltay Behich",
-            "passes": 66,
-            "chutes": 0,
-            "total": 66
-        },
-        {
-            "nome": "Benjamin Pavard",
-            "passes": 88,
-            "chutes": 0,
-            "total": 88
-        },
-        {
-            "nome": "Craig Goodwin",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Dayotchanculle Upamecano",
-            "passes": 118,
-            "chutes": 0,
-            "total": 118
-        },
-        {
-            "nome": "Garang Kuol",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Harry Souttar",
-            "passes": 52,
-            "chutes": 0,
-            "total": 52
-        },
-        {
-            "nome": "Hugo Lloris",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Ibrahima Konaté",
-            "passes": 97,
-            "chutes": 2,
-            "total": 99
-        },
-        {
-            "nome": "Jackson Irvine",
-            "passes": 35,
-            "chutes": 1,
-            "total": 36
-        },
-        {
-            "nome": "Jason Cummings",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Jules Koundé",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Keanu Baccus",
-            "passes": 8,
-            "chutes": 0,
-            "total": 8
-        },
-        {
-            "nome": "Kingsley Coman",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Kye Rowles",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Kylian Mbappé Lottin",
-            "passes": 57,
-            "chutes": 7,
-            "total": 64
-        },
-        {
-            "nome": "Lucas Hernández Pi",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Mathew Leckie",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Mathew Ryan",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Miloš Degenek",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Mitchell Thomas Duke",
-            "passes": 9,
-            "chutes": 1,
-            "total": 10
-        },
-        {
-            "nome": "Nathaniel Atkinson",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Olivier Giroud",
-            "passes": 11,
-            "chutes": 5,
-            "total": 16
-        },
-        {
-            "nome": "Ousmane Dembélé",
-            "passes": 32,
-            "chutes": 2,
-            "total": 34
-        },
-        {
-            "nome": "Riley McGree",
-            "passes": 21,
-            "chutes": 1,
-            "total": 22
-        },
-        {
-            "nome": "Theo Bernard François Hernández",
-            "passes": 66,
-            "chutes": 2,
-            "total": 68
-        },
-        {
-            "nome": "Youssouf Fofana",
-            "passes": 18,
-            "chutes": 0,
-            "total": 18
-        }
-    ]
+    "tabela_stats": []
 }

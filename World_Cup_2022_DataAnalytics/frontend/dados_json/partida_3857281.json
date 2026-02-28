@@ -15211,8 +15211,8 @@
             "is_goal": false
         },
         {
-            "left": 46.53,
-            "bottom": 88.71,
+            "left": 45.6,
+            "bottom": 87.38,
             "jogador": "Alphonso Davies",
             "tipo": "Shot",
             "time": "Canada",
@@ -15235,16 +15235,16 @@
             "is_goal": false
         },
         {
-            "left": 37.61,
-            "bottom": 90.86,
+            "left": 37.3,
+            "bottom": 92.37,
             "jogador": "Andrej Kramarić",
             "tipo": "Shot",
             "time": "Croatia",
             "is_goal": true
         },
         {
-            "left": 49.0,
-            "bottom": 80.61,
+            "left": 49.42,
+            "bottom": 81.96,
             "jogador": "Marko Livaja",
             "tipo": "Shot",
             "time": "Croatia",
@@ -15299,8 +15299,8 @@
             "is_goal": false
         },
         {
-            "left": 58.37,
-            "bottom": 85.02,
+            "left": 58.86,
+            "bottom": 85.86,
             "jogador": "Andrej Kramarić",
             "tipo": "Shot",
             "time": "Croatia",
@@ -15371,8 +15371,8 @@
             "is_goal": false
         },
         {
-            "left": 56.64,
-            "bottom": 86.86,
+            "left": 55.67,
+            "bottom": 87.37,
             "jogador": "Lovro Majer",
             "tipo": "Shot",
             "time": "Croatia",
@@ -15750,142 +15750,142 @@
     "scatter_data": [
         {
             "x": 1.32,
-            "y": 2.75,
+            "y": 1.95,
             "jogador": "Marko Livaja"
         },
         {
             "x": 6.06,
-            "y": 0.97,
+            "y": 0.74,
             "jogador": "Marcelo Brozović"
         },
         {
             "x": 4.79,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Borna Sosa"
         },
         {
             "x": 4.74,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Joško Gvardiol"
         },
         {
             "x": 4.18,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Dejan Lovren"
         },
         {
             "x": 3.11,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Milan Borjan"
         },
         {
             "x": 6.32,
-            "y": 0.07,
+            "y": 0.02,
             "jogador": "Kamal Miller"
         },
         {
             "x": 5.35,
-            "y": 0.09,
+            "y": 0.02,
             "jogador": "Alistair Johnston"
         },
         {
             "x": 2.24,
-            "y": 0.93,
+            "y": 0.76,
             "jogador": "Jonathan David"
         },
         {
             "x": 4.79,
-            "y": 0.97,
+            "y": 0.98,
             "jogador": "Tajon Buchanan"
         },
         {
             "x": 4.64,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Steven de Sousa Vitoria"
         },
         {
             "x": 0.82,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Cyle Larin"
         },
         {
             "x": 5.55,
-            "y": 1.93,
+            "y": 1.45,
             "jogador": "Alphonso Davies"
         },
         {
             "x": 4.74,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Atiba Hutchinson"
         },
         {
             "x": 2.34,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Stephen Antunes Eustáquio"
         },
         {
             "x": 4.38,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Josip Juranović"
         },
         {
             "x": 2.24,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Richie Laryea"
         },
         {
             "x": 1.78,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Dominik Livaković"
         },
         {
             "x": 5.45,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Luka Modrić"
         },
         {
             "x": 4.53,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Mateo Kovačić"
         },
         {
             "x": 3.57,
-            "y": 4.64,
+            "y": 3.39,
             "jogador": "Andrej Kramarić"
         },
         {
             "x": 4.48,
-            "y": 1.79,
+            "y": 1.5,
             "jogador": "Ivan Perišić"
         },
         {
             "x": 3.87,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Ismael Koné"
         },
         {
             "x": 2.29,
-            "y": 0.98,
+            "y": 0.88,
             "jogador": "Jonathan Osorio"
         },
         {
             "x": 1.22,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Bruno Petković"
         },
         {
             "x": 2.14,
-            "y": 2.5,
+            "y": 0.87,
             "jogador": "David Junior Hoilett"
         },
         {
             "x": 1.07,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Sam Adekugbe"
         },
         {
             "x": 0.51,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Nikola Vlašić"
         }
     ],
@@ -15923,198 +15923,5 @@
         "Steven de Sousa Vitoria",
         "Tajon Buchanan"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alistair Johnston",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Alphonso Davies",
-            "passes": 44,
-            "chutes": 2,
-            "total": 46
-        },
-        {
-            "nome": "Andrej Kramarić",
-            "passes": 33,
-            "chutes": 5,
-            "total": 38
-        },
-        {
-            "nome": "Atiba Hutchinson",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Borna Sosa",
-            "passes": 57,
-            "chutes": 0,
-            "total": 57
-        },
-        {
-            "nome": "Bruno Petković",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Cyle Larin",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "David Junior Hoilett",
-            "passes": 17,
-            "chutes": 3,
-            "total": 20
-        },
-        {
-            "nome": "Dejan Lovren",
-            "passes": 45,
-            "chutes": 0,
-            "total": 45
-        },
-        {
-            "nome": "Dominik Livaković",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Ismael Koné",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Ivan Perišić",
-            "passes": 43,
-            "chutes": 2,
-            "total": 45
-        },
-        {
-            "nome": "Jonathan David",
-            "passes": 23,
-            "chutes": 1,
-            "total": 24
-        },
-        {
-            "nome": "Jonathan Osorio",
-            "passes": 22,
-            "chutes": 1,
-            "total": 23
-        },
-        {
-            "nome": "Josip Juranović",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Joško Gvardiol",
-            "passes": 51,
-            "chutes": 0,
-            "total": 51
-        },
-        {
-            "nome": "Kamal Miller",
-            "passes": 66,
-            "chutes": 0,
-            "total": 66
-        },
-        {
-            "nome": "Lovro Majer",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Lucas Daniel Cavallini",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Luka Modrić",
-            "passes": 54,
-            "chutes": 0,
-            "total": 54
-        },
-        {
-            "nome": "Marcelo Brozović",
-            "passes": 63,
-            "chutes": 1,
-            "total": 64
-        },
-        {
-            "nome": "Mario Pašalić",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Marko Livaja",
-            "passes": 12,
-            "chutes": 3,
-            "total": 15
-        },
-        {
-            "nome": "Mateo Kovačić",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Milan Borjan",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Mislav Oršić",
-            "passes": 3,
-            "chutes": 1,
-            "total": 4
-        },
-        {
-            "nome": "Nikola Vlašić",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Richie Laryea",
-            "passes": 21,
-            "chutes": 0,
-            "total": 21
-        },
-        {
-            "nome": "Sam Adekugbe",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Stephen Antunes Eustáquio",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        },
-        {
-            "nome": "Steven de Sousa Vitoria",
-            "passes": 54,
-            "chutes": 0,
-            "total": 54
-        },
-        {
-            "nome": "Tajon Buchanan",
-            "passes": 35,
-            "chutes": 1,
-            "total": 36
-        }
-    ]
+    "tabela_stats": []
 }

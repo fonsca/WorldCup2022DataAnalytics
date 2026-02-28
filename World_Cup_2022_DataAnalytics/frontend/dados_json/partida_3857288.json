@@ -13179,8 +13179,8 @@
             "is_goal": false
         },
         {
-            "left": 42.28,
-            "bottom": 88.14,
+            "left": 42.06,
+            "bottom": 88.37,
             "jogador": "Mitchell Thomas Duke",
             "tipo": "Shot",
             "time": "Australia",
@@ -13350,117 +13350,117 @@
     "scatter_data": [
         {
             "x": 2.1,
-            "y": 0.05,
+            "y": 0.0,
             "jogador": "Riley McGree"
         },
         {
             "x": 5.35,
-            "y": 0.1,
+            "y": 0.44,
             "jogador": "Aaron Mooy"
         },
         {
             "x": 4.63,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Aziz Eraltay Behich"
         },
         {
             "x": 2.95,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Kye Rowles"
         },
         {
             "x": 6.31,
-            "y": 0.07,
+            "y": 0.18,
             "jogador": "Montassar Omar Talbi"
         },
         {
             "x": 1.92,
-            "y": 0.04,
+            "y": 0.0,
             "jogador": "Issam Jebali"
         },
         {
             "x": 3.19,
-            "y": 0.05,
+            "y": 0.0,
             "jogador": "Aïssa Bilal Laïdouni"
         },
         {
             "x": 5.17,
-            "y": 0.11,
+            "y": 3.48,
             "jogador": "Youssef Msakni"
         },
         {
             "x": 8.6,
-            "y": 0.17,
+            "y": 0.06,
             "jogador": "Yassine Meriah"
         },
         {
             "x": 6.01,
-            "y": 0.09,
+            "y": 0.02,
             "jogador": "Ali Abdi"
         },
         {
             "x": 6.13,
-            "y": 0.11,
+            "y": 0.01,
             "jogador": "Ellyes Joris Skhiri"
         },
         {
             "x": 3.61,
-            "y": 0.16,
+            "y": 1.74,
             "jogador": "Fran Karačić"
         },
         {
             "x": 2.29,
-            "y": 0.12,
+            "y": 1.25,
             "jogador": "Mohamed Dräger"
         },
         {
             "x": 5.59,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Dylan Daniel Mahmoud Bronn"
         },
         {
             "x": 2.16,
-            "y": 0.05,
+            "y": 2.51,
             "jogador": "Mitchell Thomas Duke"
         },
         {
             "x": 2.1,
-            "y": 0.04,
+            "y": 0.0,
             "jogador": "Aymen Dahmen"
         },
         {
             "x": 3.07,
-            "y": 0.05,
+            "y": 0.0,
             "jogador": "Harry Souttar"
         },
         {
             "x": 2.89,
-            "y": 0.08,
+            "y": 0.65,
             "jogador": "Jackson Irvine"
         },
         {
             "x": 3.61,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Craig Goodwin"
         },
         {
             "x": 3.61,
-            "y": 0.07,
+            "y": 0.03,
             "jogador": "Mathew Leckie"
         },
         {
             "x": 4.75,
-            "y": 0.1,
+            "y": 0.3,
             "jogador": "Naïm Sliti"
         },
         {
             "x": 3.25,
-            "y": 0.11,
+            "y": 0.01,
             "jogador": "Mathew Ryan"
         },
         {
             "x": 3.79,
-            "y": 0.07,
+            "y": 0.58,
             "jogador": "Ferjani Sassi"
         },
         {
@@ -13470,17 +13470,17 @@
         },
         {
             "x": 1.26,
-            "y": 0.03,
+            "y": 0.35,
             "jogador": "Wahbi Khazri"
         },
         {
             "x": 0.84,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Jamie MacLaren"
         },
         {
             "x": 1.56,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Wajdi Kechrida"
         }
     ],
@@ -13517,192 +13517,5 @@
         "Yassine Meriah",
         "Youssef Msakni"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Aaron Mooy",
-            "passes": 51,
-            "chutes": 1,
-            "total": 52
-        },
-        {
-            "nome": "Ajdin Hrustic",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Ali Abdi",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Awer Mabil",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Aymen Dahmen",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Aziz Eraltay Behich",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Aïssa Bilal Laïdouni",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Craig Goodwin",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Dylan Daniel Mahmoud Bronn",
-            "passes": 54,
-            "chutes": 0,
-            "total": 54
-        },
-        {
-            "nome": "Ellyes Joris Skhiri",
-            "passes": 57,
-            "chutes": 0,
-            "total": 57
-        },
-        {
-            "nome": "Ferjani Sassi",
-            "passes": 32,
-            "chutes": 1,
-            "total": 33
-        },
-        {
-            "nome": "Fran Karačić",
-            "passes": 39,
-            "chutes": 3,
-            "total": 42
-        },
-        {
-            "nome": "Harry Souttar",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Issam Jebali",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Jackson Irvine",
-            "passes": 32,
-            "chutes": 1,
-            "total": 33
-        },
-        {
-            "nome": "Jamie MacLaren",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Keanu Baccus",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Kye Rowles",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Mathew Leckie",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Mathew Ryan",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Miloš Degenek",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Mitchell Thomas Duke",
-            "passes": 18,
-            "chutes": 4,
-            "total": 22
-        },
-        {
-            "nome": "Mohamed Dräger",
-            "passes": 20,
-            "chutes": 2,
-            "total": 22
-        },
-        {
-            "nome": "Montassar Omar Talbi",
-            "passes": 58,
-            "chutes": 1,
-            "total": 59
-        },
-        {
-            "nome": "Naïm Sliti",
-            "passes": 40,
-            "chutes": 1,
-            "total": 41
-        },
-        {
-            "nome": "Riley McGree",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Taha Yassine Khenissi",
-            "passes": 1,
-            "chutes": 1,
-            "total": 2
-        },
-        {
-            "nome": "Wahbi Khazri",
-            "passes": 10,
-            "chutes": 2,
-            "total": 12
-        },
-        {
-            "nome": "Wajdi Kechrida",
-            "passes": 18,
-            "chutes": 0,
-            "total": 18
-        },
-        {
-            "nome": "Yassine Meriah",
-            "passes": 80,
-            "chutes": 0,
-            "total": 80
-        },
-        {
-            "nome": "Youssef Msakni",
-            "passes": 45,
-            "chutes": 6,
-            "total": 51
-        }
-    ]
+    "tabela_stats": []
 }

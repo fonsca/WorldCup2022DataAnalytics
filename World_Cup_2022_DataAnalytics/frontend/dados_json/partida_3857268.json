@@ -15035,8 +15035,8 @@
             "is_goal": false
         },
         {
-            "left": 45.53,
-            "bottom": 88.17,
+            "left": 46.32,
+            "bottom": 86.62,
             "jogador": "Michy Batshuayi Tunga",
             "tipo": "Shot",
             "time": "Belgium",
@@ -15382,22 +15382,22 @@
     "scatter_data": [
         {
             "x": 3.13,
-            "y": 3.02,
+            "y": 4.38,
             "jogador": "Jonathan David"
         },
         {
             "x": 6.62,
-            "y": 0.42,
+            "y": 1.5,
             "jogador": "Stephen Antunes Eustáquio"
         },
         {
             "x": 2.14,
-            "y": 0.91,
+            "y": 1.35,
             "jogador": "Richie Laryea"
         },
         {
             "x": 4.96,
-            "y": 0.92,
+            "y": 0.72,
             "jogador": "Alistair Johnston"
         },
         {
@@ -15412,7 +15412,7 @@
         },
         {
             "x": 2.82,
-            "y": 0.66,
+            "y": 0.8,
             "jogador": "Atiba Hutchinson"
         },
         {
@@ -15422,27 +15422,27 @@
         },
         {
             "x": 4.38,
-            "y": 0.22,
+            "y": 0.66,
             "jogador": "Alphonso Davies"
         },
         {
             "x": 1.25,
-            "y": 0.89,
+            "y": 0.73,
             "jogador": "David Junior Hoilett"
         },
         {
             "x": 4.12,
-            "y": 0.14,
+            "y": 0.19,
             "jogador": "Kevin De Bruyne"
         },
         {
             "x": 1.83,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Youri Tielemans"
         },
         {
             "x": 7.25,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Toby Alderweireld"
         },
         {
@@ -15452,22 +15452,22 @@
         },
         {
             "x": 3.13,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Eden Hazard"
         },
         {
             "x": 6.83,
-            "y": 0.08,
+            "y": 0.22,
             "jogador": "Leander Dendoncker"
         },
         {
             "x": 3.76,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Timothy Castagne"
         },
         {
             "x": 6.94,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Jan Vertonghen"
         },
         {
@@ -15477,62 +15477,62 @@
         },
         {
             "x": 3.34,
-            "y": 0.32,
+            "y": 2.08,
             "jogador": "Tajon Buchanan"
         },
         {
             "x": 1.41,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Yannick Ferreira Carrasco"
         },
         {
             "x": 1.83,
-            "y": 1.5,
+            "y": 2.81,
             "jogador": "Michy Batshuayi Tunga"
         },
         {
             "x": 2.19,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Amadou Onana"
         },
         {
             "x": 2.3,
-            "y": 0.04,
+            "y": 0.24,
             "jogador": "Thomas Meunier"
         },
         {
             "x": 3.08,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Ismael Koné"
         },
         {
             "x": 1.36,
-            "y": 0.0,
+            "y": 0.07,
             "jogador": "Leandro Trossard"
         },
         {
             "x": 1.25,
-            "y": 0.16,
+            "y": 0.92,
             "jogador": "Cyle Larin"
         },
         {
             "x": 2.03,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Sam Adekugbe"
         },
         {
             "x": 0.73,
-            "y": 0.0,
+            "y": 0.12,
             "jogador": "Ikoma Loïs Openda"
         },
         {
             "x": 1.1,
-            "y": 0.0,
+            "y": 0.17,
             "jogador": "Jonathan Osorio"
         },
         {
             "x": 0.78,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Liam Millar"
         }
     ],
@@ -15569,192 +15569,5 @@
         "Yannick Ferreira Carrasco",
         "Youri Tielemans"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alistair Johnston",
-            "passes": 58,
-            "chutes": 1,
-            "total": 59
-        },
-        {
-            "nome": "Alphonso Davies",
-            "passes": 41,
-            "chutes": 1,
-            "total": 42
-        },
-        {
-            "nome": "Amadou Onana",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Atiba Hutchinson",
-            "passes": 31,
-            "chutes": 1,
-            "total": 32
-        },
-        {
-            "nome": "Axel Witsel",
-            "passes": 47,
-            "chutes": 0,
-            "total": 47
-        },
-        {
-            "nome": "Cyle Larin",
-            "passes": 11,
-            "chutes": 3,
-            "total": 14
-        },
-        {
-            "nome": "David Junior Hoilett",
-            "passes": 10,
-            "chutes": 1,
-            "total": 11
-        },
-        {
-            "nome": "Eden Hazard",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        },
-        {
-            "nome": "Ikoma Loïs Openda",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Ismael Koné",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Jan Vertonghen",
-            "passes": 71,
-            "chutes": 0,
-            "total": 71
-        },
-        {
-            "nome": "Jonathan David",
-            "passes": 24,
-            "chutes": 7,
-            "total": 31
-        },
-        {
-            "nome": "Jonathan Osorio",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Kamal Miller",
-            "passes": 42,
-            "chutes": 0,
-            "total": 42
-        },
-        {
-            "nome": "Kevin De Bruyne",
-            "passes": 39,
-            "chutes": 2,
-            "total": 41
-        },
-        {
-            "nome": "Leander Dendoncker",
-            "passes": 73,
-            "chutes": 1,
-            "total": 74
-        },
-        {
-            "nome": "Leandro Trossard",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Liam Millar",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Michy Batshuayi Tunga",
-            "passes": 13,
-            "chutes": 5,
-            "total": 18
-        },
-        {
-            "nome": "Milan Borjan",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Richie Laryea",
-            "passes": 17,
-            "chutes": 2,
-            "total": 19
-        },
-        {
-            "nome": "Sam Adekugbe",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Stephen Antunes Eustáquio",
-            "passes": 66,
-            "chutes": 3,
-            "total": 69
-        },
-        {
-            "nome": "Steven de Sousa Vitoria",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Tajon Buchanan",
-            "passes": 25,
-            "chutes": 3,
-            "total": 28
-        },
-        {
-            "nome": "Thibaut Courtois",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Thomas Meunier",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Timothy Castagne",
-            "passes": 43,
-            "chutes": 0,
-            "total": 43
-        },
-        {
-            "nome": "Toby Alderweireld",
-            "passes": 75,
-            "chutes": 0,
-            "total": 75
-        },
-        {
-            "nome": "Yannick Ferreira Carrasco",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Youri Tielemans",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        }
-    ]
+    "tabela_stats": []
 }

@@ -14283,8 +14283,8 @@
             "is_goal": false
         },
         {
-            "left": 39.37,
-            "bottom": 80.46,
+            "left": 39.74,
+            "bottom": 80.85,
             "jogador": "Cody Mathès Gakpo",
             "tipo": "Shot",
             "time": "Netherlands",
@@ -14355,8 +14355,8 @@
             "is_goal": false
         },
         {
-            "left": 47.51,
-            "bottom": 92.86,
+            "left": 47.83,
+            "bottom": 92.78,
             "jogador": "Enner Remberto Valencia Lastra",
             "tipo": "Shot",
             "time": "Ecuador",
@@ -14422,117 +14422,117 @@
     "scatter_data": [
         {
             "x": 3.73,
-            "y": 0.15,
+            "y": 0.67,
             "jogador": "Gonzalo Jordy Plata Jiménez"
         },
         {
             "x": 3.73,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Piero Martín Hincapié Reyna"
         },
         {
             "x": 2.78,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Denzel Dumfries"
         },
         {
             "x": 2.23,
-            "y": 0.05,
+            "y": 0.0,
             "jogador": "Davy Klaassen"
         },
         {
             "x": 6.23,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Felix Eduardo Torres Caicedo"
         },
         {
             "x": 3.67,
-            "y": 0.89,
+            "y": 0.94,
             "jogador": "Angelo Smit Preciado Quiñónez"
         },
         {
             "x": 7.9,
-            "y": 0.08,
+            "y": 0.01,
             "jogador": "Nathan Aké"
         },
         {
             "x": 1.95,
-            "y": 0.89,
+            "y": 1.24,
             "jogador": "Michael Steveen Estrada Martínez"
         },
         {
             "x": 6.18,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Jurriën David Norman Timber"
         },
         {
             "x": 3.9,
-            "y": 0.09,
+            "y": 0.76,
             "jogador": "Teun Koopmeiners"
         },
         {
             "x": 6.84,
-            "y": 0.06,
+            "y": 0.04,
             "jogador": "Frenkie de Jong"
         },
         {
             "x": 6.29,
-            "y": 0.11,
+            "y": 0.01,
             "jogador": "Daley Blind"
         },
         {
             "x": 5.06,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Virgil van Dijk"
         },
         {
             "x": 2.45,
-            "y": 0.82,
+            "y": 0.69,
             "jogador": "Cody Mathès Gakpo"
         },
         {
             "x": 5.84,
-            "y": 1.28,
+            "y": 1.3,
             "jogador": "Pervis Josué Estupiñán Tenorio"
         },
         {
             "x": 5.45,
-            "y": 0.82,
+            "y": 1.14,
             "jogador": "Moisés Isaac Caicedo Corozo"
         },
         {
             "x": 1.61,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Hernán Ismael Galíndez"
         },
         {
             "x": 3.62,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Jackson Gabriel Porozo Vernaza"
         },
         {
             "x": 1.84,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Steven Bergwijn"
         },
         {
             "x": 6.18,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Jhegson Sebastián Méndez Carabalí"
         },
         {
             "x": 3.62,
-            "y": 2.79,
+            "y": 3.06,
             "jogador": "Enner Remberto Valencia Lastra"
         },
         {
             "x": 3.73,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Andries Noppert"
         },
         {
             "x": 1.5,
-            "y": 0.01,
+            "y": 0.03,
             "jogador": "Memphis Depay"
         },
         {
@@ -14582,180 +14582,5 @@
         "Virgil van Dijk",
         "Wout Weghorst"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Andries Noppert",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Angelo Smit Preciado Quiñónez",
-            "passes": 37,
-            "chutes": 3,
-            "total": 40
-        },
-        {
-            "nome": "Cody Mathès Gakpo",
-            "passes": 20,
-            "chutes": 1,
-            "total": 21
-        },
-        {
-            "nome": "Daley Blind",
-            "passes": 66,
-            "chutes": 0,
-            "total": 66
-        },
-        {
-            "nome": "Davy Klaassen",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Denzel Dumfries",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Enner Remberto Valencia Lastra",
-            "passes": 21,
-            "chutes": 5,
-            "total": 26
-        },
-        {
-            "nome": "Felix Eduardo Torres Caicedo",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Frenkie de Jong",
-            "passes": 73,
-            "chutes": 0,
-            "total": 73
-        },
-        {
-            "nome": "Gonzalo Jordy Plata Jiménez",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Hernán Ismael Galíndez",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Jackson Gabriel Porozo Vernaza",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Jeremy Leonel Sarmiento Morante",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Jhegson Sebastián Méndez Carabalí",
-            "passes": 63,
-            "chutes": 0,
-            "total": 63
-        },
-        {
-            "nome": "Jurriën David Norman Timber",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Kevin José Rodríguez Cortez",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Marten de Roon",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Memphis Depay",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Michael Steveen Estrada Martínez",
-            "passes": 17,
-            "chutes": 2,
-            "total": 19
-        },
-        {
-            "nome": "Moisés Isaac Caicedo Corozo",
-            "passes": 55,
-            "chutes": 2,
-            "total": 57
-        },
-        {
-            "nome": "Nathan Aké",
-            "passes": 82,
-            "chutes": 0,
-            "total": 82
-        },
-        {
-            "nome": "Pervis Josué Estupiñán Tenorio",
-            "passes": 59,
-            "chutes": 2,
-            "total": 61
-        },
-        {
-            "nome": "Piero Martín Hincapié Reyna",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Romario Andrés Ibarra Mina",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Steven Berghuis",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "Steven Bergwijn",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "Teun Koopmeiners",
-            "passes": 37,
-            "chutes": 1,
-            "total": 38
-        },
-        {
-            "nome": "Virgil van Dijk",
-            "passes": 55,
-            "chutes": 0,
-            "total": 55
-        },
-        {
-            "nome": "Wout Weghorst",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        }
-    ]
+    "tabela_stats": []
 }

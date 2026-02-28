@@ -14291,8 +14291,8 @@
             "is_goal": false
         },
         {
-            "left": 49.86,
-            "bottom": 87.84,
+            "left": 50.65,
+            "bottom": 87.44,
             "jogador": "Enner Remberto Valencia Lastra",
             "tipo": "Shot",
             "time": "Ecuador",
@@ -14307,8 +14307,8 @@
             "is_goal": false
         },
         {
-            "left": 46.89,
-            "bottom": 87.98,
+            "left": 46.97,
+            "bottom": 87.61,
             "jogador": "Enner Remberto Valencia Lastra",
             "tipo": "Shot",
             "time": "Ecuador",
@@ -14382,127 +14382,127 @@
     "scatter_data": [
         {
             "x": 0.89,
-            "y": 0.02,
+            "y": 0.6,
             "jogador": "Almoez Ali Zainalabiddin Abdulla"
         },
         {
             "x": 4.58,
-            "y": 0.07,
+            "y": 0.5,
             "jogador": "Akram Hassan Afif"
         },
         {
             "x": 2.73,
-            "y": 0.05,
+            "y": 0.0,
             "jogador": "Hassan Khalid Al Heidos"
         },
         {
             "x": 7.42,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Piero Martín Hincapié Reyna"
         },
         {
             "x": 7.37,
-            "y": 0.15,
+            "y": 0.02,
             "jogador": "Pervis Josué Estupiñán Tenorio"
         },
         {
             "x": 4.74,
-            "y": 0.11,
+            "y": 0.32,
             "jogador": "Angelo Smit Preciado Quiñónez"
         },
         {
             "x": 2.06,
-            "y": 0.06,
+            "y": 0.0,
             "jogador": "Michael Steveen Estrada Martínez"
         },
         {
             "x": 5.97,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Felix Eduardo Torres Caicedo"
         },
         {
             "x": 7.65,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Boualem Khoukhi"
         },
         {
             "x": 5.36,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Bassam Hisham Al Rawi"
         },
         {
             "x": 6.92,
-            "y": 0.05,
+            "y": 0.27,
             "jogador": "Abdelkarim Hassan Al Haj Fadlalla"
         },
         {
             "x": 4.35,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Abdulaziz Hatem Mohammed Abdullah"
         },
         {
             "x": 2.57,
-            "y": 0.14,
+            "y": 1.33,
             "jogador": "Enner Remberto Valencia Lastra"
         },
         {
             "x": 4.24,
-            "y": 0.1,
+            "y": 0.34,
             "jogador": "Homam Alamin Ahmed"
         },
         {
             "x": 7.76,
-            "y": 0.12,
+            "y": 0.02,
             "jogador": "Jhegson Sebastián Méndez Carabalí"
         },
         {
             "x": 1.95,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Saad Abdullah Al Sheeb"
         },
         {
             "x": 1.9,
-            "y": 0.1,
+            "y": 1.42,
             "jogador": "Romario Andrés Ibarra Mina"
         },
         {
             "x": 4.8,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Karim Boudiaf"
         },
         {
             "x": 3.57,
-            "y": 0.09,
+            "y": 0.67,
             "jogador": "Pedro Miguel Correia"
         },
         {
             "x": 1.51,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Hernán Ismael Galíndez"
         },
         {
             "x": 4.41,
-            "y": 0.08,
+            "y": 0.01,
             "jogador": "Moisés Isaac Caicedo Corozo"
         },
         {
             "x": 3.96,
-            "y": 0.14,
+            "y": 0.02,
             "jogador": "Gonzalo Jordy Plata Jiménez"
         },
         {
             "x": 0.89,
-            "y": 0.04,
+            "y": 0.1,
             "jogador": "Jeremy Leonel Sarmiento Morante"
         },
         {
             "x": 0.78,
-            "y": 0.04,
+            "y": 0.0,
             "jogador": "José Adoni Cifuentes Charcopa"
         },
         {
             "x": 0.67,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Alan Steven Franco Palma"
         }
     ],
@@ -14536,174 +14536,5 @@
         "Romario Andrés Ibarra Mina",
         "Saad Abdullah Al Sheeb"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Abdelkarim Hassan Al Haj Fadlalla",
-            "passes": 66,
-            "chutes": 1,
-            "total": 67
-        },
-        {
-            "nome": "Abdulaziz Hatem Mohammed Abdullah",
-            "passes": 44,
-            "chutes": 0,
-            "total": 44
-        },
-        {
-            "nome": "Akram Hassan Afif",
-            "passes": 36,
-            "chutes": 1,
-            "total": 37
-        },
-        {
-            "nome": "Alan Steven Franco Palma",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Almoez Ali Zainalabiddin Abdulla",
-            "passes": 10,
-            "chutes": 1,
-            "total": 11
-        },
-        {
-            "nome": "Angelo Smit Preciado Quiñónez",
-            "passes": 53,
-            "chutes": 1,
-            "total": 54
-        },
-        {
-            "nome": "Bassam Hisham Al Rawi",
-            "passes": 57,
-            "chutes": 0,
-            "total": 57
-        },
-        {
-            "nome": "Boualem Khoukhi",
-            "passes": 76,
-            "chutes": 0,
-            "total": 76
-        },
-        {
-            "nome": "Enner Remberto Valencia Lastra",
-            "passes": 20,
-            "chutes": 2,
-            "total": 22
-        },
-        {
-            "nome": "Felix Eduardo Torres Caicedo",
-            "passes": 63,
-            "chutes": 0,
-            "total": 63
-        },
-        {
-            "nome": "Gonzalo Jordy Plata Jiménez",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Hassan Khalid Al Heidos",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Hernán Ismael Galíndez",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Homam Alamin Ahmed",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Jeremy Leonel Sarmiento Morante",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Jhegson Sebastián Méndez Carabalí",
-            "passes": 78,
-            "chutes": 0,
-            "total": 78
-        },
-        {
-            "nome": "José Adoni Cifuentes Charcopa",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Karim Boudiaf",
-            "passes": 49,
-            "chutes": 0,
-            "total": 49
-        },
-        {
-            "nome": "Kevin José Rodríguez Cortez",
-            "passes": 0,
-            "chutes": 1,
-            "total": 1
-        },
-        {
-            "nome": "Michael Steveen Estrada Martínez",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Mohammed Muntari",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Mohammed Waed Abdulwahhab Al Bayati",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Moisés Isaac Caicedo Corozo",
-            "passes": 49,
-            "chutes": 0,
-            "total": 49
-        },
-        {
-            "nome": "Pedro Miguel Correia",
-            "passes": 34,
-            "chutes": 1,
-            "total": 35
-        },
-        {
-            "nome": "Pervis Josué Estupiñán Tenorio",
-            "passes": 75,
-            "chutes": 0,
-            "total": 75
-        },
-        {
-            "nome": "Piero Martín Hincapié Reyna",
-            "passes": 72,
-            "chutes": 0,
-            "total": 72
-        },
-        {
-            "nome": "Romario Andrés Ibarra Mina",
-            "passes": 14,
-            "chutes": 2,
-            "total": 16
-        },
-        {
-            "nome": "Saad Abdullah Al Sheeb",
-            "passes": 21,
-            "chutes": 0,
-            "total": 21
-        }
-    ]
+    "tabela_stats": []
 }

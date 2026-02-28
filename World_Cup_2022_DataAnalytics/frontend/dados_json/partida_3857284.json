@@ -15563,8 +15563,8 @@
             "is_goal": false
         },
         {
-            "left": 49.39,
-            "bottom": 85.95,
+            "left": 50.31,
+            "bottom": 87.64,
             "jogador": "İlkay Gündoğan",
             "tipo": "Shot",
             "time": "Germany",
@@ -15763,8 +15763,8 @@
             "is_goal": false
         },
         {
-            "left": 52.0,
-            "bottom": 89.1,
+            "left": 51.66,
+            "bottom": 90.28,
             "jogador": "Ritsu Doan",
             "tipo": "Shot",
             "time": "Japan",
@@ -15779,8 +15779,8 @@
             "is_goal": false
         },
         {
-            "left": 61.13,
-            "bottom": 95.21,
+            "left": 61.79,
+            "bottom": 94.62,
             "jogador": "Takuma Asano",
             "tipo": "Shot",
             "time": "Japan",
@@ -15822,47 +15822,47 @@
     "scatter_data": [
         {
             "x": 1.88,
-            "y": 0.04,
+            "y": 0.0,
             "jogador": "Kai Havertz"
         },
         {
             "x": 8.62,
-            "y": 1.77,
+            "y": 2.16,
             "jogador": "Joshua Kimmich"
         },
         {
             "x": 1.93,
-            "y": 0.84,
+            "y": 0.64,
             "jogador": "Ko Itakura"
         },
         {
             "x": 2.38,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Ao Tanaka"
         },
         {
             "x": 4.46,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Manuel Neuer"
         },
         {
             "x": 10.6,
-            "y": 0.06,
+            "y": 0.09,
             "jogador": "Nico Schlotterbeck"
         },
         {
             "x": 10.34,
-            "y": 1.53,
+            "y": 1.41,
             "jogador": "Antonio Rüdiger"
         },
         {
             "x": 8.98,
-            "y": 0.38,
+            "y": 0.18,
             "jogador": "Niklas Süle"
         },
         {
             "x": 2.64,
-            "y": 0.03,
+            "y": 0.05,
             "jogador": "Wataru Endo"
         },
         {
@@ -15872,42 +15872,42 @@
         },
         {
             "x": 6.34,
-            "y": 0.17,
+            "y": 0.03,
             "jogador": "David Raum"
         },
         {
             "x": 5.22,
-            "y": 0.47,
+            "y": 1.88,
             "jogador": "Jamal Musiala"
         },
         {
             "x": 4.72,
-            "y": 2.89,
+            "y": 3.38,
             "jogador": "Serge Gnabry"
         },
         {
             "x": 3.3,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Thomas Müller"
         },
         {
             "x": 2.08,
-            "y": 0.9,
+            "y": 0.63,
             "jogador": "Hiroki Sakai"
         },
         {
             "x": 1.88,
-            "y": 0.89,
+            "y": 0.64,
             "jogador": "Junya Ito"
         },
         {
             "x": 6.69,
-            "y": 2.54,
+            "y": 3.79,
             "jogador": "İlkay Gündoğan"
         },
         {
             "x": 2.03,
-            "y": 0.13,
+            "y": 0.67,
             "jogador": "Daichi Kamada"
         },
         {
@@ -15917,7 +15917,7 @@
         },
         {
             "x": 0.56,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Takefusa Kubo"
         },
         {
@@ -15927,32 +15927,32 @@
         },
         {
             "x": 1.57,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Takehiro Tomiyasu"
         },
         {
             "x": 0.96,
-            "y": 2.4,
+            "y": 3.0,
             "jogador": "Takuma Asano"
         },
         {
             "x": 1.27,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Kaoru Mitoma"
         },
         {
             "x": 1.88,
-            "y": 0.99,
+            "y": 0.6,
             "jogador": "Jonas Hofmann"
         },
         {
             "x": 0.86,
-            "y": 0.21,
+            "y": 0.34,
             "jogador": "Leon Goretzka"
         },
         {
             "x": 0.56,
-            "y": 0.04,
+            "y": 0.08,
             "jogador": "Mario Götze"
         }
     ],
@@ -15990,198 +15990,5 @@
         "Yuto Nagatomo",
         "İlkay Gündoğan"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Antonio Rüdiger",
-            "passes": 113,
-            "chutes": 3,
-            "total": 116
-        },
-        {
-            "nome": "Ao Tanaka",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Daichi Kamada",
-            "passes": 21,
-            "chutes": 1,
-            "total": 22
-        },
-        {
-            "nome": "Daizen Maeda",
-            "passes": 5,
-            "chutes": 1,
-            "total": 6
-        },
-        {
-            "nome": "David Raum",
-            "passes": 76,
-            "chutes": 0,
-            "total": 76
-        },
-        {
-            "nome": "Hiroki Sakai",
-            "passes": 24,
-            "chutes": 1,
-            "total": 25
-        },
-        {
-            "nome": "Jamal Musiala",
-            "passes": 44,
-            "chutes": 3,
-            "total": 47
-        },
-        {
-            "nome": "Jonas Hofmann",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Joshua Kimmich",
-            "passes": 97,
-            "chutes": 4,
-            "total": 101
-        },
-        {
-            "nome": "Junya Ito",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Kai Havertz",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Kaoru Mitoma",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Ko Itakura",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Leon Goretzka",
-            "passes": 9,
-            "chutes": 1,
-            "total": 10
-        },
-        {
-            "nome": "Manuel Neuer",
-            "passes": 55,
-            "chutes": 0,
-            "total": 55
-        },
-        {
-            "nome": "Mario Götze",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Maya Yoshida",
-            "passes": 40,
-            "chutes": 0,
-            "total": 40
-        },
-        {
-            "nome": "Niclas Füllkrug",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Nico Schlotterbeck",
-            "passes": 119,
-            "chutes": 0,
-            "total": 119
-        },
-        {
-            "nome": "Niklas Süle",
-            "passes": 102,
-            "chutes": 1,
-            "total": 103
-        },
-        {
-            "nome": "Ritsu Doan",
-            "passes": 2,
-            "chutes": 1,
-            "total": 3
-        },
-        {
-            "nome": "Serge Gnabry",
-            "passes": 50,
-            "chutes": 6,
-            "total": 56
-        },
-        {
-            "nome": "Shūichi Gonda",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Takefusa Kubo",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Takehiro Tomiyasu",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Takuma Asano",
-            "passes": 6,
-            "chutes": 5,
-            "total": 11
-        },
-        {
-            "nome": "Takumi Minamino",
-            "passes": 3,
-            "chutes": 1,
-            "total": 4
-        },
-        {
-            "nome": "Thomas Müller",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Wataru Endo",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Youssoufa Moukoko",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Yuto Nagatomo",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "İlkay Gündoğan",
-            "passes": 69,
-            "chutes": 6,
-            "total": 75
-        }
-    ]
+    "tabela_stats": []
 }

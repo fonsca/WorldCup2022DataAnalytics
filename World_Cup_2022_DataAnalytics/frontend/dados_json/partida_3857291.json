@@ -19867,24 +19867,24 @@
             "is_goal": false
         },
         {
-            "left": 48.42,
-            "bottom": 90.88,
+            "left": 50.04,
+            "bottom": 90.96,
             "jogador": "Daniel Olmo Carvajal",
             "tipo": "Shot",
             "time": "Spain",
             "is_goal": true
         },
         {
-            "left": 41.83,
-            "bottom": 84.72,
+            "left": 42.9,
+            "bottom": 85.67,
             "jogador": "Marco Asensio Willemsen",
             "tipo": "Shot",
             "time": "Spain",
             "is_goal": true
         },
         {
-            "left": 50.46,
-            "bottom": 87.03,
+            "left": 50.48,
+            "bottom": 87.78,
             "jogador": "Ferrán Torres García",
             "tipo": "Shot",
             "time": "Spain",
@@ -19915,8 +19915,8 @@
             "is_goal": false
         },
         {
-            "left": 61.52,
-            "bottom": 92.8,
+            "left": 61.28,
+            "bottom": 91.68,
             "jogador": "Ferrán Torres García",
             "tipo": "Shot",
             "time": "Spain",
@@ -19947,24 +19947,24 @@
             "is_goal": false
         },
         {
-            "left": 55.87,
-            "bottom": 82.08,
+            "left": 57.42,
+            "bottom": 83.81,
             "jogador": "Pablo Martín Páez Gavira",
             "tipo": "Shot",
             "time": "Spain",
             "is_goal": true
         },
         {
-            "left": 49.92,
-            "bottom": 88.07,
+            "left": 50.59,
+            "bottom": 88.42,
             "jogador": "Carlos Soler Barragán",
             "tipo": "Shot",
             "time": "Spain",
             "is_goal": true
         },
         {
-            "left": 45.57,
-            "bottom": 84.39,
+            "left": 45.71,
+            "bottom": 83.45,
             "jogador": "Álvaro Borja Morata Martín",
             "tipo": "Shot",
             "time": "Spain",
@@ -19990,12 +19990,12 @@
     "scatter_data": [
         {
             "x": 5.94,
-            "y": 0.77,
+            "y": 0.68,
             "jogador": "Pablo Martín Páez Gavira"
         },
         {
             "x": 11.31,
-            "y": 0.13,
+            "y": 0.04,
             "jogador": "Aymeric Laporte"
         },
         {
@@ -20005,47 +20005,47 @@
         },
         {
             "x": 7.7,
-            "y": 0.1,
+            "y": 0.06,
             "jogador": "César Azpilicueta Tanco"
         },
         {
             "x": 10.35,
-            "y": 0.16,
+            "y": 0.03,
             "jogador": "Rodrigo Hernández Cascante"
         },
         {
             "x": 8.34,
-            "y": 0.05,
+            "y": 0.02,
             "jogador": "Jordi Alba Ramos"
         },
         {
             "x": 5.94,
-            "y": 3.27,
+            "y": 2.7,
             "jogador": "Daniel Olmo Carvajal"
         },
         {
             "x": 1.28,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Bryan Oviedo"
         },
         {
             "x": 6.22,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Sergio Busquets i Burgos"
         },
         {
             "x": 6.74,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Pedro González López"
         },
         {
             "x": 2.81,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Unai Simón Mendibil"
         },
         {
             "x": 1.24,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Celso Borges Mora"
         },
         {
@@ -20055,32 +20055,32 @@
         },
         {
             "x": 1.08,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Yeltsin Ignacio Tejeda Valverde"
         },
         {
             "x": 2.37,
-            "y": 1.81,
+            "y": 1.26,
             "jogador": "Ferrán Torres García"
         },
         {
             "x": 3.61,
-            "y": 4.27,
+            "y": 2.55,
             "jogador": "Marco Asensio Willemsen"
         },
         {
             "x": 0.8,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Carlos Manuel Martínez Castro"
         },
         {
             "x": 1.6,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Óscar Esau Duarte Gaitán"
         },
         {
             "x": 1.32,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Keylor Navas Gamboa"
         },
         {
@@ -20090,57 +20090,57 @@
         },
         {
             "x": 1.81,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Joel Nathaniel Campbell Samuels"
         },
         {
             "x": 1.16,
-            "y": 0.01,
+            "y": 0.03,
             "jogador": "Keysher Fuller Spence"
         },
         {
             "x": 0.8,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Kendall Jamaal Waston Manley"
         },
         {
             "x": 3.53,
-            "y": 1.52,
+            "y": 0.54,
             "jogador": "Carlos Soler Barragán"
         },
         {
             "x": 0.96,
-            "y": 1.44,
+            "y": 0.79,
             "jogador": "Álvaro Borja Morata Martín"
         },
         {
             "x": 0.92,
-            "y": 0.03,
+            "y": 0.02,
             "jogador": "Bryan Ruiz González"
         },
         {
             "x": 2.61,
-            "y": 0.06,
+            "y": 0.02,
             "jogador": "Alejandro Balde Martínez"
         },
         {
             "x": 3.57,
-            "y": 0.13,
+            "y": 0.02,
             "jogador": "Jorge Resurrección Merodio"
         },
         {
             "x": 0.52,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Brandon Aguilera Zamora"
         },
         {
             "x": 1.04,
-            "y": 0.05,
+            "y": 0.12,
             "jogador": "Nicholas Williams Arthuer"
         },
         {
             "x": 0.84,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Ronald Alberto Matarrita Ulate"
         }
     ],
@@ -20178,198 +20178,5 @@
         "Álvaro Borja Morata Martín",
         "Óscar Esau Duarte Gaitán"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alejandro Balde Martínez",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Alvaro José Zamora Mata",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Anthony Daniel Contreras Enríquez",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Aymeric Laporte",
-            "passes": 151,
-            "chutes": 0,
-            "total": 151
-        },
-        {
-            "nome": "Brandon Aguilera Zamora",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Bryan Oviedo",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Bryan Ruiz González",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Carlos Manuel Martínez Castro",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Carlos Soler Barragán",
-            "passes": 44,
-            "chutes": 3,
-            "total": 47
-        },
-        {
-            "nome": "Celso Borges Mora",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "César Azpilicueta Tanco",
-            "passes": 106,
-            "chutes": 0,
-            "total": 106
-        },
-        {
-            "nome": "Daniel Olmo Carvajal",
-            "passes": 71,
-            "chutes": 4,
-            "total": 75
-        },
-        {
-            "nome": "Ferrán Torres García",
-            "passes": 25,
-            "chutes": 2,
-            "total": 27
-        },
-        {
-            "nome": "Francisco Javier Calvo Quesada",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Jewison Bennette",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Joel Nathaniel Campbell Samuels",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "Jordi Alba Ramos",
-            "passes": 119,
-            "chutes": 0,
-            "total": 119
-        },
-        {
-            "nome": "Jorge Resurrección Merodio",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Kendall Jamaal Waston Manley",
-            "passes": 14,
-            "chutes": 0,
-            "total": 14
-        },
-        {
-            "nome": "Keylor Navas Gamboa",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Keysher Fuller Spence",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Marco Asensio Willemsen",
-            "passes": 40,
-            "chutes": 5,
-            "total": 45
-        },
-        {
-            "nome": "Nicholas Williams Arthuer",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Pablo Martín Páez Gavira",
-            "passes": 73,
-            "chutes": 1,
-            "total": 74
-        },
-        {
-            "nome": "Pedro González López",
-            "passes": 87,
-            "chutes": 0,
-            "total": 87
-        },
-        {
-            "nome": "Rodrigo Hernández Cascante",
-            "passes": 142,
-            "chutes": 0,
-            "total": 142
-        },
-        {
-            "nome": "Ronald Alberto Matarrita Ulate",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Sergio Busquets i Burgos",
-            "passes": 96,
-            "chutes": 0,
-            "total": 96
-        },
-        {
-            "nome": "Unai Simón Mendibil",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Yeltsin Ignacio Tejeda Valverde",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        },
-        {
-            "nome": "Álvaro Borja Morata Martín",
-            "passes": 9,
-            "chutes": 2,
-            "total": 11
-        },
-        {
-            "nome": "Óscar Esau Duarte Gaitán",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        }
-    ]
+    "tabela_stats": []
 }

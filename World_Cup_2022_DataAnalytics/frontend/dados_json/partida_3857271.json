@@ -15819,24 +15819,24 @@
             "is_goal": false
         },
         {
-            "left": 47.97,
-            "bottom": 90.62,
+            "left": 48.24,
+            "bottom": 90.67,
             "jogador": "Jude Bellingham",
             "tipo": "Shot",
             "time": "England",
             "is_goal": true
         },
         {
-            "left": 48.8,
-            "bottom": 83.26,
+            "left": 47.49,
+            "bottom": 83.85,
             "jogador": "Bukayo Saka",
             "tipo": "Shot",
             "time": "England",
             "is_goal": true
         },
         {
-            "left": 53.35,
-            "bottom": 88.79,
+            "left": 53.05,
+            "bottom": 89.06,
             "jogador": "Raheem Sterling",
             "tipo": "Shot",
             "time": "England",
@@ -15875,16 +15875,16 @@
             "is_goal": false
         },
         {
-            "left": 56.25,
-            "bottom": 85.04,
+            "left": 56.98,
+            "bottom": 85.65,
             "jogador": "Bukayo Saka",
             "tipo": "Shot",
             "time": "England",
             "is_goal": true
         },
         {
-            "left": 59.64,
-            "bottom": 89.05,
+            "left": 58.78,
+            "bottom": 87.31,
             "jogador": "Mehdi Taremi",
             "tipo": "Shot",
             "time": "Iran",
@@ -15907,8 +15907,8 @@
             "is_goal": false
         },
         {
-            "left": 59.76,
-            "bottom": 88.19,
+            "left": 59.68,
+            "bottom": 88.64,
             "jogador": "Marcus Rashford",
             "tipo": "Shot",
             "time": "England",
@@ -15931,8 +15931,8 @@
             "is_goal": false
         },
         {
-            "left": 49.17,
-            "bottom": 89.25,
+            "left": 49.97,
+            "bottom": 89.37,
             "jogador": "Jack Grealish",
             "tipo": "Shot",
             "time": "England",
@@ -15947,8 +15947,8 @@
             "is_goal": false
         },
         {
-            "left": 50.04,
-            "bottom": 87.79,
+            "left": 50.47,
+            "bottom": 86.59,
             "jogador": "Mehdi Taremi",
             "tipo": "Shot",
             "time": "Iran",
@@ -15958,57 +15958,57 @@
     "scatter_data": [
         {
             "x": 0.85,
-            "y": 0.95,
+            "y": 0.66,
             "jogador": "Alireza Jahanbakhsh"
         },
         {
             "x": 2.16,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Morteza Pouraliganji"
         },
         {
             "x": 2.31,
-            "y": 2.63,
+            "y": 1.36,
             "jogador": "Mehdi Taremi"
         },
         {
             "x": 8.35,
-            "y": 0.89,
+            "y": 0.57,
             "jogador": "Kieran Trippier"
         },
         {
             "x": 11.16,
-            "y": 0.15,
+            "y": 0.03,
             "jogador": "John Stones"
         },
         {
             "x": 10.71,
-            "y": 0.78,
+            "y": 0.79,
             "jogador": "Luke Shaw"
         },
         {
             "x": 6.64,
-            "y": 1.91,
+            "y": 1.36,
             "jogador": "Harry Maguire"
         },
         {
             "x": 9.1,
-            "y": 1.01,
+            "y": 0.68,
             "jogador": "Jude Bellingham"
         },
         {
             "x": 8.35,
-            "y": 0.07,
+            "y": 0.08,
             "jogador": "Declan Rice"
         },
         {
             "x": 3.52,
-            "y": 0.96,
+            "y": 0.68,
             "jogador": "Mason Mount"
         },
         {
             "x": 3.22,
-            "y": 2.8,
+            "y": 1.98,
             "jogador": "Bukayo Saka"
         },
         {
@@ -16018,12 +16018,12 @@
         },
         {
             "x": 3.07,
-            "y": 0.96,
+            "y": 0.62,
             "jogador": "Raheem Sterling"
         },
         {
             "x": 1.66,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Seyed Majid Hosseini"
         },
         {
@@ -16033,72 +16033,72 @@
         },
         {
             "x": 2.31,
-            "y": 0.11,
+            "y": 0.01,
             "jogador": "Jordan Pickford"
         },
         {
             "x": 2.51,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Ehsan Hajsafi"
         },
         {
             "x": 1.21,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Milad Mohammadi"
         },
         {
             "x": 1.66,
-            "y": 0.91,
+            "y": 0.76,
             "jogador": "Ahmad Nourollahi"
         },
         {
             "x": 2.41,
-            "y": 0.03,
+            "y": 0.04,
             "jogador": "Sadegh Moharrami"
         },
         {
             "x": 1.66,
-            "y": 0.15,
+            "y": 0.01,
             "jogador": "Seyed Hossein Hosseini"
         },
         {
             "x": 0.96,
-            "y": 0.74,
+            "y": 0.34,
             "jogador": "Saeid Ezatolahi Afagh"
         },
         {
             "x": 0.9,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Mohammad Hossein Kanani Zadegan"
         },
         {
             "x": 1.76,
-            "y": 0.01,
+            "y": 0.13,
             "jogador": "Ali Gholizadeh"
         },
         {
             "x": 1.11,
-            "y": 0.95,
+            "y": 0.6,
             "jogador": "Mehdi Torabi"
         },
         {
             "x": 2.61,
-            "y": 0.1,
+            "y": 0.01,
             "jogador": "Eric Dier"
         },
         {
             "x": 1.91,
-            "y": 0.03,
+            "y": 0.02,
             "jogador": "Philip Foden"
         },
         {
             "x": 1.86,
-            "y": 0.9,
+            "y": 0.19,
             "jogador": "Jack Grealish"
         },
         {
             "x": 2.21,
-            "y": 1.81,
+            "y": 1.08,
             "jogador": "Marcus Rashford"
         }
     ],
@@ -16137,204 +16137,5 @@
         "Seyed Hossein Hosseini",
         "Seyed Majid Hosseini"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Ahmad Nourollahi",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Ali Gholizadeh",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "Ali Karimi",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Alireza Jahanbakhsh",
-            "passes": 8,
-            "chutes": 1,
-            "total": 9
-        },
-        {
-            "nome": "Alireza Safar Beiranvand",
-            "passes": 3,
-            "chutes": 0,
-            "total": 3
-        },
-        {
-            "nome": "Bukayo Saka",
-            "passes": 29,
-            "chutes": 3,
-            "total": 32
-        },
-        {
-            "nome": "Callum Wilson",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Declan Rice",
-            "passes": 97,
-            "chutes": 0,
-            "total": 97
-        },
-        {
-            "nome": "Ehsan Hajsafi",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Eric Dier",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Harry Kane",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Harry Maguire",
-            "passes": 73,
-            "chutes": 2,
-            "total": 75
-        },
-        {
-            "nome": "Jack Grealish",
-            "passes": 19,
-            "chutes": 1,
-            "total": 20
-        },
-        {
-            "nome": "John Stones",
-            "passes": 119,
-            "chutes": 0,
-            "total": 119
-        },
-        {
-            "nome": "Jordan Pickford",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Jude Bellingham",
-            "passes": 102,
-            "chutes": 1,
-            "total": 103
-        },
-        {
-            "nome": "Kieran Trippier",
-            "passes": 104,
-            "chutes": 1,
-            "total": 105
-        },
-        {
-            "nome": "Luke Shaw",
-            "passes": 119,
-            "chutes": 1,
-            "total": 120
-        },
-        {
-            "nome": "Marcus Rashford",
-            "passes": 19,
-            "chutes": 2,
-            "total": 21
-        },
-        {
-            "nome": "Mason Mount",
-            "passes": 35,
-            "chutes": 1,
-            "total": 36
-        },
-        {
-            "nome": "Mehdi Taremi",
-            "passes": 21,
-            "chutes": 3,
-            "total": 24
-        },
-        {
-            "nome": "Mehdi Torabi",
-            "passes": 10,
-            "chutes": 1,
-            "total": 11
-        },
-        {
-            "nome": "Milad Mohammadi",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Mohammad Hossein Kanani Zadegan",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Morteza Pouraliganji",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Philip Foden",
-            "passes": 21,
-            "chutes": 0,
-            "total": 21
-        },
-        {
-            "nome": "Raheem Sterling",
-            "passes": 29,
-            "chutes": 1,
-            "total": 30
-        },
-        {
-            "nome": "Roozbeh Cheshmi",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Sadegh Moharrami",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "Saeid Ezatolahi Afagh",
-            "passes": 9,
-            "chutes": 1,
-            "total": 10
-        },
-        {
-            "nome": "Sardar Azmoun",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Seyed Hossein Hosseini",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Seyed Majid Hosseini",
-            "passes": 19,
-            "chutes": 0,
-            "total": 19
-        }
-    ]
+    "tabela_stats": []
 }

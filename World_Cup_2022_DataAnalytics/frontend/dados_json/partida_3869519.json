@@ -16387,16 +16387,16 @@
             "is_goal": false
         },
         {
-            "left": 49.3,
-            "bottom": 86.09,
+            "left": 49.61,
+            "bottom": 86.93,
             "jogador": "Lionel Andrés Messi Cuccittini",
             "tipo": "Shot",
             "time": "Argentina",
             "is_goal": true
         },
         {
-            "left": 46.45,
-            "bottom": 89.78,
+            "left": 47.32,
+            "bottom": 89.64,
             "jogador": "Julián Álvarez",
             "tipo": "Shot",
             "time": "Argentina",
@@ -16467,8 +16467,8 @@
             "is_goal": false
         },
         {
-            "left": 55.4,
-            "bottom": 91.41,
+            "left": 55.24,
+            "bottom": 90.07,
             "jogador": "Julián Álvarez",
             "tipo": "Shot",
             "time": "Argentina",
@@ -16534,47 +16534,47 @@
     "scatter_data": [
         {
             "x": 3.44,
-            "y": 0.02,
+            "y": 0.03,
             "jogador": "Andrej Kramarić"
         },
         {
             "x": 6.84,
-            "y": 1.54,
+            "y": 1.45,
             "jogador": "Dejan Lovren"
         },
         {
             "x": 3.35,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Nicolás Hernán Otamendi"
         },
         {
             "x": 4.9,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Marcelo Brozović"
         },
         {
             "x": 5.48,
-            "y": 0.07,
+            "y": 0.01,
             "jogador": "Josip Juranović"
         },
         {
             "x": 3.25,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Borna Sosa"
         },
         {
             "x": 5.87,
-            "y": 0.1,
+            "y": 0.01,
             "jogador": "Joško Gvardiol"
         },
         {
             "x": 2.67,
-            "y": 0.15,
+            "y": 0.01,
             "jogador": "Dominik Livaković"
         },
         {
             "x": 3.49,
-            "y": 1.09,
+            "y": 1.28,
             "jogador": "Alexis Mac Allister"
         },
         {
@@ -16584,102 +16584,102 @@
         },
         {
             "x": 2.86,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Cristian Gabriel Romero"
         },
         {
             "x": 3.54,
-            "y": 0.86,
+            "y": 0.54,
             "jogador": "Rodrigo Javier De Paul"
         },
         {
             "x": 1.55,
-            "y": 0.09,
+            "y": 0.0,
             "jogador": "Damián Emiliano Martínez"
         },
         {
             "x": 3.06,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Nahuel Molina Lucero"
         },
         {
             "x": 3.35,
-            "y": 0.77,
+            "y": 0.42,
             "jogador": "Leandro Daniel Paredes"
         },
         {
             "x": 9.07,
-            "y": 0.06,
+            "y": 0.04,
             "jogador": "Mateo Kovačić"
         },
         {
             "x": 7.28,
-            "y": 0.9,
+            "y": 0.55,
             "jogador": "Luka Modrić"
         },
         {
             "x": 4.22,
-            "y": 0.91,
+            "y": 0.6,
             "jogador": "Enzo Fernandez"
         },
         {
             "x": 4.85,
-            "y": 1.81,
+            "y": 1.3,
             "jogador": "Lionel Andrés Messi Cuccittini"
         },
         {
             "x": 1.65,
-            "y": 1.08,
+            "y": 1.21,
             "jogador": "Julián Álvarez"
         },
         {
             "x": 4.9,
-            "y": 0.99,
+            "y": 1.04,
             "jogador": "Ivan Perišić"
         },
         {
             "x": 1.31,
-            "y": 0.88,
+            "y": 0.72,
             "jogador": "Mario Pašalić"
         },
         {
             "x": 1.7,
-            "y": 0.17,
+            "y": 0.22,
             "jogador": "Nikola Vlašić"
         },
         {
             "x": 1.26,
-            "y": 0.01,
+            "y": 0.04,
             "jogador": "Bruno Petković"
         },
         {
             "x": 1.7,
-            "y": 0.82,
+            "y": 1.42,
             "jogador": "Mislav Oršić"
         },
         {
             "x": 0.92,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Lisandro Martínez"
         },
         {
             "x": 0.73,
-            "y": 0.02,
+            "y": 0.12,
             "jogador": "Marko Livaja"
         },
         {
             "x": 0.82,
-            "y": 0.03,
+            "y": 0.13,
             "jogador": "Paulo Bruno Exequiel Dybala"
         },
         {
             "x": 1.26,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Exequiel Alejandro Palacios"
         },
         {
             "x": 1.55,
-            "y": 0.21,
+            "y": 0.27,
             "jogador": "Lovro Majer"
         }
     ],
@@ -16717,198 +16717,5 @@
         "Rodrigo Javier De Paul",
         "Ángel Martín Correa"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alexis Mac Allister",
-            "passes": 34,
-            "chutes": 2,
-            "total": 36
-        },
-        {
-            "nome": "Andrej Kramarić",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Borna Sosa",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Bruno Petković",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Cristian Gabriel Romero",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Damián Emiliano Martínez",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "Dejan Lovren",
-            "passes": 74,
-            "chutes": 3,
-            "total": 77
-        },
-        {
-            "nome": "Dominik Livaković",
-            "passes": 32,
-            "chutes": 0,
-            "total": 32
-        },
-        {
-            "nome": "Enzo Fernandez",
-            "passes": 47,
-            "chutes": 1,
-            "total": 48
-        },
-        {
-            "nome": "Exequiel Alejandro Palacios",
-            "passes": 15,
-            "chutes": 0,
-            "total": 15
-        },
-        {
-            "nome": "Ivan Perišić",
-            "passes": 58,
-            "chutes": 3,
-            "total": 61
-        },
-        {
-            "nome": "Josip Juranović",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Joško Gvardiol",
-            "passes": 65,
-            "chutes": 0,
-            "total": 65
-        },
-        {
-            "nome": "Juan Marcos Foyth",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Julián Álvarez",
-            "passes": 18,
-            "chutes": 2,
-            "total": 20
-        },
-        {
-            "nome": "Leandro Daniel Paredes",
-            "passes": 39,
-            "chutes": 1,
-            "total": 40
-        },
-        {
-            "nome": "Lionel Andrés Messi Cuccittini",
-            "passes": 41,
-            "chutes": 2,
-            "total": 43
-        },
-        {
-            "nome": "Lisandro Martínez",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Lovro Majer",
-            "passes": 14,
-            "chutes": 1,
-            "total": 15
-        },
-        {
-            "nome": "Luka Modrić",
-            "passes": 77,
-            "chutes": 1,
-            "total": 78
-        },
-        {
-            "nome": "Marcelo Brozović",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Mario Pašalić",
-            "passes": 12,
-            "chutes": 1,
-            "total": 13
-        },
-        {
-            "nome": "Marko Livaja",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Mateo Kovačić",
-            "passes": 89,
-            "chutes": 0,
-            "total": 89
-        },
-        {
-            "nome": "Mislav Oršić",
-            "passes": 15,
-            "chutes": 2,
-            "total": 17
-        },
-        {
-            "nome": "Nahuel Molina Lucero",
-            "passes": 40,
-            "chutes": 0,
-            "total": 40
-        },
-        {
-            "nome": "Nicolás Alejandro Tagliafico",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Nicolás Hernán Otamendi",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Nikola Vlašić",
-            "passes": 13,
-            "chutes": 1,
-            "total": 14
-        },
-        {
-            "nome": "Paulo Bruno Exequiel Dybala",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "Rodrigo Javier De Paul",
-            "passes": 42,
-            "chutes": 1,
-            "total": 43
-        },
-        {
-            "nome": "Ángel Martín Correa",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        }
-    ]
+    "tabela_stats": []
 }

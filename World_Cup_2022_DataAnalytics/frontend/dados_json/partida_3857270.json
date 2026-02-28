@@ -15019,8 +15019,8 @@
             "is_goal": false
         },
         {
-            "left": 20.47,
-            "bottom": 81.06,
+            "left": 20.77,
+            "bottom": 80.97,
             "jogador": "Bruno Miguel Borges Fernandes",
             "tipo": "Shot",
             "time": "Portugal",
@@ -15099,8 +15099,8 @@
             "is_goal": false
         },
         {
-            "left": 49.48,
-            "bottom": 86.6,
+            "left": 50.05,
+            "bottom": 87.4,
             "jogador": "Bruno Miguel Borges Fernandes",
             "tipo": "Shot",
             "time": "Portugal",
@@ -15286,7 +15286,7 @@
     "scatter_data": [
         {
             "x": 1.84,
-            "y": 0.96,
+            "y": 0.57,
             "jogador": "Darwin Gabriel Núñez Ribeiro"
         },
         {
@@ -15296,37 +15296,37 @@
         },
         {
             "x": 4.46,
-            "y": 0.59,
+            "y": 0.66,
             "jogador": "José María Giménez de Vargas"
         },
         {
             "x": 6.25,
-            "y": 3.11,
+            "y": 2.48,
             "jogador": "Bruno Miguel Borges Fernandes"
         },
         {
             "x": 3.94,
-            "y": 2.51,
+            "y": 1.92,
             "jogador": "João Félix Sequeira"
         },
         {
             "x": 3.67,
-            "y": 2.56,
+            "y": 1.87,
             "jogador": "Cristiano Ronaldo dos Santos Aveiro"
         },
         {
             "x": 6.14,
-            "y": 0.43,
+            "y": 0.4,
             "jogador": "William Silva de Carvalho"
         },
         {
             "x": 3.36,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Nuno Mendes"
         },
         {
             "x": 5.67,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Rúben Santos Gato Alves Dias"
         },
         {
@@ -15336,42 +15336,42 @@
         },
         {
             "x": 5.62,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Kléper Laveran Lima Ferreira"
         },
         {
             "x": 6.4,
-            "y": 0.03,
+            "y": 0.07,
             "jogador": "Bernardo Mota Veiga de Carvalho e Silva"
         },
         {
             "x": 1.89,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Diego Roberto Godín Leal"
         },
         {
             "x": 1.84,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Sergio Rochet Álvarez"
         },
         {
             "x": 5.88,
-            "y": 0.03,
+            "y": 0.08,
             "jogador": "João Pedro Cavaco Cancelo"
         },
         {
             "x": 4.93,
-            "y": 0.96,
+            "y": 0.54,
             "jogador": "Rúben Diogo Da Silva Neves"
         },
         {
             "x": 3.04,
-            "y": 1.33,
+            "y": 0.88,
             "jogador": "Mathías Olivera Miramontes"
         },
         {
             "x": 1.78,
-            "y": 0.92,
+            "y": 0.61,
             "jogador": "Edinson Roberto Cavani Gómez"
         },
         {
@@ -15381,12 +15381,12 @@
         },
         {
             "x": 4.3,
-            "y": 0.42,
+            "y": 0.11,
             "jogador": "Federico Santiago Valverde Dipetta"
         },
         {
             "x": 5.98,
-            "y": 1.78,
+            "y": 1.31,
             "jogador": "Rodrigo Bentancur Colmán"
         },
         {
@@ -15396,12 +15396,12 @@
         },
         {
             "x": 2.52,
-            "y": 0.01,
+            "y": 0.19,
             "jogador": "Raphaël Adelino José Guerreiro"
         },
         {
             "x": 2.15,
-            "y": 0.86,
+            "y": 0.68,
             "jogador": "Giorgian Daniel De Arrascaeta Benedetti"
         },
         {
@@ -15411,22 +15411,22 @@
         },
         {
             "x": 1.26,
-            "y": 0.69,
+            "y": 0.22,
             "jogador": "Rafael Alexandre Conceição Leão"
         },
         {
             "x": 0.68,
-            "y": 0.86,
+            "y": 0.72,
             "jogador": "Luis Alberto Suárez Díaz"
         },
         {
             "x": 1.0,
-            "y": 0.0,
+            "y": 0.02,
             "jogador": "João Maria Lobo Alves Palhinha Gonçalves"
         },
         {
             "x": 1.05,
-            "y": 0.0,
+            "y": 0.13,
             "jogador": "Matías Nicolás Viña Susperreguy"
         }
     ],
@@ -15464,198 +15464,5 @@
         "Sergio Rochet Álvarez",
         "William Silva de Carvalho"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Bernardo Mota Veiga de Carvalho e Silva",
-            "passes": 65,
-            "chutes": 0,
-            "total": 65
-        },
-        {
-            "nome": "Bruno Miguel Borges Fernandes",
-            "passes": 59,
-            "chutes": 6,
-            "total": 65
-        },
-        {
-            "nome": "Cristiano Ronaldo dos Santos Aveiro",
-            "passes": 40,
-            "chutes": 3,
-            "total": 43
-        },
-        {
-            "nome": "Darwin Gabriel Núñez Ribeiro",
-            "passes": 17,
-            "chutes": 1,
-            "total": 18
-        },
-        {
-            "nome": "Diego Roberto Godín Leal",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Diogo Meireles Costa",
-            "passes": 39,
-            "chutes": 0,
-            "total": 39
-        },
-        {
-            "nome": "Edinson Roberto Cavani Gómez",
-            "passes": 20,
-            "chutes": 1,
-            "total": 21
-        },
-        {
-            "nome": "Facundo Pellistri Rebollo",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Federico Santiago Valverde Dipetta",
-            "passes": 49,
-            "chutes": 1,
-            "total": 50
-        },
-        {
-            "nome": "Giorgian Daniel De Arrascaeta Benedetti",
-            "passes": 25,
-            "chutes": 1,
-            "total": 26
-        },
-        {
-            "nome": "Gonçalo Matias Ramos",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Guillermo Varela Olivera",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "José María Giménez de Vargas",
-            "passes": 51,
-            "chutes": 1,
-            "total": 52
-        },
-        {
-            "nome": "João Félix Sequeira",
-            "passes": 36,
-            "chutes": 3,
-            "total": 39
-        },
-        {
-            "nome": "João Maria Lobo Alves Palhinha Gonçalves",
-            "passes": 10,
-            "chutes": 0,
-            "total": 10
-        },
-        {
-            "nome": "João Pedro Cavaco Cancelo",
-            "passes": 60,
-            "chutes": 0,
-            "total": 60
-        },
-        {
-            "nome": "Kléper Laveran Lima Ferreira",
-            "passes": 60,
-            "chutes": 0,
-            "total": 60
-        },
-        {
-            "nome": "Luis Alberto Suárez Díaz",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Matheus Luiz Nunes",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Mathías Olivera Miramontes",
-            "passes": 33,
-            "chutes": 2,
-            "total": 35
-        },
-        {
-            "nome": "Matías Nicolás Viña Susperreguy",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Matías Vecino Falero",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Maximiliano Gómez González",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "Nuno Mendes",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        },
-        {
-            "nome": "Rafael Alexandre Conceição Leão",
-            "passes": 10,
-            "chutes": 1,
-            "total": 11
-        },
-        {
-            "nome": "Raphaël Adelino José Guerreiro",
-            "passes": 28,
-            "chutes": 0,
-            "total": 28
-        },
-        {
-            "nome": "Rodrigo Bentancur Colmán",
-            "passes": 61,
-            "chutes": 2,
-            "total": 63
-        },
-        {
-            "nome": "Rúben Diogo Da Silva Neves",
-            "passes": 52,
-            "chutes": 1,
-            "total": 53
-        },
-        {
-            "nome": "Rúben Santos Gato Alves Dias",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Sebastián Coates Nión",
-            "passes": 50,
-            "chutes": 0,
-            "total": 50
-        },
-        {
-            "nome": "Sergio Rochet Álvarez",
-            "passes": 26,
-            "chutes": 0,
-            "total": 26
-        },
-        {
-            "nome": "William Silva de Carvalho",
-            "passes": 63,
-            "chutes": 1,
-            "total": 64
-        }
-    ]
+    "tabela_stats": []
 }

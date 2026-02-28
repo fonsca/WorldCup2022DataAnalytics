@@ -22523,16 +22523,16 @@
             "is_goal": false
         },
         {
-            "left": 57.65,
-            "bottom": 93.37,
+            "left": 57.74,
+            "bottom": 93.1,
             "jogador": "Neymar da Silva Santos Junior",
             "tipo": "Shot",
             "time": "Brazil",
             "is_goal": true
         },
         {
-            "left": 48.29,
-            "bottom": 82.52,
+            "left": 48.61,
+            "bottom": 82.2,
             "jogador": "Bruno Petković",
             "tipo": "Shot",
             "time": "Croatia",
@@ -22558,67 +22558,67 @@
     "scatter_data": [
         {
             "x": 8.21,
-            "y": 0.03,
+            "y": 0.19,
             "jogador": "Luka Modrić"
         },
         {
             "x": 7.39,
-            "y": 0.94,
+            "y": 0.44,
             "jogador": "Marcelo Brozović"
         },
         {
             "x": 5.44,
-            "y": 0.01,
+            "y": 0.03,
             "jogador": "Dejan Lovren"
         },
         {
             "x": 5.26,
-            "y": 0.02,
+            "y": 0.04,
             "jogador": "Josip Juranović"
         },
         {
             "x": 6.57,
-            "y": 0.4,
+            "y": 0.32,
             "jogador": "Danilo Luiz da Silva"
         },
         {
             "x": 4.3,
-            "y": 0.41,
+            "y": 1.59,
             "jogador": "Carlos Henrique Casimiro"
         },
         {
             "x": 5.9,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Thiago Emiliano da Silva"
         },
         {
             "x": 6.15,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Marcos Aoás Corrêa"
         },
         {
             "x": 5.51,
-            "y": 1.85,
+            "y": 1.18,
             "jogador": "Éder Gabriel Militão"
         },
         {
             "x": 5.29,
-            "y": 1.02,
+            "y": 3.06,
             "jogador": "Neymar da Silva Santos Junior"
         },
         {
             "x": 1.78,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Raphael Dias Belloli"
         },
         {
             "x": 4.05,
-            "y": 0.06,
+            "y": 1.26,
             "jogador": "Lucas Tolentino Coelho de Lima"
         },
         {
             "x": 0.89,
-            "y": 0.1,
+            "y": 0.53,
             "jogador": "Richarlison de Andrade"
         },
         {
@@ -22628,17 +22628,17 @@
         },
         {
             "x": 5.22,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Mateo Kovačić"
         },
         {
             "x": 4.26,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Joško Gvardiol"
         },
         {
             "x": 1.63,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Alisson Ramsés Becker"
         },
         {
@@ -22648,52 +22648,52 @@
         },
         {
             "x": 2.03,
-            "y": 0.1,
+            "y": 1.36,
             "jogador": "Andrej Kramarić"
         },
         {
             "x": 1.35,
-            "y": 0.03,
+            "y": 1.4,
             "jogador": "Vinícius José Paixão de Oliveira Júnior"
         },
         {
             "x": 2.31,
-            "y": 0.0,
+            "y": 0.03,
             "jogador": "Mario Pašalić"
         },
         {
             "x": 2.17,
-            "y": 0.14,
+            "y": 1.83,
             "jogador": "Ivan Perišić"
         },
         {
             "x": 2.74,
-            "y": 0.93,
+            "y": 0.53,
             "jogador": "Antony Matheus dos Santos"
         },
         {
             "x": 2.49,
-            "y": 0.02,
+            "y": 0.21,
             "jogador": "Rodrygo Silva de Goes"
         },
         {
             "x": 0.82,
-            "y": 0.76,
+            "y": 0.44,
             "jogador": "Bruno Petković"
         },
         {
             "x": 1.03,
-            "y": 0.68,
+            "y": 0.3,
             "jogador": "Nikola Vlašić"
         },
         {
             "x": 0.6,
-            "y": 1.78,
+            "y": 0.69,
             "jogador": "Pedro Guilherme Abreu dos Santos"
         },
         {
             "x": 1.28,
-            "y": 0.72,
+            "y": 0.08,
             "jogador": "Lovro Majer"
         }
     ],
@@ -22730,192 +22730,5 @@
         "Vinícius José Paixão de Oliveira Júnior",
         "Éder Gabriel Militão"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alex Sandro Lobo Silva",
-            "passes": 5,
-            "chutes": 0,
-            "total": 5
-        },
-        {
-            "nome": "Alisson Ramsés Becker",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Andrej Kramarić",
-            "passes": 25,
-            "chutes": 2,
-            "total": 27
-        },
-        {
-            "nome": "Antony Matheus dos Santos",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Borna Sosa",
-            "passes": 40,
-            "chutes": 0,
-            "total": 40
-        },
-        {
-            "nome": "Bruno Petković",
-            "passes": 6,
-            "chutes": 1,
-            "total": 7
-        },
-        {
-            "nome": "Carlos Henrique Casimiro",
-            "passes": 69,
-            "chutes": 3,
-            "total": 72
-        },
-        {
-            "nome": "Danilo Luiz da Silva",
-            "passes": 109,
-            "chutes": 1,
-            "total": 110
-        },
-        {
-            "nome": "Dejan Lovren",
-            "passes": 89,
-            "chutes": 0,
-            "total": 89
-        },
-        {
-            "nome": "Dominik Livaković",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Frederico Rodrigues Santos",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Ivan Perišić",
-            "passes": 34,
-            "chutes": 3,
-            "total": 37
-        },
-        {
-            "nome": "Josip Juranović",
-            "passes": 79,
-            "chutes": 0,
-            "total": 79
-        },
-        {
-            "nome": "Joško Gvardiol",
-            "passes": 63,
-            "chutes": 0,
-            "total": 63
-        },
-        {
-            "nome": "Lovro Majer",
-            "passes": 17,
-            "chutes": 1,
-            "total": 18
-        },
-        {
-            "nome": "Lucas Tolentino Coelho de Lima",
-            "passes": 64,
-            "chutes": 2,
-            "total": 66
-        },
-        {
-            "nome": "Luka Modrić",
-            "passes": 117,
-            "chutes": 0,
-            "total": 117
-        },
-        {
-            "nome": "Marcelo Brozović",
-            "passes": 109,
-            "chutes": 1,
-            "total": 110
-        },
-        {
-            "nome": "Marcos Aoás Corrêa",
-            "passes": 95,
-            "chutes": 0,
-            "total": 95
-        },
-        {
-            "nome": "Mario Pašalić",
-            "passes": 31,
-            "chutes": 0,
-            "total": 31
-        },
-        {
-            "nome": "Mateo Kovačić",
-            "passes": 75,
-            "chutes": 0,
-            "total": 75
-        },
-        {
-            "nome": "Mislav Oršić",
-            "passes": 1,
-            "chutes": 0,
-            "total": 1
-        },
-        {
-            "nome": "Neymar da Silva Santos Junior",
-            "passes": 64,
-            "chutes": 5,
-            "total": 69
-        },
-        {
-            "nome": "Nikola Vlašić",
-            "passes": 10,
-            "chutes": 1,
-            "total": 11
-        },
-        {
-            "nome": "Pedro Guilherme Abreu dos Santos",
-            "passes": 7,
-            "chutes": 2,
-            "total": 9
-        },
-        {
-            "nome": "Raphael Dias Belloli",
-            "passes": 24,
-            "chutes": 0,
-            "total": 24
-        },
-        {
-            "nome": "Richarlison de Andrade",
-            "passes": 12,
-            "chutes": 1,
-            "total": 13
-        },
-        {
-            "nome": "Rodrygo Silva de Goes",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Thiago Emiliano da Silva",
-            "passes": 96,
-            "chutes": 0,
-            "total": 96
-        },
-        {
-            "nome": "Vinícius José Paixão de Oliveira Júnior",
-            "passes": 13,
-            "chutes": 2,
-            "total": 15
-        },
-        {
-            "nome": "Éder Gabriel Militão",
-            "passes": 87,
-            "chutes": 3,
-            "total": 90
-        }
-    ]
+    "tabela_stats": []
 }

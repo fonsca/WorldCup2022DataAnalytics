@@ -19683,8 +19683,8 @@
             "is_goal": false
         },
         {
-            "left": 48.5,
-            "bottom": 93.04,
+            "left": 48.36,
+            "bottom": 92.1,
             "jogador": "Álvaro Borja Morata Martín",
             "tipo": "Shot",
             "time": "Spain",
@@ -19715,16 +19715,16 @@
             "is_goal": false
         },
         {
-            "left": 67.5,
-            "bottom": 81.4,
+            "left": 68.92,
+            "bottom": 80.51,
             "jogador": "Ritsu Doan",
             "tipo": "Shot",
             "time": "Japan",
             "is_goal": true
         },
         {
-            "left": 49.64,
-            "bottom": 94.12,
+            "left": 50.59,
+            "bottom": 95.81,
             "jogador": "Ao Tanaka",
             "tipo": "Shot",
             "time": "Japan",
@@ -19806,62 +19806,62 @@
     "scatter_data": [
         {
             "x": 3.56,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Pablo Martín Páez Gavira"
         },
         {
             "x": 14.53,
-            "y": 0.1,
+            "y": 0.04,
             "jogador": "Pau Francisco Torres"
         },
         {
             "x": 5.59,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "César Azpilicueta Tanco"
         },
         {
             "x": 15.79,
-            "y": 0.1,
+            "y": 0.05,
             "jogador": "Rodrigo Hernández Cascante"
         },
         {
             "x": 10.24,
-            "y": 0.06,
+            "y": 0.05,
             "jogador": "Pedro González López"
         },
         {
             "x": 5.14,
-            "y": 0.72,
+            "y": 0.84,
             "jogador": "Sergio Busquets i Burgos"
         },
         {
             "x": 1.05,
-            "y": 2.33,
+            "y": 2.01,
             "jogador": "Álvaro Borja Morata Martín"
         },
         {
             "x": 4.74,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Alejandro Balde Martínez"
         },
         {
             "x": 2.27,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Nicholas Williams Arthuer"
         },
         {
             "x": 1.82,
-            "y": 0.81,
+            "y": 0.76,
             "jogador": "Junya Ito"
         },
         {
             "x": 0.73,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Takefusa Kubo"
         },
         {
             "x": 4.13,
-            "y": 0.97,
+            "y": 0.99,
             "jogador": "Daniel Olmo Carvajal"
         },
         {
@@ -19871,52 +19871,52 @@
         },
         {
             "x": 1.13,
-            "y": 0.8,
+            "y": 0.69,
             "jogador": "Daichi Kamada"
         },
         {
             "x": 1.9,
-            "y": 0.15,
+            "y": 0.38,
             "jogador": "Ao Tanaka"
         },
         {
             "x": 2.43,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Unai Simón Mendibil"
         },
         {
             "x": 1.21,
-            "y": 0.14,
+            "y": 0.6,
             "jogador": "Ko Itakura"
         },
         {
             "x": 1.34,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Maya Yoshida"
         },
         {
             "x": 0.77,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Yuto Nagatomo"
         },
         {
             "x": 1.94,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Shogo Taniguchi"
         },
         {
             "x": 1.26,
-            "y": 0.02,
+            "y": 0.0,
             "jogador": "Shūichi Gonda"
         },
         {
             "x": 0.93,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Kaoru Mitoma"
         },
         {
             "x": 0.61,
-            "y": 0.55,
+            "y": 0.02,
             "jogador": "Ritsu Doan"
         },
         {
@@ -19926,22 +19926,22 @@
         },
         {
             "x": 1.38,
-            "y": 0.01,
+            "y": 0.02,
             "jogador": "Ferrán Torres García"
         },
         {
             "x": 2.35,
-            "y": 0.24,
+            "y": 0.73,
             "jogador": "Marco Asensio Willemsen"
         },
         {
             "x": 3.97,
-            "y": 0.15,
+            "y": 0.23,
             "jogador": "Jordi Alba Ramos"
         },
         {
             "x": 1.5,
-            "y": 0.01,
+            "y": 0.03,
             "jogador": "Anssumane Fati"
         }
     ],
@@ -19979,198 +19979,5 @@
         "Yuto Nagatomo",
         "Álvaro Borja Morata Martín"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Alejandro Balde Martínez",
-            "passes": 63,
-            "chutes": 0,
-            "total": 63
-        },
-        {
-            "nome": "Anssumane Fati",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Ao Tanaka",
-            "passes": 29,
-            "chutes": 1,
-            "total": 30
-        },
-        {
-            "nome": "César Azpilicueta Tanco",
-            "passes": 73,
-            "chutes": 0,
-            "total": 73
-        },
-        {
-            "nome": "Daichi Kamada",
-            "passes": 13,
-            "chutes": 1,
-            "total": 14
-        },
-        {
-            "nome": "Daizen Maeda",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Daniel Carvajal Ramos",
-            "passes": 61,
-            "chutes": 0,
-            "total": 61
-        },
-        {
-            "nome": "Daniel Olmo Carvajal",
-            "passes": 47,
-            "chutes": 4,
-            "total": 51
-        },
-        {
-            "nome": "Ferrán Torres García",
-            "passes": 17,
-            "chutes": 0,
-            "total": 17
-        },
-        {
-            "nome": "Hidemasa Morita",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "Jordi Alba Ramos",
-            "passes": 56,
-            "chutes": 1,
-            "total": 57
-        },
-        {
-            "nome": "Junya Ito",
-            "passes": 24,
-            "chutes": 1,
-            "total": 25
-        },
-        {
-            "nome": "Kaoru Mitoma",
-            "passes": 11,
-            "chutes": 0,
-            "total": 11
-        },
-        {
-            "nome": "Ko Itakura",
-            "passes": 18,
-            "chutes": 1,
-            "total": 19
-        },
-        {
-            "nome": "Marco Asensio Willemsen",
-            "passes": 29,
-            "chutes": 3,
-            "total": 32
-        },
-        {
-            "nome": "Maya Yoshida",
-            "passes": 22,
-            "chutes": 0,
-            "total": 22
-        },
-        {
-            "nome": "Nicholas Williams Arthuer",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Pablo Martín Páez Gavira",
-            "passes": 45,
-            "chutes": 0,
-            "total": 45
-        },
-        {
-            "nome": "Pau Francisco Torres",
-            "passes": 190,
-            "chutes": 0,
-            "total": 190
-        },
-        {
-            "nome": "Pedro González López",
-            "passes": 129,
-            "chutes": 0,
-            "total": 129
-        },
-        {
-            "nome": "Ritsu Doan",
-            "passes": 7,
-            "chutes": 1,
-            "total": 8
-        },
-        {
-            "nome": "Rodrigo Hernández Cascante",
-            "passes": 212,
-            "chutes": 0,
-            "total": 212
-        },
-        {
-            "nome": "Sergio Busquets i Burgos",
-            "passes": 74,
-            "chutes": 1,
-            "total": 75
-        },
-        {
-            "nome": "Shogo Taniguchi",
-            "passes": 30,
-            "chutes": 0,
-            "total": 30
-        },
-        {
-            "nome": "Shūichi Gonda",
-            "passes": 23,
-            "chutes": 0,
-            "total": 23
-        },
-        {
-            "nome": "Takefusa Kubo",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Takehiro Tomiyasu",
-            "passes": 4,
-            "chutes": 0,
-            "total": 4
-        },
-        {
-            "nome": "Takuma Asano",
-            "passes": 6,
-            "chutes": 1,
-            "total": 7
-        },
-        {
-            "nome": "Unai Simón Mendibil",
-            "passes": 37,
-            "chutes": 0,
-            "total": 37
-        },
-        {
-            "nome": "Wataru Endo",
-            "passes": 2,
-            "chutes": 0,
-            "total": 2
-        },
-        {
-            "nome": "Yuto Nagatomo",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "Álvaro Borja Morata Martín",
-            "passes": 15,
-            "chutes": 3,
-            "total": 18
-        }
-    ]
+    "tabela_stats": []
 }

@@ -13262,47 +13262,47 @@
     "scatter_data": [
         {
             "x": 1.57,
-            "y": 0.0,
+            "y": 0.61,
             "jogador": "Henry Josué Martín Mex"
         },
         {
             "x": 3.57,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Héctor Miguel Herrera López"
         },
         {
             "x": 6.42,
-            "y": 0.0,
+            "y": 0.57,
             "jogador": "Luis Gerardo Chávez Magallón"
         },
         {
             "x": 5.51,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Jesús Daniel Gallardo Vasconcelos"
         },
         {
             "x": 9.2,
-            "y": 0.0,
+            "y": 0.64,
             "jogador": "Héctor Alfredo Moreno Herrera"
         },
         {
             "x": 3.15,
-            "y": 0.0,
+            "y": 0.16,
             "jogador": "Grzegorz Krychowiak"
         },
         {
             "x": 2.91,
-            "y": 0.0,
+            "y": 1.3,
             "jogador": "Robert Lewandowski"
         },
         {
             "x": 3.27,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Francisco Guillermo Ochoa Magaña"
         },
         {
             "x": 3.39,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Matty Cash"
         },
         {
@@ -13317,37 +13317,37 @@
         },
         {
             "x": 4.6,
-            "y": 0.0,
+            "y": 2.76,
             "jogador": "Ernesto Alexis Vega Rojas"
         },
         {
             "x": 6.11,
-            "y": 0.0,
+            "y": 0.03,
             "jogador": "Edson Omar Álvarez Velázquez"
         },
         {
             "x": 7.51,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "César Jasib Montes Castro"
         },
         {
             "x": 5.45,
-            "y": 0.0,
+            "y": 0.55,
             "jogador": "Jorge Eduardo Sánchez Ramos"
         },
         {
             "x": 3.63,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Bartosz Bereszyński"
         },
         {
             "x": 3.75,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Wojciech Szczęsny"
         },
         {
             "x": 4.84,
-            "y": 0.0,
+            "y": 0.52,
             "jogador": "Jakub Piotr Kiwior"
         },
         {
@@ -13357,12 +13357,12 @@
         },
         {
             "x": 4.48,
-            "y": 0.0,
+            "y": 0.61,
             "jogador": "Hirving Rodrigo Lozano Bahena"
         },
         {
             "x": 2.12,
-            "y": 0.0,
+            "y": 0.85,
             "jogador": "Jakub Kamiński"
         },
         {
@@ -13372,17 +13372,17 @@
         },
         {
             "x": 2.3,
-            "y": 0.0,
+            "y": 0.03,
             "jogador": "Krystian Bielik"
         },
         {
             "x": 2.54,
-            "y": 0.0,
+            "y": 0.07,
             "jogador": "Carlos Alberto Rodríguez Gómez"
         },
         {
             "x": 1.27,
-            "y": 0.0,
+            "y": 0.01,
             "jogador": "Przemysław Frankowski"
         },
         {
@@ -13392,12 +13392,12 @@
         },
         {
             "x": 0.67,
-            "y": 0.0,
+            "y": 0.16,
             "jogador": "Carlos Uriel Antuna Romero"
         },
         {
             "x": 0.97,
-            "y": 0.0,
+            "y": 0.09,
             "jogador": "Arkadiusz Milik"
         }
     ],
@@ -13431,174 +13431,5 @@
         "Sebastian Szymański",
         "Wojciech Szczęsny"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Arkadiusz Milik",
-            "passes": 7,
-            "chutes": 0,
-            "total": 7
-        },
-        {
-            "nome": "Bartosz Bereszyński",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Carlos Alberto Rodríguez Gómez",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Carlos Uriel Antuna Romero",
-            "passes": 4,
-            "chutes": 1,
-            "total": 5
-        },
-        {
-            "nome": "César Jasib Montes Castro",
-            "passes": 67,
-            "chutes": 0,
-            "total": 67
-        },
-        {
-            "nome": "Edson Omar Álvarez Velázquez",
-            "passes": 58,
-            "chutes": 0,
-            "total": 58
-        },
-        {
-            "nome": "Ernesto Alexis Vega Rojas",
-            "passes": 32,
-            "chutes": 5,
-            "total": 37
-        },
-        {
-            "nome": "Francisco Guillermo Ochoa Magaña",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Grzegorz Krychowiak",
-            "passes": 30,
-            "chutes": 1,
-            "total": 31
-        },
-        {
-            "nome": "Henry Josué Martín Mex",
-            "passes": 12,
-            "chutes": 1,
-            "total": 13
-        },
-        {
-            "nome": "Hirving Rodrigo Lozano Bahena",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Héctor Alfredo Moreno Herrera",
-            "passes": 82,
-            "chutes": 1,
-            "total": 83
-        },
-        {
-            "nome": "Héctor Miguel Herrera López",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Jakub Kamiński",
-            "passes": 17,
-            "chutes": 2,
-            "total": 19
-        },
-        {
-            "nome": "Jakub Piotr Kiwior",
-            "passes": 48,
-            "chutes": 1,
-            "total": 49
-        },
-        {
-            "nome": "Jesús Daniel Gallardo Vasconcelos",
-            "passes": 53,
-            "chutes": 0,
-            "total": 53
-        },
-        {
-            "nome": "Jorge Eduardo Sánchez Ramos",
-            "passes": 52,
-            "chutes": 1,
-            "total": 53
-        },
-        {
-            "nome": "Kamil Glik",
-            "passes": 27,
-            "chutes": 0,
-            "total": 27
-        },
-        {
-            "nome": "Krystian Bielik",
-            "passes": 20,
-            "chutes": 0,
-            "total": 20
-        },
-        {
-            "nome": "Luis Gerardo Chávez Magallón",
-            "passes": 56,
-            "chutes": 1,
-            "total": 57
-        },
-        {
-            "nome": "Matty Cash",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Nicola Zalewski",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Piotr Zieliński",
-            "passes": 29,
-            "chutes": 0,
-            "total": 29
-        },
-        {
-            "nome": "Przemysław Frankowski",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Raúl Alonso Jiménez Rodríguez",
-            "passes": 9,
-            "chutes": 0,
-            "total": 9
-        },
-        {
-            "nome": "Robert Lewandowski",
-            "passes": 24,
-            "chutes": 2,
-            "total": 26
-        },
-        {
-            "nome": "Sebastian Szymański",
-            "passes": 25,
-            "chutes": 0,
-            "total": 25
-        },
-        {
-            "nome": "Wojciech Szczęsny",
-            "passes": 40,
-            "chutes": 0,
-            "total": 40
-        }
-    ]
+    "tabela_stats": []
 }

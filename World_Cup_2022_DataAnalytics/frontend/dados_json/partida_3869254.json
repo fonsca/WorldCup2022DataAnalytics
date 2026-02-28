@@ -14795,8 +14795,8 @@
             "is_goal": false
         },
         {
-            "left": 35.53,
-            "bottom": 90.1,
+            "left": 36.45,
+            "bottom": 89.16,
             "jogador": "Gonçalo Matias Ramos",
             "tipo": "Shot",
             "time": "Portugal",
@@ -14827,8 +14827,8 @@
             "is_goal": false
         },
         {
-            "left": 50.33,
-            "bottom": 92.11,
+            "left": 49.21,
+            "bottom": 92.14,
             "jogador": "Kléper Laveran Lima Ferreira",
             "tipo": "Shot",
             "time": "Portugal",
@@ -14875,8 +14875,8 @@
             "is_goal": false
         },
         {
-            "left": 55.08,
-            "bottom": 93.33,
+            "left": 54.68,
+            "bottom": 92.79,
             "jogador": "Gonçalo Matias Ramos",
             "tipo": "Shot",
             "time": "Portugal",
@@ -14899,16 +14899,16 @@
             "is_goal": false
         },
         {
-            "left": 41.89,
-            "bottom": 88.2,
+            "left": 41.62,
+            "bottom": 88.93,
             "jogador": "Raphaël Adelino José Guerreiro",
             "tipo": "Shot",
             "time": "Portugal",
             "is_goal": true
         },
         {
-            "left": 43.82,
-            "bottom": 95.58,
+            "left": 45.7,
+            "bottom": 94.81,
             "jogador": "Manuel Obafemi Akanji",
             "tipo": "Shot",
             "time": "Switzerland",
@@ -14923,8 +14923,8 @@
             "is_goal": false
         },
         {
-            "left": 57.18,
-            "bottom": 90.67,
+            "left": 56.04,
+            "bottom": 90.01,
             "jogador": "Gonçalo Matias Ramos",
             "tipo": "Shot",
             "time": "Portugal",
@@ -14971,8 +14971,8 @@
             "is_goal": false
         },
         {
-            "left": 29.14,
-            "bottom": 84.05,
+            "left": 29.16,
+            "bottom": 83.68,
             "jogador": "Rafael Alexandre Conceição Leão",
             "tipo": "Shot",
             "time": "Portugal",
@@ -14990,117 +14990,117 @@
     "scatter_data": [
         {
             "x": 2.25,
-            "y": 1.88,
+            "y": 1.4,
             "jogador": "Breel-Donald Embolo"
         },
         {
             "x": 6.16,
-            "y": 0.99,
+            "y": 0.6,
             "jogador": "Manuel Obafemi Akanji"
         },
         {
             "x": 6.05,
-            "y": 0.06,
+            "y": 0.01,
             "jogador": "Ricardo Iván Rodríguez Araya"
         },
         {
             "x": 5.89,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "William Silva de Carvalho"
         },
         {
             "x": 3.0,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "José Diogo Dalot Teixeira"
         },
         {
             "x": 3.64,
-            "y": 0.96,
+            "y": 0.64,
             "jogador": "João Félix Sequeira"
         },
         {
             "x": 4.44,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Bernardo Mota Veiga de Carvalho e Silva"
         },
         {
             "x": 3.75,
-            "y": 0.95,
+            "y": 0.66,
             "jogador": "Otávio Edmilson da Silva Monteiro"
         },
         {
             "x": 4.34,
-            "y": 0.82,
+            "y": 0.18,
             "jogador": "Rúben Santos Gato Alves Dias"
         },
         {
             "x": 5.35,
-            "y": 1.93,
+            "y": 1.25,
             "jogador": "Kléper Laveran Lima Ferreira"
         },
         {
             "x": 2.78,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Diogo Meireles Costa"
         },
         {
             "x": 4.01,
-            "y": 1.7,
+            "y": 1.36,
             "jogador": "Raphaël Adelino José Guerreiro"
         },
         {
             "x": 4.93,
-            "y": 0.05,
+            "y": 0.09,
             "jogador": "Edimilson Fernandes"
         },
         {
             "x": 3.75,
-            "y": 0.04,
+            "y": 0.01,
             "jogador": "Bruno Miguel Borges Fernandes"
         },
         {
             "x": 3.48,
-            "y": 0.92,
+            "y": 0.79,
             "jogador": "Fabian Lukas Schär"
         },
         {
             "x": 7.01,
-            "y": 1.01,
+            "y": 0.64,
             "jogador": "Granit Xhaka"
         },
         {
             "x": 3.53,
-            "y": 0.03,
+            "y": 0.0,
             "jogador": "Ruben Vargas"
         },
         {
             "x": 4.5,
-            "y": 1.76,
+            "y": 1.08,
             "jogador": "Xherdan Shaqiri"
         },
         {
             "x": 3.27,
-            "y": 0.03,
+            "y": 0.01,
             "jogador": "Yann Sommer"
         },
         {
             "x": 2.3,
-            "y": 0.96,
+            "y": 0.68,
             "jogador": "Remo Freuler"
         },
         {
             "x": 1.82,
-            "y": 5.65,
+            "y": 3.81,
             "jogador": "Gonçalo Matias Ramos"
         },
         {
             "x": 1.55,
-            "y": 0.01,
+            "y": 0.0,
             "jogador": "Djibril Sow"
         },
         {
             "x": 3.85,
-            "y": 0.05,
+            "y": 0.01,
             "jogador": "Eray Ervin Cömert"
         },
         {
@@ -15110,32 +15110,32 @@
         },
         {
             "x": 1.5,
-            "y": 0.86,
+            "y": 0.77,
             "jogador": "Denis Lemi Zakaria Lako Lado"
         },
         {
             "x": 1.18,
-            "y": 0.63,
+            "y": 0.21,
             "jogador": "Noah Okafor"
         },
         {
             "x": 1.18,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Vitor Machado Ferreira"
         },
         {
             "x": 1.18,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Ricardo Jorge Luz Horta"
         },
         {
             "x": 1.28,
-            "y": 0.02,
+            "y": 0.01,
             "jogador": "Rúben Diogo Da Silva Neves"
         },
         {
             "x": 0.59,
-            "y": 0.01,
+            "y": 0.09,
             "jogador": "Ardon Jashari"
         }
     ],
@@ -15173,198 +15173,5 @@
         "Xherdan Shaqiri",
         "Yann Sommer"
     ],
-    "tabela_stats": [
-        {
-            "nome": "Ardon Jashari",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "Bernardo Mota Veiga de Carvalho e Silva",
-            "passes": 46,
-            "chutes": 0,
-            "total": 46
-        },
-        {
-            "nome": "Breel-Donald Embolo",
-            "passes": 19,
-            "chutes": 2,
-            "total": 21
-        },
-        {
-            "nome": "Bruno Miguel Borges Fernandes",
-            "passes": 41,
-            "chutes": 0,
-            "total": 41
-        },
-        {
-            "nome": "Cristiano Ronaldo dos Santos Aveiro",
-            "passes": 5,
-            "chutes": 1,
-            "total": 6
-        },
-        {
-            "nome": "Denis Lemi Zakaria Lako Lado",
-            "passes": 13,
-            "chutes": 1,
-            "total": 14
-        },
-        {
-            "nome": "Diogo Meireles Costa",
-            "passes": 33,
-            "chutes": 0,
-            "total": 33
-        },
-        {
-            "nome": "Djibril Sow",
-            "passes": 16,
-            "chutes": 0,
-            "total": 16
-        },
-        {
-            "nome": "Edimilson Fernandes",
-            "passes": 53,
-            "chutes": 0,
-            "total": 53
-        },
-        {
-            "nome": "Eray Ervin Cömert",
-            "passes": 38,
-            "chutes": 0,
-            "total": 38
-        },
-        {
-            "nome": "Fabian Lukas Schär",
-            "passes": 36,
-            "chutes": 1,
-            "total": 37
-        },
-        {
-            "nome": "Gonçalo Matias Ramos",
-            "passes": 10,
-            "chutes": 6,
-            "total": 16
-        },
-        {
-            "nome": "Granit Xhaka",
-            "passes": 73,
-            "chutes": 1,
-            "total": 74
-        },
-        {
-            "nome": "Haris Seferović",
-            "passes": 6,
-            "chutes": 0,
-            "total": 6
-        },
-        {
-            "nome": "José Diogo Dalot Teixeira",
-            "passes": 36,
-            "chutes": 0,
-            "total": 36
-        },
-        {
-            "nome": "João Félix Sequeira",
-            "passes": 33,
-            "chutes": 1,
-            "total": 34
-        },
-        {
-            "nome": "Kléper Laveran Lima Ferreira",
-            "passes": 53,
-            "chutes": 2,
-            "total": 55
-        },
-        {
-            "nome": "Manuel Obafemi Akanji",
-            "passes": 63,
-            "chutes": 1,
-            "total": 64
-        },
-        {
-            "nome": "Noah Okafor",
-            "passes": 10,
-            "chutes": 1,
-            "total": 11
-        },
-        {
-            "nome": "Otávio Edmilson da Silva Monteiro",
-            "passes": 37,
-            "chutes": 1,
-            "total": 38
-        },
-        {
-            "nome": "Rafael Alexandre Conceição Leão",
-            "passes": 3,
-            "chutes": 1,
-            "total": 4
-        },
-        {
-            "nome": "Raphaël Adelino José Guerreiro",
-            "passes": 49,
-            "chutes": 2,
-            "total": 51
-        },
-        {
-            "nome": "Remo Freuler",
-            "passes": 23,
-            "chutes": 1,
-            "total": 24
-        },
-        {
-            "nome": "Ricardo Iván Rodríguez Araya",
-            "passes": 64,
-            "chutes": 0,
-            "total": 64
-        },
-        {
-            "nome": "Ricardo Jorge Luz Horta",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Ruben Vargas",
-            "passes": 35,
-            "chutes": 0,
-            "total": 35
-        },
-        {
-            "nome": "Rúben Diogo Da Silva Neves",
-            "passes": 13,
-            "chutes": 0,
-            "total": 13
-        },
-        {
-            "nome": "Rúben Santos Gato Alves Dias",
-            "passes": 45,
-            "chutes": 1,
-            "total": 46
-        },
-        {
-            "nome": "Vitor Machado Ferreira",
-            "passes": 12,
-            "chutes": 0,
-            "total": 12
-        },
-        {
-            "nome": "William Silva de Carvalho",
-            "passes": 59,
-            "chutes": 0,
-            "total": 59
-        },
-        {
-            "nome": "Xherdan Shaqiri",
-            "passes": 39,
-            "chutes": 2,
-            "total": 41
-        },
-        {
-            "nome": "Yann Sommer",
-            "passes": 34,
-            "chutes": 0,
-            "total": 34
-        }
-    ]
+    "tabela_stats": []
 }
