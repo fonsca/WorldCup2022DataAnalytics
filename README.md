@@ -15,7 +15,7 @@ Este projeto simula o fluxo completo de um **Data Scientist / Data Engineer**, i
 
 | Mapa Geral (Todos) | Filtro por Jogador | Análise de Eficiência (ML) |
 |:---:|:---:|:---:|
-| <img src="data/TodosJogadores.png" width="300"> | <img src="World_Cup_2022_DataAnalytics\data\MapaFiltrado.png" width="300"> | <img src="data/URxVAEP.png" width="300"> |
+| <img src="World_Cup_2022_DataAnalytics\data\TodosJogadores.png" width="300"> | <img src="World_Cup_2022_DataAnalytics\data\MapaFiltrado.png" width="300"> | <img src="World_Cup_2022_DataAnalytics\data\URxVAEP.png" width="300"> |
 | *Visão tática global (Passes e Chutes)* | *Ações individuais filtradas* | *Clusterização Usage x VAEP* |
 
 ---
