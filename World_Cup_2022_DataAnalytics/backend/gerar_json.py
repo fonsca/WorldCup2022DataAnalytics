@@ -12,7 +12,7 @@ PASTA_DESTINO = '../frontend/dados_json'
 if not os.path.exists(PASTA_DESTINO):
     os.makedirs(PASTA_DESTINO)
 
-print(" Passo 1/2 - Iniciando a extração de dados da Copa do Mundo 2022...")
+print(" Passo 1/4 - Iniciando a extração de dados da Copa do Mundo 2022...")
 
 # 1. Baixa e salva a lista de jogos
 jogos = listar_partidas()
@@ -43,4 +43,4 @@ for match_id, events in tqdm(todos_eventos.items(), desc="Criando Dashboard"):
     with open(caminho_partida, 'w', encoding='utf-8') as f:
         json.dump(dados_json, f, ensure_ascii=False, indent=4)
 
-print("\n🎉 SUCESSO! Todos os JSONs gerados. A inteligência do seu projeto agora é Global!")
+print("\n🎉 SUCESSO! Todos os JSONs gerados!")
