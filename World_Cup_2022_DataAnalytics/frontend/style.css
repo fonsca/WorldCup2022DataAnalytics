@@ -33,7 +33,7 @@ body {
     /* Aspect Ratio de futebol (~105m x 68m = 1.54) */
     aspect-ratio: 0.65; 
     /* Imagem de campo completo */
-    background-image: url('World_Cup_2022_DataAnalytics\data\campo.png');
+    background-image: url('campo.png');
     background-size: 100% 100%; /* FORÇA A IMAGEM A OCUPAR TUDO */
     background-position: center;
     background-color: #4CAF50;
